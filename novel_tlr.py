@@ -157,12 +157,12 @@ def main():
     retries = getNumOfRetries()
 
     prev = time.time()
+    os.system("cls")
     
     print("="*50)
     print("[*] Results")
     print("="*50)
    
-    os.system("cls")
     for name in chaps.keys():
         chap_translation = getTranslation(url, key, model, messages, chaps[name])
         for i in range(retries + 1):
