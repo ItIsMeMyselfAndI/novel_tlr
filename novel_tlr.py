@@ -57,25 +57,6 @@ def _getContext():
     time.sleep(3)
     return context
 
-# def getValidChapRange():
-#     os.system("cls")
-#     print("="*50)
-#     while True:
-#         try:
-#             chap_range = input("Enter chapter range (e.g. 10-15): ").strip().split("-")
-#             chap_range = [int(float(chap_range[0])), int(float(chap_range[1]))]
-#         except IndexError:
-#             print("[!] Error: Only enter lower and upper bounds.")
-#             continue
-#         except ValueError:
-#             print("[!] Error: Only enter integers.")
-#             continue
-#         print("="*50)
-#         print("[*] Wait for a few moments ...")
-#         print("="*50)
-#         time.sleep(3)
-#         return chap_range
-
 
 def getFolderPaths():
     os.system("cls")
@@ -118,6 +99,7 @@ def getChaps(raw_folder_path, file_names):
 
 
 def getNumOfRetries():
+    os.system("cls")
     print("="*50)
     while True:
         try:
@@ -171,8 +153,6 @@ def main():
 
     raw_folder_path, tl_folder_path = getFolderPaths()
     messages = getAISpecs()
-    # chap_range = getValidChapRange()
-    # chaps = getChaps(chap_range)
     file_names = getFileNames(raw_folder_path)
     chaps = getChaps(raw_folder_path, file_names)
     retries = getNumOfRetries()
