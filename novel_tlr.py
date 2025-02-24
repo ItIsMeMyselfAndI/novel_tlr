@@ -117,7 +117,6 @@ def getNumOfRetries():
 
 
 def getTranslation(url, key, model, messages, content):
-    os.system("cls")
     messages_cp = messages[:]
     messages_cp.append({"role": "user", "content" : f"translate this:\n{content}"})
     response = requests.post(
@@ -158,12 +157,12 @@ def main():
     retries = getNumOfRetries()
 
     prev = time.time()
-    os.system("cls")
     
     print("="*50)
     print("[*] Results")
     print("="*50)
    
+    os.system("cls")
     for name in chaps.keys():
         chap_translation = getTranslation(url, key, model, messages, chaps[name])
         for i in range(retries + 1):
