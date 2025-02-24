@@ -5,20 +5,65 @@ import sys
 import time
 from docx import Document
 
+def displayFooter():
+    print("[*] Wait for a few moments ...")
+    print("="*50)
+    time.sleep(3)
 
-def getAISpecs():
+
+def getFolderPaths():
+    os.system("cls")
+    print("="*50)
+    while True:
+        print("[*] Enter absolute folder path of the raw chapter(s):")
+        raw_folder_path = os.path.abspath(input("\t>> "))
+        if  not os.path.isdir(raw_folder_path):
+            print("[!] Error: Folder path does not exist.")
+            continue
+        break
+    print("[*] Enter absolute folder path to store the translated chapter(s):")
+    tl_folder_path = os.path.abspath(input("\t>> "))
+    os.makedirs(tl_folder_path, exist_ok=True)
+    print("="*50)
+    displayFooter()
+    return raw_folder_path, tl_folder_path
+
+
+def getChoice():
+    os.system("cls")
+    print("="*50)
+    print("[*] Do you want to update the translator specification?")
+    print("="*50)
+    while True:
+        print("[*] Enter 'y' if yes, or 'n' if no:")
+        choice = input("\t>> ").lower()
+        print("="*50)
+        if choice in ['y', 'n']:
+            displayFooter
+            return choice
+
+
+def getAISpecs(choice, specs_file="specs.json"):
+    with open(specs_file, "r", encoding="utf-8") as file:
+        specs = json.load(file)
+
+    if choice == 'y':
+            specs["in_lang"], specs["out_lang"] = _getLanguages()
+            specs["instruction"] = _getInstruction()
+            specs["context"] = _getContext()
+            specs["retries"] = _getNumOfRetries()
+            with open(specs_file, "w", encoding="utf-8") as file:
+                json.dump(specs, file, indent=4, ensure_ascii=False)
+    
     messages = []
-    in_lang, out_lang = _getLanguages()
-    instruction = _getInstruction()
-    context = _getContext()
     messages.append(
-        {"role": "system", "content": f"you are a professional novel translator from {in_lang} to {out_lang}"}
+        {"role": "system", "content": f"you are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}"}
     )
     messages.append(
         {"role": "assistant", 
-        "content": f"Understood. I will follow this instruction: {instruction}\nAnd I will base my translation from this context: {context}"}
+        "content": f"Understood. I will follow this instruction: {specs["instruction"]}\nAnd I will base my translation from this context: {specs["context"]}"}
     )
-    return messages
+    return messages, specs["retries"]
 
 def _getLanguages():
     os.system("cls")
@@ -26,57 +71,45 @@ def _getLanguages():
     in_lang = input("[*] Enter input Language: ")
     out_lang = input("[*] Enter output Language: ")
     print("="*50)
-    print("[*] Wait for a few moments ...")
-    print("="*50)
-    time.sleep(3)
+    displayFooter()
     return in_lang, out_lang
 
 def _getInstruction():
     os.system("cls")
     print("="*50)
-    print("[*] Enter the instruction to guide the AI.")
+    print("[*] Enter the instruction for guiding the Translator.")
     print("[*] Press {Enter} >> {Ctrl + Z} >> {Enter} in order once done.")
     print("="*50)
     instruction = sys.stdin.read().strip()
     print("="*50)
-    print("[*] Wait for a few moments ...")
-    print("="*50)
-    time.sleep(3)
-    return instruction
+    displayFooter()
+    return '{' + instruction + '}'
 
 def _getContext():
     os.system("cls")
     print("="*50)
-    print("[*] Enter the context/settings for the AI to base upon.")
+    print("[*] Enter the context/settings for the Translation.")
     print("[*] Press {Enter} >> {Ctrl + Z} >> {Enter} in order once done.")
     print("="*50)
     context = sys.stdin.read().strip()
     print("="*50)
-    print("[*] Wait for a few moments ...")
-    print("="*50)
-    time.sleep(3)
-    return context
+    displayFooter()
+    return '{' + context + '}'
 
-
-def getFolderPaths():
+def _getNumOfRetries():
     os.system("cls")
     print("="*50)
     while True:
-        print("[*] Enter folder path of the raw chapter(s):")
-        raw_folder_path = os.path.abspath(input("\t>> "))
-        if  not os.path.isdir(raw_folder_path):
-            print("[!] Error: Folder path does not exist.")
+        try:
+            print("[*] Enter number of re-tries for translation failure of each chapter.")
+            print("[*] Enter '0' if you don't want to re-try any translation failure.")
+            retries = int(float(input("\t>> ")))
+        except ValueError:
+            print("[!] Error: Invalid input. Only enter an integer.")
             continue
         print("="*50)
-        break
-    print("[*] Enter folder path of the translated chapter(s):")
-    tl_folder_path = os.path.abspath(input("\t>> "))
-    os.makedirs(tl_folder_path, exist_ok=True)
-    print("="*50)
-    print("[*] Wait for a few moments ...")
-    print("="*50)
-    time.sleep(3)
-    return raw_folder_path, tl_folder_path
+        displayFooter()
+        return retries
 
 
 def getFileNames(raw_folder_path):
@@ -96,24 +129,6 @@ def getChaps(raw_folder_path, file_names):
         content = "\n".join([p.text for p in document.paragraphs])
         chaps[name[:i]] = content
     return chaps
-
-
-def getNumOfRetries():
-    os.system("cls")
-    print("="*50)
-    while True:
-        try:
-            print("[*] Enter number of re-tries for failed translation of each chapter.")
-            print("[*] Enter '0' if you don't want to re-try.")
-            retries = int(float(input("\t>> ")))
-        except ValueError:
-            print("[!] Error: Invalid input. Only enter an integer.")
-            continue
-        print("="*50)
-        print("[*] Wait for a few moments ...")
-        print("="*50)
-        time.sleep(3)
-        return retries
 
 
 def getTranslation(url, key, model, messages, content):
@@ -151,10 +166,18 @@ def main():
     model="deepseek/deepseek-chat:free"
 
     raw_folder_path, tl_folder_path = getFolderPaths()
-    messages = getAISpecs()
+    choice = getChoice()
+    messages, retries = getAISpecs(choice)
     file_names = getFileNames(raw_folder_path)
+    if not file_names:
+        os.system("cls")
+        print("="*50)
+        print("[!] Error: Folder containing the raw chapters is empty")
+        print("[*] Exiting the program ...")
+        print("="*50)
+        return
+
     chaps = getChaps(raw_folder_path, file_names)
-    retries = getNumOfRetries()
 
     prev = time.time()
     os.system("cls")

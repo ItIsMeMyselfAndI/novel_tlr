@@ -1,0 +1,7 @@
+{
+    "in_lang": "{auto}",
+    "out_lang": "{english}",
+    "instruction": "{}",
+    "context": "{}", 
+    "retries": 20
+}
