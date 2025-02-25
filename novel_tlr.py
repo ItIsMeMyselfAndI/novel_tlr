@@ -56,9 +56,9 @@ def getAISpecs(specs_file="specs.json"):
         json.dump(specs, file, indent=4, ensure_ascii=False)
     
     messages = [
-        {"role": "system", "content": f"You are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}."},
+        {"role": "system", "content": f"You are a professional novel translator from {specs["in_lang"]} to {specs["out_lang"]}."},
         {"role": "user", "content": f"{specs["instruction"]}"},
-        {"role": "assistant", "content": f"Understood. I will base my translation from this context: {specs["context"]}"}
+        {"role": "assistant", "content": f"Understood. I've memorized every hangul and their english translation in this context: {specs["context"]}"}
     ]
     return messages, specs["retries"]
 
@@ -148,6 +148,7 @@ def getChaps(raw_folder_path, file_names):
         chaps[name[:i]] = content
     return chaps
 
+
 def getTranslation(url, key, model, messages, content):
     messages_cp = messages[:]
     messages_cp.append({"role": "user", "content" : f"translate this:\n{content}"})
@@ -163,8 +164,11 @@ def getTranslation(url, key, model, messages, content):
         })
     )
     response_json = response.json()
-    if "choices" in response_json.keys():
-        chap_translation = response_json["choices"][0]["message"]["content"]
+    chap_translation = ""
+    if "choices" not in response_json.keys():
+        return
+    for choice in response_json["choices"]:
+        chap_translation += choice["message"]["content"] + "\n"
         return chap_translation
 
 
