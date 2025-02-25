@@ -5,6 +5,7 @@ import sys
 import time
 from docx import Document
 
+
 def displayFooter():
     print("[*] Wait for a few moments ...")
     print("="*50)
@@ -55,14 +56,16 @@ def getAISpecs(choice, specs_file="specs.json"):
             with open(specs_file, "w", encoding="utf-8") as file:
                 json.dump(specs, file, indent=4, ensure_ascii=False)
     
-    messages = []
-    messages.append(
-        {"role": "system", "content": f"you are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}"}
-    )
-    messages.append(
-        {"role": "assistant", 
-        "content": f"Understood. I will follow this instruction: {specs["instruction"]}\nAnd I will base my translation from this context: {specs["context"]}"}
-    )
+    messages = [
+    {
+        "role": "system", 
+        "content": f"You are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}. {specs["instruction"]}"
+    },
+    {
+        "role": "assistant", 
+        "content": f"Understood. I will base my translation from this context: {specs["context"]}"
+    }
+    ]
     return messages, specs["retries"]
 
 def _getLanguages():
@@ -175,6 +178,7 @@ def main():
         print("[!] Error: Folder containing the raw chapters is empty")
         print("[*] Exiting the program ...")
         print("="*50)
+        time.sleep(3)
         return
 
     chaps = getChaps(raw_folder_path, file_names)
