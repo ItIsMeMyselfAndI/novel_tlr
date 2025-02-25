@@ -58,7 +58,7 @@ def getAISpecs(specs_file="specs.json"):
     messages = [
         {"role": "system", "content": f"You are a professional novel translator from {specs["in_lang"]} to {specs["out_lang"]}."},
         {"role": "user", "content": f"{specs["instruction"]}"},
-        {"role": "assistant", "content": f"Understood. I've memorized every hangul and their english translation in this context: {specs["context"]}"}
+        {"role": "assistant", "content": f"Understood. I will cross-check the hangul and their english translation based on this context: {specs["context"]}"}
     ]
     return messages, specs["retries"]
 
