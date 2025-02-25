@@ -30,43 +30,58 @@ def getFolderPaths():
     return raw_folder_path, tl_folder_path
 
 
-def getChoice():
-    os.system("cls")
-    print("="*50)
-    print("[*] Do you want to update the translator specification?")
-    print("="*50)
+def getAISpecs(specs_file="specs.json"):
+    try:
+        with open(specs_file, "r", encoding="utf-8") as file:
+            specs = json.load(file)
+    except json.decoder.JSONDecodeError:
+        specs = {
+            "in_lang": "{auto}",
+            "out_lang": "{english}",
+            "instruction": "{None}",
+            "context" : "{None}",
+            "retries": 100
+        }
+
     while True:
-        print("[*] Enter 'y' if yes, or 'n' if no:")
-        choice = input("\t>> ").lower()
-        print("="*50)
-        if choice in ['y', 'n']:
-            displayFooter
-            return choice
+        choice = _getMenuChoice()
+        if choice == '1': break
+        if choice == '2': specs["in_lang"], specs["out_lang"] = _getLanguages()
+        elif choice == '3': specs["instruction"] = _getInstruction()
+        elif choice == '4': specs["context"] = _getContext()
+        elif choice == '5': specs["retries"] = _getNumOfRetries()
+        elif choice == 'q': return
 
-
-def getAISpecs(choice, specs_file="specs.json"):
-    with open(specs_file, "r", encoding="utf-8") as file:
-        specs = json.load(file)
-
-    if choice == 'y':
-            specs["in_lang"], specs["out_lang"] = _getLanguages()
-            specs["instruction"] = _getInstruction()
-            specs["context"] = _getContext()
-            specs["retries"] = _getNumOfRetries()
-            with open(specs_file, "w", encoding="utf-8") as file:
-                json.dump(specs, file, indent=4, ensure_ascii=False)
+    with open(specs_file, "w", encoding="utf-8") as file:
+        json.dump(specs, file, indent=4, ensure_ascii=False)
     
     messages = [
-    {
-        "role": "system", 
-        "content": f"You are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}. {specs["instruction"]}"
-    },
-    {
-        "role": "assistant", 
-        "content": f"Understood. I will base my translation from this context: {specs["context"]}"
-    }
+        {"role": "system", "content": f"You are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}."},
+        {"role": "user", "content": f"{specs["instruction"]}"},
+        {"role": "assistant", "content": f"Understood. I will base my translation from this context: {specs["context"]}"}
     ]
     return messages, specs["retries"]
+
+def _getMenuChoice():
+    while True:
+        os.system("cls")
+        print("="*50)
+        print("[*] Menu")
+        print("="*50)
+        lines = (
+            "\t1 - Proceed translating\n"
+            "\t2 - Change input/output languages\n"
+            "\t3 - Change instruction content\n"
+            "\t4 - Change context/settings\n"
+            "\t5 - Change number of re-tries\n"
+            "\tq - Exit program"
+        )
+        print(lines)
+        print("="*50)
+        choice = input("[*] Enter menu choice (1-4): ")
+        if choice in ['1', '2', '3', '4', '5', 'q']:
+            print("="*50)
+            return choice
 
 def _getLanguages():
     os.system("cls")
@@ -75,7 +90,7 @@ def _getLanguages():
     out_lang = input("[*] Enter output Language: ")
     print("="*50)
     displayFooter()
-    return in_lang, out_lang
+    return '{'+in_lang+'}', '{'+out_lang+'}'
 
 def _getInstruction():
     os.system("cls")
@@ -86,7 +101,7 @@ def _getInstruction():
     instruction = sys.stdin.read().strip()
     print("="*50)
     displayFooter()
-    return '{' + instruction + '}'
+    return '{'+instruction+'}'
 
 def _getContext():
     os.system("cls")
@@ -97,7 +112,7 @@ def _getContext():
     context = sys.stdin.read().strip()
     print("="*50)
     displayFooter()
-    return '{' + context + '}'
+    return '{'+context+'}'
 
 def _getNumOfRetries():
     os.system("cls")
@@ -133,7 +148,6 @@ def getChaps(raw_folder_path, file_names):
         chaps[name[:i]] = content
     return chaps
 
-
 def getTranslation(url, key, model, messages, content):
     messages_cp = messages[:]
     messages_cp.append({"role": "user", "content" : f"translate this:\n{content}"})
@@ -165,12 +179,11 @@ def main():
     url="https://openrouter.ai/api/v1/chat/completions"
     # key = "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"
     # model = "deepseek/deepseek-r1:free"
-    key = "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"
+    key = "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"
     model="deepseek/deepseek-chat:free"
 
     raw_folder_path, tl_folder_path = getFolderPaths()
-    choice = getChoice()
-    messages, retries = getAISpecs(choice)
+    messages, retries = getAISpecs()
     file_names = getFileNames(raw_folder_path)
     if not file_names:
         os.system("cls")
