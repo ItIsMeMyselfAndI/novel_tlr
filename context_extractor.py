@@ -8,8 +8,8 @@ import winsound
 def extractContext(messages, chap):
     url="https://openrouter.ai/api/v1/chat/completions"
     # key = "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"
-    # model = "deepseek/deepseek-r1:free"
-    key = "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"
+    # key = "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"
+    key = "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"
     model="deepseek/deepseek-chat:free"
         
     for _ in range(10):
@@ -31,6 +31,7 @@ def extractContext(messages, chap):
             if ('{' in new_context) and '}' in new_context:
                 print(f"[*] Successful extraction - {chap}")
                 _displayUsageInfo(response_json)
+                winsound.Beep(1000, 1*1000) # hz, ms
                 return f"Chapter {chap}: {new_context}"
             print(f"[!] Error: Incomplete extraction - {chap} >> Restarting ...")
         else:
@@ -76,8 +77,8 @@ def main():
         context = file.read().strip()
     
     confirmation = (
-        f"Understood. I will extract only the nouns that doesn't exist in this context/dictionary:\n"
-        f"[{context}]\n"
+        f"Understood. I will extract only the relevant nouns to the context that doesn't exist in this dictionary:\n"
+        f"[\n{context}\n]\n"
         f"Then, I will translate it to {out_lang} and will only respond strictly with this format display, nothing else:\n"
         "\t{\"hangul1\" – \"english1\". \"hangul2\" – \"english2\" \"hangul3\" – \"english3\".};\n"
         "However, if there's no new noun, I will just display:\n"
@@ -123,6 +124,8 @@ def main():
 
 if __name__ == "__main__":
     main()
-    winsound.Beep(1000, 1*1000)
+    for i in range(3):
+        winsound.Beep(1000, int(0.5*1000))
+        time.sleep(0.5)
 
     

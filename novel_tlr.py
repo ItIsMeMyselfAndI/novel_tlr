@@ -14,21 +14,21 @@ def displayFooter():
     time.sleep(3)
 
 
-def getFolderPaths():
-    os.system("cls")
-    print("="*50)
-    while True:
-        print("[*] Enter absolute folder path of the raw chapter(s):")
-        raw_folder_path = os.path.abspath(input("\t>> "))
-        if  not os.path.isdir(raw_folder_path):
-            print("[!] Error: Folder path does not exist.")
-            continue
-        break
-    print("[*] Enter absolute folder path to store the translated chapter(s):")
-    tl_folder_path = os.path.abspath(input("\t>> ").strip())
-    os.makedirs(tl_folder_path, exist_ok=True)
-    displayFooter()
-    return raw_folder_path, tl_folder_path
+# def getFolderPaths():
+#     os.system("cls")
+#     print("="*50)
+#     while True:
+#         print("[*] Enter absolute folder path of the raw chapter(s):")
+#         raw_folder_path = os.path.abspath(input("\t>> "))
+#         if  not os.path.isdir(raw_folder_path):
+#             print("[!] Error: Folder path does not exist.")
+#             continue
+#         break
+#     print("[*] Enter absolute folder path to store the translated chapter(s):")
+#     tl_folder_path = os.path.abspath(input("\t>> ").strip())
+#     os.makedirs(tl_folder_path, exist_ok=True)
+#     displayFooter()
+#     return raw_folder_path, tl_folder_path
 
 
 def getAISpecs(specs_file="specs.json"):
@@ -44,21 +44,25 @@ def getAISpecs(specs_file="specs.json"):
             "retries": 100
         }
 
-    while True:
-        choice = _getMenuChoice()
-        if choice == '1': break
-        if choice == '2': specs["in_lang"], specs["out_lang"] = _getLanguages()
-        elif choice == '3': specs["instruction"] = _getInstruction()
-        elif choice == '4': specs["context"] = _rmNewLine(_getContext())
-        elif choice == '5': specs["retries"] = _getNumOfRetries()
-        elif choice == 'q':
-            print("[*] Exiting program ...")
-            print("="*50)
-            time.sleep(3)
-            sys.exit()
-
+    specs["context"] = _getContext()
     with open(specs_file, "w", encoding="utf-8") as file:
         json.dump(specs, file, indent=4, ensure_ascii=False)
+        
+    # while True:
+    #     choice = _getMenuChoice()
+    #     if choice == '1': break
+    #     if choice == '2': specs["in_lang"], specs["out_lang"] = _getLanguages()
+    #     elif choice == '3': specs["instruction"] = _getInstruction()
+    #     elif choice == '4': specs["context"] = _rmNewLine(_getContext())
+    #     elif choice == '5': specs["retries"] = _getNumOfRetries()
+    #     elif choice == 'q':
+    #         print("[*] Exiting program ...")
+    #         print("="*50)
+    #         time.sleep(3)
+    #         sys.exit()
+
+    #     with open(specs_file, "w", encoding="utf-8") as file:
+    #         json.dump(specs, file, indent=4, ensure_ascii=False)
 
     role = f"You are a professional novel translator of {specs["in_lang"]} to {specs["out_lang"]}."
     confirmation = (
@@ -101,7 +105,7 @@ def _getLanguages():
     in_lang = input("[*] Enter input Language: ").strip()
     out_lang = input("[*] Enter output Language: ").strip()
     displayFooter()
-    return '['+in_lang+']', '['+out_lang+']'
+    return f"[\n{in_lang}\n]", f"[\n{out_lang}\n]"
 
 def _getInstruction():
     os.system("cls")
@@ -114,14 +118,17 @@ def _getInstruction():
     return '['+instruction+']'
 
 def _getContext():
-    os.system("cls")
-    print("="*50)
-    print("[*] Enter the context/settings for the Translation.")
-    print("[*] Press {Enter} >> {Ctrl + Z} >> {Enter} in order once done.")
-    print("="*50)
-    context = sys.stdin.read().strip()
-    displayFooter()
-    return '['+context+']'
+    context_file = "context.txt"
+    with open(context_file, "r", encoding="utf-8") as file:
+        context = file.read().strip()
+    # os.system("cls")
+    # print("="*50)
+    # print("[*] Enter the context/settings for the Translation.")
+    # print("[*] Press {Enter} >> {Ctrl + Z} >> {Enter} in order once done.")
+    # print("="*50)
+    # context = sys.stdin.read().strip()
+    # displayFooter()
+    return f"[\n{context}\n]"
 
 def _getNumOfRetries():
     os.system("cls")
@@ -137,16 +144,16 @@ def _getNumOfRetries():
         displayFooter()
         return retries
 
-def _rmNewLine(text):
-    text_list = text.split("\n")
-    new_text = ""
-    for elem in text_list:
-        if elem == "":
-            continue
-        new_text += elem
-        if elem[-1] != " ":
-            new_text += " "
-    return new_text
+# def _rmNewLine(text):
+#     text_list = text.split("\n")
+#     new_text = ""
+#     for elem in text_list:
+#         if elem == "":
+#             continue
+#         new_text += elem
+#         if elem[-1] != " ":
+#             new_text += " "
+#     return new_text
 
 
 def getFileNames(raw_folder_path):
@@ -171,8 +178,8 @@ def getChaps(raw_folder_path, file_names):
 def getTranslation(chap, messages, content, retries):
     url="https://openrouter.ai/api/v1/chat/completions"
     # key = "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"
-    # model = "deepseek/deepseek-r1:free"
-    key = "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"
+    # key = "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"
+    key = "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"
     model="deepseek/deepseek-chat:free"
 
     messages[3]["content"] = f"translate this:\n{content}"
@@ -194,6 +201,7 @@ def getTranslation(chap, messages, content, retries):
             if "**CHAPTER END**" in chap_translation:
                 print(f"[*] Successful translation - {chap}")
                 _displayUsageInfo(response_json)
+                winsound.Beep(1000, 1*1000) # hz, ms
                 return chap_translation
             print(f"[!] Error: Incomplete extraction - {chap} >> Restarting ...")
         else:
@@ -222,7 +230,9 @@ def saveChap(text, folder_path, file_name):
 
 
 def main():
-    raw_folder_path, tl_folder_path = getFolderPaths()
+    raw_folder_path = os.path.abspath(".\\raw")
+    tl_folder_path = os.path.abspath(".\\tl")
+    # raw_folder_path, tl_folder_path = getFolderPaths()
     messages, retries = getAISpecs()
     file_names = getFileNames(raw_folder_path)
     if not file_names:
@@ -261,4 +271,6 @@ def main():
             
 if __name__ == "__main__":
     main()
-    winsound.Beep(1000, 1*1000) # hz, ms
+    for i in range(3):
+        winsound.Beep(1000, int(0.5*1000)) # hz, ms
+        time.sleep(0.5)
