@@ -178,8 +178,8 @@ def getChaps(raw_folder_path, file_names):
 def getTranslation(chap, messages, content, retries):
     url="https://openrouter.ai/api/v1/chat/completions"
     # key = "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"
-    # key = "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"
-    key = "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"
+    key = "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"
+    # key = "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"
     model="deepseek/deepseek-chat:free"
 
     messages[3]["content"] = f"translate this:\n{content}"
@@ -204,9 +204,9 @@ def getTranslation(chap, messages, content, retries):
                 winsound.Beep(1000, 1*1000) # hz, ms
                 return chap_translation
             print(f"[!] Error: Incomplete extraction - {chap} >> Restarting ...")
+            _displayUsageInfo(response_json["usage"])
         else:
             print(f"[!] Error: No response - {chap} >> Restarting ...")
-        _displayUsageInfo(response_json["usage"])
 
 def _displayUsageInfo(response_json):
     usage = response_json.get("usage", {})
@@ -259,12 +259,13 @@ def main():
             print(f"[!] Unsuccessful extraction - {chap}")
             continue
         saveChap(chap_translation, tl_folder_path, chap)
+        time.sleep(0.5)
   
     curr = time.time()
     elapsed = curr - prev
 
     print("="*50)
-    print(f"[*] Elapsed time is {elapsed}")
+    print(f"[*] Elapsed time is {elapsed}s")
     print(f"[*] Output path is '{tl_folder_path}'")
     print("="*50)
 

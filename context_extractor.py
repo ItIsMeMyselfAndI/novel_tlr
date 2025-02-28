@@ -7,9 +7,9 @@ import winsound
 
 def extractContext(messages, chap):
     url="https://openrouter.ai/api/v1/chat/completions"
-    # key = "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"
+    key = "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"
     # key = "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"
-    key = "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"
+    # key = "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"
     model="deepseek/deepseek-chat:free"
         
     for _ in range(10):
@@ -53,6 +53,26 @@ def _displayUsageInfo(response_json):
     print(info)
 
 
+def getMessages(sys_role, instruction, context, out_lang):
+    confirmation = (
+        f"Understood. Context/Dictionary:\n[\n{context}\n]\n"
+        "I will cross-check each word/phrase in the dictionary carefully. I will strictly extract only the relevant and important hangul nouns unique to the storyline of the text you will provide that doesn't exist to the context/dictionary."
+        f"Then, I will translate it to {out_lang} and will only respond strictly with this format display, no reaffirmation, nothing else:\n"
+        "\t{\"hangul1\" – \"english1\" ; \"hangul2\" – \"english2\" ; \"hangul3\" – \"english3\"}\n"
+        "However, if there's no new noun, I will just display:\n"
+        "\t{None}\n"
+        "For name (unique/personal identity)  only, I will add male or female to it. Example:\n"
+        "\t\"hangul3\" – \"english3\", male"
+    )
+    messages = [
+        {"role":"system", "content":sys_role},
+        {"role":"user", "content":instruction},
+        {"role":"assistant", "content":confirmation},
+        {"role":"user", "content":""}
+    ]
+    return messages, confirmation
+
+
 def main():
     os.system("cls")
     prev = time.time()
@@ -71,30 +91,15 @@ def main():
             chaps.append(chap.split(".")[0])
     
     sys_role = f"You are an expert reader and context writer of both {in_lang} and {out_lang}."
-    instruction = f"I want you to extract new nouns that don't exist in the {in_lang} text that I will give you by cross-checking the context/dictionary you've previously created."
+    instruction = f"I want you to extract new nouns from the {in_lang} text that I will give you by cross-checking the context/dictionary you've previously created."
     
     with open(context_file, "r", encoding="utf-8") as file:
         context = file.read().strip()
     
-    confirmation = (
-        f"Understood. I will extract only the relevant nouns to the context that doesn't exist in this dictionary:\n"
-        f"[\n{context}\n]\n"
-        f"Then, I will translate it to {out_lang} and will only respond strictly with this format display, nothing else:\n"
-        "\t{\"hangul1\" – \"english1\". \"hangul2\" – \"english2\" \"hangul3\" – \"english3\".};\n"
-        "However, if there's no new noun, I will just display:\n"
-        "\t{None};\n"
-        "For name (unique/personal identity)  only, add male or female to it. Example:\n"
-        "\t\"hangul3\" – \"english3\", male"
-    )
-    messages = [
-        {"role":"system", "content":sys_role},
-        {"role":"user", "content":instruction},
-        {"role":"assistant", "content":confirmation},
-        {"role":"user", "content":""}
-    ]
-    
     extracted_context = context
     for i in chaps:
+        messages, confirmation = getMessages(sys_role, instruction, context, out_lang)  
+        
         document = Document(os.path.join(raw_folder_path, f"{i}.docx"))
         text = "\n".join([p.text for p in document.paragraphs])
         messages[3]["content"] = f"{in_lang.upper()} text:\n\n{text}"
@@ -104,21 +109,26 @@ def main():
             print(f"[!] Unsuccessful extraction - {i}")
             continue
 
-        extracted_context += f"\n\n{new_context}"
         confirmation = f"{confirmation[:-1]} {new_context}]"
         messages[2]["content"] = confirmation
 
+        extracted_context += f"\n\n{new_context}"
         # update context file
         with open(context_file, "w", encoding="utf-8") as file:
             file.write(extracted_context)
         # update context in memory
-        with open(context_file, "r", encoding="utf-8") as file:
-            context = file.read().strip()
+        context = extracted_context
+
+        with open("log.txt", "a", encoding="utf-8") as file:
+            file.write(context + f"\n{"="*50}\n")
+
+        time.sleep(0.5)
+
 
     print("="*50)
     curr = time.time()
     elapsed = curr - prev
-    print(f"[*] Elapsed time is {elapsed}")
+    print(f"[*] Elapsed time is {elapsed}s")
     print("="*50)
 
 
@@ -126,6 +136,6 @@ if __name__ == "__main__":
     main()
     for i in range(3):
         winsound.Beep(1000, int(0.5*1000))
-        time.sleep(0.5)
+        time.sleep(0.3)
 
     
