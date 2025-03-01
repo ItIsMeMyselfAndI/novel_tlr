@@ -28,11 +28,11 @@ def extractContext(messages, chap):
         response_json = response.json()
         if "choices" in response_json.keys():
             new_context = response_json["choices"][0]["message"]["content"].strip()
-            if ('{' in new_context) and '}' in new_context:
+            if "- End: \"End\"" in new_context:
                 print(f"[*] Successful extraction - {chap}")
                 _displayUsageInfo(response_json)
                 winsound.Beep(1000, 1*1000) # hz, ms
-                return f"Chapter {chap}: {new_context}"
+                return f"### Chapter {chap}\n{new_context}"
             print(f"[!] Error: Incomplete extraction - {chap} >> Restarting ...")
         else:
             print(f"[!] Error: No response - {chap} >> Restarting ...")
@@ -53,16 +53,24 @@ def _displayUsageInfo(response_json):
     print(info)
 
 
-def getMessages(sys_role, instruction, context, out_lang):
+def getMessages(context, in_lang, out_lang):
+    sys_role = f"You are an expert reader and context writer of both {in_lang} and {out_lang}."
+    instruction = (
+        f"I want you to extract nouns from the {in_lang} text that I will give you. "
+        "I want you to refer to the context/dictionary you've previously created for "
+        "the spelling of the already existing ones by cross-checking each translations."
+    )
     confirmation = (
-        f"Understood. Context/Dictionary:\n[\n{context}\n]\n"
-        "I will cross-check each word/phrase in the dictionary carefully. I will strictly extract only the relevant and important hangul nouns unique to the storyline of the text you will provide that doesn't exist to the context/dictionary."
-        f"Then, I will translate it to {out_lang} and will only respond strictly with this format display, no reaffirmation, nothing else:\n"
-        "\t{\"hangul1\" – \"english1\" ; \"hangul2\" – \"english2\" ; \"hangul3\" – \"english3\"}\n"
-        "However, if there's no new noun, I will just display:\n"
-        "\t{None}\n"
-        "For name (unique/personal identity)  only, I will add male or female to it. Example:\n"
-        "\t\"hangul3\" – \"english3\", male"
+        f"Understood. I will use this context as a guide - Context/Dictionary:\n[\n{context}\n]\n"
+        "I will look for each noun (e.g. organization/leadership roles/monarch title/monsters/species/names/skills/location/events/dungeons/substances/items/ability/phenomenon/etc.) in the text carefully. I will strictly extract only the relevant and important hangul nouns unique to the storyline of the text you will provide and refer to the context/dictionary for the translation of the existing ones."
+        f"Then, I will translate the hangul nouns to {out_lang} and will only respond strictly with this format display, no reaffirmation, nothing else:\n"
+        "- {hangul1}: \"{english1}\"\n"
+        "- {hangul2}: \"{english2}\"\n"
+        "- {hangul3}: \"{english3}\"\n"
+        "For name (unique/personal identity) only, I will add male or female to it. Example:\n"
+        "- {hangul3}: \"{english3}\" (male)\n"
+        "After displaying everything, I will end it with:\n"
+        "- End: \"End\""
     )
     messages = [
         {"role":"system", "content":sys_role},
@@ -70,7 +78,7 @@ def getMessages(sys_role, instruction, context, out_lang):
         {"role":"assistant", "content":confirmation},
         {"role":"user", "content":""}
     ]
-    return messages, confirmation
+    return messages
 
 
 def main():
@@ -89,17 +97,12 @@ def main():
     for chap in files[:]:
         if ("~$" not in chap) and (chap != ".git"):
             chaps.append(chap.split(".")[0])
-    
-    sys_role = f"You are an expert reader and context writer of both {in_lang} and {out_lang}."
-    instruction = f"I want you to extract new nouns from the {in_lang} text that I will give you by cross-checking the context/dictionary you've previously created."
-    
+
     with open(context_file, "r", encoding="utf-8") as file:
         context = file.read().strip()
     
-    extracted_context = context
     for i in chaps:
-        messages, confirmation = getMessages(sys_role, instruction, context, out_lang)  
-        
+        messages = getMessages(context, in_lang, out_lang)  
         document = Document(os.path.join(raw_folder_path, f"{i}.docx"))
         text = "\n".join([p.text for p in document.paragraphs])
         messages[3]["content"] = f"{in_lang.upper()} text:\n\n{text}"
@@ -109,18 +112,14 @@ def main():
             print(f"[!] Unsuccessful extraction - {i}")
             continue
 
-        confirmation = f"{confirmation[:-1]} {new_context}]"
-        messages[2]["content"] = confirmation
-
-        extracted_context += f"\n\n{new_context}"
         # update context file
-        with open(context_file, "w", encoding="utf-8") as file:
-            file.write(extracted_context)
+        with open(context_file, "a", encoding="utf-8") as file:
+            file.write(f"\n\n---\n\n{new_context}")
         # update context in memory
-        context = extracted_context
+        # context = extracted_context
 
-        with open("log.txt", "a", encoding="utf-8") as file:
-            file.write(context + f"\n{"="*50}\n")
+        # with open("log.txt", "a", encoding="utf-8") as file:
+        #     file.write(context + f"\n{"="*50}\n")
 
         time.sleep(0.5)
 
