@@ -7,19 +7,26 @@ import winsound
 
 def createBookOBJ(book_title):
     book = epub.EpubBook()
-    book.set_identifier(f"id_101")
+    book.set_identifier(f"id_102")
     book.set_title(book_title)
     book.set_language("en")
-    book.add_author("Daul")
+    book.add_author("Chugong")
     book.add_author("phan2m", uid="translator")
     return book
 
 
-def createChaps(tl_folder):
+def createChaps(input_folder_path):
     chaps = {}
-    filenames = [ch for ch in os.listdir(tl_folder) if ("~$" not in ch) and (ch != ".git")]
+    ch_nums = [int(ch.split(".")[0]) for ch in os.listdir(input_folder_path) if ("~$" not in ch) and (".docx" in ch)]
+    filenames = []
+    while ch_nums:
+        low = min(ch_nums)
+        filenames.append(f"{low}.docx")
+        del ch_nums[ch_nums.index(low)]
+    # print(filenames)
+    
     for f in filenames:
-        docx_path = os.path.join(tl_folder, f)
+        docx_path = os.path.join(input_folder_path, f)
         content = []
         # paragraphs 
         text = [p.text for p in Document(docx_path).paragraphs]
@@ -82,13 +89,15 @@ def main():
     print("="*50)
     print("[*] Creating Epub file ...")
     print("="*50)
-    
-    tl_folder = os.path.abspath(".\\tl")
 
-    book_title = "Solo Leveling - Ragnarok"
+    title = "SL" 
+    series_folder_path = f".\\books\\{title}"
+    input_folder_path = os.path.join(series_folder_path, "tl")
+
+    book_title = "Solo Leveling"
     book = createBookOBJ(book_title)
 
-    chaps = createChaps(tl_folder)
+    chaps = createChaps(input_folder_path)
     for obj in chaps.values():
         book.add_item(obj)
 
