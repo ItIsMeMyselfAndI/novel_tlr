@@ -1,0 +1,4695 @@
+### Chapter 0 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- End: "End"
+
+### Chapter 0 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 일일 퀘스트: "Daily Quest"
+- End: "End"
+
+### Chapter 0 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 퀘스트: "Quest"
+- 정보창: "Information Window"
+- 일일 퀘스트: "Daily Quest"
+- End: "End"
+
+### Chapter 0 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 일일 퀘스트: "Daily Quest"  
+- 페널티: "Penalty"  
+- End: "End"
+
+### Chapter 0 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- End: "End"
+
+---
+
+### Chapter 1 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- E급 헌터: "E-rank Hunter"
+- 성진우: "Sung Jin-Woo" (male)
+- 진우: "Jin-Woo" (male)
+- 헌터협회: "Hunters Association"
+- 헌터증: "Hunter License"
+- 레이드: "Raid"
+- 게이트: "Gate"
+- 김 씨: "Mr. Kim" (male)
+- 박 씨: "Mr. Park" (male)
+- End: "End"
+
+### Chapter 1 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 협회: "Association"
+- 길드: "Guild"
+- 레이드: "Raid"
+- 헌터: "Hunter"
+- 게이트: "Gate"
+- 박 씨: "Mr. Park" (male)
+- 김 씨: "Mr. Kim" (male)
+- 성 씨: "Mr. Sung" (male)
+- 성진우: "Sung Jin-Woo" (male)
+- 진우: "Jin-Woo" (male)
+- 인류 최약병기: "Humanity's Weakest Weapon"
+- S급: "S-rank"
+- 최종인 헌터: "Hunter Choi Jong-In" (male)
+- End: "End"
+
+### Chapter 1 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 레이드: "Raid"
+- 김 씨: "Mr. Kim" (male)
+- E급 게이트: "E-rank Gate"
+- 헌터: "Hunter"
+- 치유 헌터: "Healer-type Hunter"
+- 박 씨: "Mr. Park" (male)
+- 성 씨: "Mr. Sung" (male)
+- 진우: "Jin-Woo" (male)
+- 성진우 헌터: "Hunter Sung Jin-Woo" (male)
+- 치료 마법: "Healing Magic"
+- 이주희: "Lee Joo-Hee" (female)
+- 주희: "Joo-Hee" (female)
+- 게이트: "Gate"
+- 던전: "Dungeon"
+- D급: "D-rank"
+- E급 헌터: "E-rank Hunter"
+- 치유 헌터들: "Healer-type Hunters"
+- End: "End"
+
+### Chapter 1 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터: "Hunter"
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- 레이드: "Raid"
+- 마수: "Magic Beast"
+- E급: "E-rank"
+- 마정석: "Essence stones"
+- C급: "C-rank"
+- E급 헌터: "E-rank Hunter"
+- 던전: "Dungeon"
+- 이중 던전: "Double Dungeon"
+- 송 씨: "Mr. Song" (male)
+- 불꽃 마법: "Fire Magic"
+- End: "End"
+
+### Chapter 1 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 게이트: "Gate"
+- 던전: "Dungeon"
+- 보스: "Boss"
+- 헌터: "Hunter"
+- 협회: "Association"
+- 레이드: "Raid"
+- 송 씨: "Mr. Song" (male)
+- 박 씨: "Mr. Park" (male)
+- 김 씨: "Mr. Kim" (male)
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- 성 씨: "Mr. Sung" (male)
+- End: "End"
+
+---
+
+### Chapter 2 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진우: "Jin-Woo" (male)
+- E급 마정석: "E-rank Essence Stone"
+- 주희: "Joo-Hee" (female)
+- 박 씨: "Mr. Park" (male)
+- 송 씨: "Mr. Song" (male)
+- 김 씨: "Mr. Kim" (male)
+- 이중 던전: "Double Dungeon"
+- 보스: "Boss"
+- 게이트: "Gate"
+- End: "End"
+
+### Chapter 2 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 폰: "Phone"
+- 송 씨: "Mr. Song" (male)
+- 주희: "Joo-Hee" (female)
+- 치유계 헌터: "Healer-type Hunter"
+- 헌터: "Hunter"
+- 던전: "Dungeon"
+- B랭크: "B-rank"
+- 협회: "Association"
+- 레이드: "Raid"
+- 진우: "Jin-Woo" (male)
+- 치유계: "Healer-type"
+- B급: "B-rank"
+- 헌터들: "Hunters"
+- 게이트: "Gate"
+- End: "End"
+
+### Chapter 2 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 주희: "Joo-Hee" (female)  
+- 진우: "Jin-Woo" (male)  
+- 보스방: "Boss Room"  
+- 헌터들: "Hunters"  
+- 송 씨: "Mr. Song" (male)  
+- C급 헌터: "C-rank Hunter"  
+- 대형 길드: "Large Guild"  
+- 이중 던전: "Double Dungeon"  
+- 보물: "Treasure"  
+- 중소 길드: "Mid-Sized Guild"  
+- 마수들: "Magic Beasts"  
+- D급: "D-rank"  
+- E급: "E-rank"  
+- 마정석: "Essence stones"
+- 희귀품: "Rare Item"  
+- End: "End"
+
+### Chapter 2 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 송 씨: "Mr. Song" (male)  
+- 던전: "Dungeon"  
+- 헌터들: "Hunters"  
+- 신전: "Temple"  
+- 보스: "Boss"  
+- 신상: "Divine Statue"  
+- 자유의 여신상: "Statue of Liberty"  
+- End: "End"
+
+### Chapter 2 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 신상: "Divine Statue"
+- 헌터들: "Hunters"
+- 보스: "Boss"
+- 송 씨: "Mr. Song" (male)
+- 마수: "Magic Beasts"
+- 석상: "Stone Statue"
+- 악기: "Musical Instrument"
+- 신전: "Temple"
+- 마법진: "Magic Circle"
+- 석판: "Stone Tablet"
+- 룬 문자: "Runic Script"
+- 카르테논 신전의 규율: "The Commandments of Karthenon Temple"
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- End: "End"
+
+---
+
+### Chapter 3 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 주희: "Joo-Hee" (female)
+- 진우: "Jin-Woo" (male)
+- 신상: "Divine Statue"
+- 석판: "Stone Tablet"
+- 이중 던전: "Double Dungeon"
+- End: "End"
+
+### Chapter 3 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 송 씨: "Mr. Song" (male)  
+- 헌터들: "Hunters"  
+- 신상: "Divine Statue"  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- End: "End"
+
+### Chapter 3 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 성 씨: "Mr. Sung" (male)  
+- 헌터들: "Hunters"  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- B급: "B-rank"  
+- 송 씨: "Mr. Song" (male)  
+- E급: "E-rank"  
+- 신상: "Divine Statue"  
+- 레이드: "Raid"  
+- End: "End"
+
+### Chapter 3 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터들: "Hunters"
+- 진우: "Jin-Woo" (male)
+- 송 씨: "Mr. Song" (male)
+- 주 씨: "Mr. Joo" (male)
+- 전투계 헌터: "Combat-type Hunter"
+- 신상: "Divine Statue"
+- End: "End"
+
+### Chapter 3 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터들: "Hunters"
+- 마수들: "Magic Beasts"
+- 문지기: "Gatekeeper"
+- 규칙: "Rules"
+- 룰: "Rules"
+- 규율: "Commandments"
+- 카르테논 신전의 규율: "The Commandments of Karthenon Temple"
+- 신께 경배하라: "Worship the God"
+- 신께 찬양하라: "Praise the God"
+- 신앙심을 증명하라: "Prove your faith"
+- 경고: "Warning"
+- 신상: "Divine Statue"
+- 송 씨: "Mr. Song" (male)
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+---
+
+### Chapter 4 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 성진우: "Sung Jin-Woo" (male)
+- 신상: "Divine Statue"
+- 헌터들: "Hunters"
+- 김 씨: "Mr. Kim" (male)
+- 송 씨: "Mr. Song" (male)
+- 주 씨: "Mr. Joo" (male)
+- End: "End"
+
+### Chapter 4 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 신상: "Divine Statue"
+- 헌터들: "Hunters"
+- 김 씨: "Mr. Kim" (male)
+- 주희: "Joo-Hee" (female)
+- 진우: "Jin-Woo" (male)
+- 규율: "Commandments"
+- 신: "God"
+- End: "End"
+
+### Chapter 4 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 신상: "Divine Statue"  
+- 헌터들: "Hunters"  
+- 성진우: "Sung Jin-Woo" (male)  
+- 성 씨: "Mr. Sung" (male)  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 김 씨: "Mr. Kim" (male)  
+- 석판: "Stone Tablet"  
+- 규율: "Commandments"  
+- End: "End"
+
+### Chapter 4 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진우: "Jin-Woo" (male)  
+- 신상: "Divine Statue"  
+- 주희: "Joo-Hee" (female)  
+- 송 씨: "Mr. Song" (male)  
+- 박 씨: "Mr. Park" (male)  
+- End: "End"
+
+### Chapter 4 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터들: "Hunters"
+- 신상: "Divine Statue"
+- 박 씨: "Mr. Park" (male)
+- 김 씨: "Mr. Kim" (male)
+- 석상: "Statue"
+- 문지기: "Gatekeeper"
+- 진우: "Jin-Woo" (male)
+- 규율: "Commandments"
+- 석상들: "Statues"
+- 악기: "musical instrument"
+- End: "End"
+
+---
+
+### Chapter 5 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 헌터들: "Hunters"  
+- 진우: "Jin-Woo" (male)  
+- 악기: "Instrument"  
+- 석상: "Statue"  
+- 송 씨: "Mr. Song" (male)  
+- 하프: "Harp"  
+- 나팔: "Trumpet"  
+- 피리: "Flute"  
+- 리라: "Lyre"  
+- 김 씨: "Mr. Kim" (male)  
+- 부주카: "Bouzouki"  
+- 신상: "Divine Statue"  
+- 북: "Drum"  
+- End: "End"
+
+### Chapter 5 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터들: "Hunters"
+- 마수들: "Magic Beasts"
+- 문지기: "Gatekeeper"
+- 신상의 눈: "Eyes of the Divine Statue"
+- 규칙: "Rules"
+- 룰: "Rules"
+- 규율: "Commandments"
+- 카르테논 신전의 규율: "The Commandments of Karthenon Temple"
+- 경고: "Warning"
+- 신상: "Divine Statue"
+- 송 씨: "Mr. Song" (male)
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 5 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 신상: "Divine Statue"
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- 신전: "Temple"
+- End: "End"
+
+### Chapter 5 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 마력: "Mana"
+- 치료 마법: "Healing Magic"
+- 헌터들: "Hunters"
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- B랭크 헌터: "B-rank Hunter"
+- 송 씨: "Mr. Song" (male)
+- 신전: "Temple"
+- 마법진: "Magic Circle"
+- 제단: "Altar"
+- 성 씨: "Mr. Sung" (male)
+- E급: "E-rank"
+- End: "End"
+
+### Chapter 5 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 김 씨: "Mr. Kim" (male)
+- 마수: "Magic Beasts"
+- 헌터들: "Hunters"
+- C급 헌터: "C-rank Hunter"
+- 송 씨: "Mr. Song" (male)
+- D급: "D-rank"
+- 제단: "Altar"
+- 성 씨: "Mr. Sung" (male)
+- 진우: "Jin-Woo" (male)
+- 규율: "Commandments"
+- 고목: "Ancient Tree"
+- End: "End"
+
+---
+
+### Chapter 6 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 이중 던전: "Double Dungeon" 
+- 김 씨: "Mr. Kim" (male)
+- 박 씨: "Mr. Park" (male)
+- 송 씨: "Mr. Song" (male)
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- D급: "D-rank"
+- E급: "E-rank"
+- 진우: "Jin-Woo" (male)
+- 제단: "Altar"
+- 성 씨: "Mr. Sung" (male)
+- End: "End"
+
+### Chapter 6 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진우: "Jin-Woo" (male)  
+- 신앙심: "Faith"  
+- 규율: "Commandments"  
+- 제물: "Sacrifice"  
+- 제단: "Altar"  
+- 송 씨: "Mr. Song" (male)  
+- 헌터: "Hunter"  
+- 주희: "Joo-Hee" (female)  
+- 마력: "Mana"  
+- 김 씨: "Mr. Kim" (male)  
+- 게이트: "Gate"  
+- D급 게이트: "D-rank Gate"  
+- 협회: "Association"  
+- 던전: "Dungeon"  
+- 보스: "Boss"  
+- 레이드: "Raid"  
+- 마수: "Magic Beast"  
+- 신상: "Divine Statue"  
+- 석상: "Stone Statue"  
+- End: "End"
+
+### Chapter 6 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 주희: "Joo-Hee" (female)  
+- 김 씨: "Mr. Kim" (male)  
+- 진우: "Jin-Woo" (male)  
+- 헌터들: "Hunters"  
+- 제단: "Altar"  
+- 불꽃: "Flames"  
+- 석상: "Statues"  
+- 규율: "Commandments"  
+- End: "End"
+
+### Chapter 6 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 팔굽혀 펴기: "Push-ups"  
+- 윗몸 일으키기: "Sit-ups"  
+- 스쿼트: "Squats"  
+- 달리기: "Running"  
+- 진우: "Jin-Woo" (male)  
+- 일일 퀘스트: "Daily Quest"  
+- 상태 회복: "Status Recovery"  
+- 능력치 포인트: "Stat Points"  
+- 랜덤 박스: "Random Box"  
+- 페널티: "Penalty"  
+- End: "End"
+
+### Chapter 6 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 제단: "Altar"
+- 붉은 불꽃: "Red Flame"
+- 신앙심의 증명: "Proof of Faith"
+- 규율: "Commandment"
+- 진우: "Jin-Woo" (male)
+- 송 씨: "Mr. Song" (male)
+- 김 씨: "Mr. Kim" (male)
+- End: "End"
+
+---
+
+### Chapter 7 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 주희: "Joo-Hee" (female)
+- 송 씨: "Mr. Song" (male)
+- 김 씨: "Mr. Kim" (male)
+- 성 씨: "Mr. Sung" (male)
+- 진우: "Jin-Woo" (male)
+- 규율: "Commandments"
+- End: "End"
+
+### Chapter 7 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 김 씨: "Mr. Kim" (male)  
+- 송 씨: "Mr. Song" (male)  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 성 씨: "Mr. Sung" (male)  
+- 석상: "Statues"  
+- 제단: "Altar"  
+- 마력: "Mana"  
+- End: "End"
+
+### Chapter 7 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 송 씨: "Mr. Song" (male)  
+- 주희: "Joo-Hee" (female)  
+- 진우: "Jin-Woo" (male)  
+- E급 마정석: "E-rank Essence Stone"  
+- E급 헌터: "E-rank Hunter"  
+- 김 씨: "Mr. Kim" (male)  
+- 제단: "Altar"  
+- 석상: "Stone Statue"  
+函- End: "End"
+
+### Chapter 7 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 석상: "Stone Statue"  
+- 시크릿 퀘스트: "Secret Quest"
+- 무력한 자의 용기: "The Courage of the Weak"
+- 플레이어: "Player"  
+- End: "End"
+
+### Chapter 7 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진우: "Jin-Woo" (male)
+- 주희: "Joo-Hee" (female)
+- 플레이어: "Player"
+- 페널티: "Penalty"
+- B급 치료계 헌터: "B-rank Healer-type Hunter"
+- 성진우: "Sung Jin-Woo" (male)
+- A급: "A-rank"
+- S급 헌터: "S-rank Hunter"
+- 공격대: "Raid Party"
+- End: "End"
+
+---
+
+### Chapter 8 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진우: "Jin-Woo" (male)
+- 한국헌터협회: "Korean Hunters Association"
+- 감시과: "Surveillance Division"
+- 과장: "Section Chief"
+- 우진철: "Woo Jin-Chul" (male)
+- 헌터협회: "Hunters Association"
+- 헌터: "Hunter"
+- 국가 권력급: "National-level"
+- 국가권력급: "National-level"
+- 국가권력급 헌터: "National-level Hunter"
+- 마력 측정기: "Mana Measuring Device"
+- End: "End"
+
+### Chapter 8 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 송 씨: "Mr. Song" (male)  
+- 주희: "Joo-Hee" (female)  
+- 진우: "Jin-Woo" (male)  
+- E급 마정석: "E-rank Essence Stone"  
+- E급 헌터: "E-rank Hunter"  
+- 김 씨: "Mr. Kim" (male)  
+- 제단: "Altar"  
+- 석상: "Stone Statue"  
+函- End: "End"
+
+### Chapter 8 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 김 씨: "Mr. Kim" (male)  
+- 송 씨: "Mr. Song" (male)  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 성 씨: "Mr. Sung" (male)  
+- 석상: "Statues"  
+- 제단: "Altar"  
+- 마력: "Mana"  
+- End: "End"
+
+### Chapter 8 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 송 씨: "Mr. Song" (male)  
+- 주희: "Joo-Hee" (female)  
+- 진우: "Jin-Woo" (male)  
+- E급 마정석: "E-rank Essence Stone"  
+- E급 헌터: "E-rank Hunter"  
+- 김 씨: "Mr. Kim" (male)  
+- 제단: "Altar"  
+- 석상: "Stone Statue"  
+函- End: "End"
+
+### Chapter 8 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 송 씨: "Mr. Song" (male)  
+- 주희: "Joo-Hee" (female)  
+- 진우: "Jin-Woo" (male)  
+- E급 마정석: "E-rank Essence Stone"  
+- E급 헌터: "E-rank Hunter"  
+- 김 씨: "Mr. Kim" (male)  
+- 제단: "Altar"  
+- 석상: "Stone Statue"  
+函- End: "End"
+
+---
+
+### Chapter 9 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 진우: "Jin-Woo" (male)  
+- 성진아: "Sung Jin-Ah" (female)  
+- 진아: "Jin-Ah" (female)  
+- 헌터: "Hunter"  
+- 메시지: "Message"  
+- 읽지 않은 메시지: "Unread Message"  
+- End: "End"
+
+### Chapter 9 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진아: "Jin-Ah" (female)  
+- 진우: "Jin-Woo" (male)  
+- 수능: "College Scholastic Ability Test"  
+- 의사: "Doctor"  
+- 게임: "Game"  
+- 메시지: "Message"  
+- 메시지 함: "Message Box"  
+- 플레이어: "Player"  
+- 일일 퀘스트: "Daily Quest"  
+- 강자가 되기 위한 준비: "Preparation to Become Stronger"  
+- End: "End"
+
+### Chapter 9 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 일일 퀘스트: "Daily Quest"
+- 플레이어: "Player"
+- 시스템: "System"
+- 페널티: "Penalty"
+- 보상: "Reward"
+- 성장: "Growth"
+- 팔굽혀 펴기: "Push-ups"
+- 윗몸 일으키기: "Sit-ups"
+- 스쿼트: "Squats"
+- 달리기: "Running"
+- 미확인: "Unconfirmed"
+- 확인 완료: "Confirmed"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 9 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 진우: "Jin-Woo" (male)
+- 플레이어: "Player"
+- 일일 퀘스트: "Daily Quest"
+- 강자가 되기 위한 준비: "Preparation to Become Stronger"
+- 메시지창: "Message Window"
+- 감시과: "Surveillance Division"
+- 협회: "Association"
+- End: "End"
+
+### Chapter 9 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 일일 퀘스트: "Daily Quest"
+- 페널티 존: "Penalty Zone"
+- 사막: "Desert"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+---
+
+### Chapter 10 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진우: "Jin-Woo" (male)
+- 모래 구덩이: "Sand Pit"
+- 독이빨 거대 모래지네: "Venom-Fanged Giant Sand Centipede"
+- End: "End"
+
+### Chapter 10 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 페널티 퀘스트: "Penalty Quest"
+- 생존: "Survival"
+- 요구 시간: "Required Time"
+- 남은 시간: "Remaining Time"
+- 지네: "Centipede"
+- 모래: "Sand"
+- 모래 지네: "Sand Centipede"
+- 일일 퀘스트: "Daily Quest"
+- 패널티: "Penalty"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 10 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 페널티: "Penalty"
+- 일일 퀘스트: "Daily Quest"
+- 보상: "Reward"
+- 주치의: "Attending Physician"
+- 헌터협회: "Hunters Association"
+- 최유라: "Choi Yoora" (female)
+- 성진우: "Sung Jin-Woo" (male)
+- End: "End"
+
+### Chapter 10 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터 지정 병원: "Hunter Designated Hospital"
+- 유라: "Yoora" (female)
+- 진우: "Jin-Woo" (male)
+- 일일 퀘스트: "Daily Quest"
+- 팔굽혀 펴기: "Push-ups"
+- 윗몸 일으키기: "Sit-ups"
+- 스쿼트: "Squats"
+- 달리기: "Running"
+- 페널티: "Penalty"
+- End: "End"
+
+### Chapter 10 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 팔굽혀 펴기: "Push-ups"  
+- 윗몸 일으키기: "Sit-ups"  
+- 스쿼트: "Squats"  
+- 달리기: "Running"  
+- 진우: "Jin-Woo" (male)  
+- 일일 퀘스트: "Daily Quest"  
+- 상태 회복: "Status Recovery"  
+- 능력치 포인트: "Stat Points"  
+- 랜덤 박스: "Random Box"  
+- 페널티: "Penalty"  
+- End: "End"
+
+---
+
+### Chapter 11 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 주희: "Joo-Hee" (female)
+- 진우: "Jin-Woo" (male)
+- 성진우: "Sung Jin-Woo" (male)
+- 마법: "Magic"
+- 능력치 포인트: "Stat Points"
+- 랜덤 박스: "Random Box"
+- 상태창: "Information Window"
+- 레벨: "Level"
+- 직업: "Job"
+- 칭호: "Title"
+- HP: "HP"
+- MP: "MP"
+- 피로도: "Fatigue"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 스킬: "Skills"
+- 패시브 스킬: "Passive Skill"
+- 근성: "Tenacity"
+- 액티브 스킬: "Active Skill"
+- 질주: "Dash"
+- End: "End"
+
+### Chapter 11 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 초보 캐릭터: "Beginner Character"
+- 능력치: "Stats"
+- 레벨1: "Level 1"
+- 스탯: "Stats"
+- E급 헌터: "E-rank Hunter"
+- 스킬: "Skill"
+- 패시브 스킬: "Passive Skill"
+- 액티브 스킬: "Active Skill"
+- 근성: "Tenacity"
+- 질주: "Dash"
+- 페널티 존: "Penalty Zone"
+- 지네: "Centipede"
+- 메시지: "Message"
+- 마나: "Mana"
+- 이동 속도: "Movement Speed"
+- 체력: "Health"
+- 피해: "Damage"
+- 룬석: "Runestone"
+- A급: "A-rank"
+- 마수: "Magic Beast"
+- S급: "S-rank"
+- 치유계 헌터: "Healer-type Hunter"
+- 마력: "Mana"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 11 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 마나: "Mana"
+- 근성 스킬: "Tenacity Skill"
+- 스킬: "Skill"
+- 패시브 스킬: "Passive Skill"
+- 알 수 없음: "Unknown"
+- 능력치 포인트: "Stat Points"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 전투계열 헌터: "Combat-type Hunter"
+- End: "End"
+
+### Chapter 11 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 페널티 퀘스트: "Penalty Quest"
+- 일일퀘: "Daily Quest"
+- 메시지창: "Message Window"
+- 능력치 포인트: "Stat Points"
+- 랜덤 박스: "Random Box"
+- 상태 회복: "Status Recovery"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 수간호사: "Head Nurse" (female)
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 11 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 퀘스트: "Quest"
+- 능력치 포인트: "Stat Points"
+- 정보창: "Information Window"
+- 레벨: "Level"
+- 진우: "Jin-Woo" (male)
+- E급 헌터: "E-rank Hunter"
+- 최약병기: "Weakest Weapon"
+- S,A급: "S, A-rank"
+- C,D급 헌터: "C, D-rank Hunter"
+- 성진우: "Sung Jin-Woo" (male)
+- 각성: "Awakening"
+- 재각성: "Reawakening"
+- 헌터: "Hunter"
+- 헌터자격증: "Hunter License"
+- VIP룸: "VIP Room"
+- End: "End"
+
+---
+
+### Chapter 12 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 헌터: "Hunter"
+- 카페: "Cafe"
+- 익명: "Anonymous"
+- 게임: "Game"
+- 능력치: "Stat Points"
+- 댓글: "Comments"
+- 자격증: "License"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 12 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 랜덤 박스: "Random Box"
+- 인벤토리: "Inventory"
+- 김상식의: "Kim Sang-Shik" (male)
+- 강철검: "Steel Sword"
+- 김상식의 강철검: "Kim Sang-Shik's Steel Sword"
+- 김 씨 아저씨: "Mr. Kim" (male)
+- 마수: "Magic Beasts"
+- 마력: "Mana"
+- 헌터: "Hunter"
+- End: "End"
+
+### Chapter 12 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터용 무기: "Hunter Weapon"
+- 장검: "Longsword"
+- 김 씨: "Mr. Kim" (male)
+- 진우: "Jin-Woo" (male)
+- 지하 신전: "Underground Temple"
+- 송 씨 아저씨: "Mr. Song" (male)
+- 치유계 헌터: "Healer-type Hunter"
+- 회복 주문: "Healing Spell"
+- 최유라: "Choi Yoora" (female)
+- 헌터협회: "Hunters Association"
+- 헌터 지정 대형병원: "Hunter Designated Large Hospital"
+- End: "End"
+
+### Chapter 12 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- A급: "A-rank"
+- 최상급 마수: "High-grade Magic Beasts"
+- 헌터: "Hunter"
+- S급 헌터: "S-rank Hunter"
+- 백호 길드: "White Tiger Guild"
+- 백윤호 헌터: "Hunter Baek Yoonho" (male)
+- E급 헌터: "E-rank Hunter"
+- 헌터들의 등급: "Hunter Ranks"
+- 협회 사이트: "Association Website"
+- 성진우: "Sung Jin-Woo" (male)
+- 재각성: "Reawakening"
+- 상급 헌터: "High-rank Hunter"
+- 일일 퀘스트: "Daily Quest"
+- End: "End"
+
+### Chapter 12 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 상태창: "Status Window"
+- 이름: "Name"
+- 성진우: "Sung Jin-Woo" (male)
+- 레벨: "Level"
+- 직업: "Job"
+- 칭호: "Title"
+- 피로도: "Fatigue"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 스킬: "Skills"
+- 패시브 스킬: "Passive Skill"
+- 근성: "Tenacity"
+- 액티브 스킬: "Active Skill"
+- 질주: "Dash"
+- 마수: "Magic Beasts"
+- End: "End"
+
+---
+
+### Chapter 13 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- E급 헌터: "E-rank Hunter"
+- S급 헌터: "S-rank Hunter"
+- 성진우: "Sung Jin-Woo" (male)
+- 진우: "Jin-Woo" (male)
+- 최유라: "Choi Yoora" (female)
+- 유라: "Yoora" (female)
+- 협회: "Hunters Association"
+- 국가: "National"
+- End: "End"
+
+### Chapter 13 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 유라: "Yoora" (female)
+- 진우: "Jin-Woo" (male)
+- 인벤토리: "Inventory"
+- 랜덤 박스: "Random Box"
+- 서울시 구로구: "Guro District, Seoul"
+- 헌터협회: "Hunters Association"
+- 헌터: "Hunter"
+- 신전: "Temple"
+- 신상: "Divine Statue"
+- End: "End"
+
+### Chapter 13 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You leveled up"
+- 일일 퀘스트: "Daily Quest"
+- 협회: "Hunters Association"
+- 던전의 열쇠: "Dungeon Key"
+- E급: "E-rank"
+- 인스턴트 던전: "Instant Dungeon"
+- 합정역: "Hapjeong Station"
+- 랜덤 박스: "Random Box"
+- E급 레이드: "E-rank Raid"
+- 보스: "Boss"
+- 귀환석: "Return Stone"
+- 게이트: "Gate"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 13 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 던전: "Dungeon"
+- 진우: "Jin-Woo" (male)
+- 합정역: "Hapjeong Station"
+- 강철검: "Steel Sword"
+- 김상식의 강철검: "Kim Sang-Shik's Steel Sword"
+- 마수: "Magic Beasts"
+- 짐승형 마수: "Beast-type Magic Beast"
+- End: "End"
+
+### Chapter 13 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 강철 이빨 라이칸: "Steel-Fanged Lycan"
+- 페널티 존: "Penalty Zone"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+---
+
+### Chapter 14 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 라이칸: "Lycan"
+- 강철 이빨 라이칸: "Steel-Fanged Lycan"
+- 레벨: "Level"
+- 상태창: "Status Window"
+- 직업: "Job"
+- 칭호: "Title"
+- 피로도: "Fatigue"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- 스킬: "Skills"
+- 패시브 스킬: "Passive Skill"
+- 근성: "Tenacity"
+- 액티브 스킬: "Active Skill"
+- 질주: "Dash"
+- 퀘스트: "Quest"
+- 성진우: "Sung Jin-Woo" (male)
+- End: "End"
+
+### Chapter 14 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 레벨 업: "Level Up"
+- 진우: "Jin-Woo" (male)
+- 근력 스탯: "Strength Stat"
+- 능력치: "Stats"
+- 민첩: "Agility"
+- 퀘스트: "Quest"
+- 포인트: "Point"
+- 라이칸: "Lycan"
+- 상태창: "Status Window"
+- End: "End"
+
+### Chapter 14 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 레벨 업: "Level Up"
+- 진우: "Jin-Woo" (male)
+- 근력 스탯: "Strength Stat"
+- 능력치: "Stats"
+- 민첩: "Agility"
+- 퀘스트: "Quest"
+- 포인트: "Point"
+- 라이칸: "Lycan"
+- 상태창: "Status Window"
+- End: "End"
+
+### Chapter 14 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 라이칸의 송곳니: "Lycan's Fang"
+- 진우: "Jin-Woo" (male)
+- 골드: "Gold"
+- E급 던전: "E-rank Dungeon"
+- 늑대 학살자: "Wolf Slayer"
+- 성진우: "Sung Jin-Woo" (male)
+- End: "End"
+
+### Chapter 14 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 짐승형 몬스터: "Beast-type Monster"
+- 짐승형 마수: "Beast-type Magic Beast"
+- 레이드: "Raid"
+- 마수: "Magic Beasts"
+- 늑대 이빨: "Wolf Fang"
+- 귀환석: "Return Stone"
+- 강철검: "Steel Sword"
+- 잡템: "Junk Item"
+- 상점: "Shop"
+- 던전 입구: "Dungeon Entrance"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+---
+
+### Chapter 15 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 레벨: "Level"
+- 던전: "Dungeon"
+- 인던: "Instant Dungeon"
+- 몬스터: "Monster"
+- 진우: "Jin-Woo" (male)
+- 칼날 손톱 브리가: "Blade Claw Briga"
+- 검은 그림자 라잔: "Black Shadow Razan"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- End: "End"
+
+### Chapter 15 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 민첩 스탯: "Agility Stat"
+- 감각 스탯: "Senses Stat"
+- 던전: "Dungeon"
+- 보스: "Boss"
+- 귀환석: "Return Stone"
+- 검: "Sword"
+- 뱀: "Snake"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 15 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 민첩 스탯: "Agility Stat"
+- 감각 스탯: "Senses Stat"
+- 던전: "Dungeon"
+- 보스: "Boss"
+- 귀환석: "Return Stone"
+- 검: "Sword"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 15 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 민첩 스탯: "Agility Stat"
+- 근력: "Strength"
+- 감각 스탯: "Senses Stat"
+- 던전: "Dungeon"
+- 보스: "Boss"
+- 귀환석: "Return Stone"
+- 검: "Sword"
+- 뱀: "Snake"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 15 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 단검: "Dagger"
+- 비약: "Potion"
+- 인벤토리: "Inventory"
+- A급 단검: "A-rank Dagger"
+- C급 비약: "C-rank Potion"
+- 보스: "Boss"
+- 던전: "Dungeon"
+- 합정역: "Hapjeong Station"
+- 레벨: "Level"
+- 피로도: "Fatigue"
+- 군인: "Soldier"
+- 헌터: "Hunter"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+---
+
+### Chapter 16 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 헌터: "Hunter"
+- 진우: "Jin-Woo" (male)
+- 마수: "Magic Beasts"
+- 게이트: "Gate"
+- 헌터 시스템: "Hunter System"
+- 군부대: "Military Unit"
+- 군인: "Soldier"
+- End: "End"
+
+### Chapter 16 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 마수: "Magic Beast"
+- 진우: "Jin-Woo" (male)
+- 군인: "Soldier"
+- 헌터: "Hunter"
+- 감각 스탯: "Senses Stat"
+- 보스: "Boss"
+- 골렘형 마수: "Golem-type Magic Beast"
+- 힐러: "Healer"
+- 탱커: "Tanker"
+- 딜러: "Dealer"
+- 마법계열 헌터: "Mage-type Hunter"
+- 등급: "Rank"
+- 방어력: "Defense Power"
+- 상급 헌터: "High-rank Hunter"
+- 인던: "Instant Dungeon"
+- End: "End"
+
+### Chapter 16 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- D급 헌터: "D-rank Hunter"
+- 이한수: "Lee Han-Soo" (male)
+- 치유 헌터: "Healer-type Hunter"
+- 마력: "Mana"
+- 골렘: "Golem"
+- 상급 헌터: "High-rank Hunter"
+- 보스급 골렘: "Boss-level Golem"
+- 강철검: "Steel Sword"
+- 군인: "Soldier" (male)
+- End: "End"
+
+### Chapter 16 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 헌터: "Hunter"
+- 군인: "Soldier"
+- 이한수: "Lee Han-Soo" (male)
+- 상급 헌터: "High-Rank Hunter"
+- 진우: "Jin-Woo" (male)
+- 골렘: "Golem"
+- 마수: "Magic Beast"
+- E급 헌터: "E-Rank Hunter"
+- 강철검: "Steel Sword"
+- 레벨 업 능력: "Leveling Up Ability"
+- 진아: "Jin-Ah" (female)
+- End: "End"
+
+### Chapter 16 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 성진우: "Sung Jin-Woo" (male)
+- 레벨: "Level"
+- 직업: "Job"
+- 칭호: "Title"
+- 늑대 학살자: "Wolf Slayer"
+- 피로도: "Fatigue"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- 스킬: "Skills"
+- 패시브 스킬: "Passive Skill"
+- 액티브 스킬: "Active Skill"
+- 근성: "Tenacity"
+- 질주: "Dash"
+- 인던: "Instant Dungeon"
+- 단검: "Dagger"
+- 진아: "Jin-Ah" (female)
+- End: "End"
+
+---
+
+### Chapter 17 [0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진아: "Jin-Ah" (female)
+- 진우: "Jin-Woo" (male)
+- 인벤토리: "Inventory"
+- 메시지함: "Message Window"
+- 랜덤 박스: "Random Box"
+- 인던: "Instant Dungeon"
+- 인던 입장 열쇠: "Instant Dungeon Entry Key"
+- End: "End"
+
+### Chapter 17 [1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- 일일 퀘스트: "Daily Quest"
+- 보상: "Reward"
+- 근력: "Strength"
+- 민첩: "Agility"
+- 체력: "Stamina"
+- 감각: "Senses"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 17 [2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- 스탯: "Stats"
+- 레벨 업: "Level Up"
+- 마수: "Magic Beasts"
+- 헌터: "Hunter"
+- 협회: "Association"
+- 성진우: "Sung Jin-Woo" (male)
+- End: "End"
+
+### Chapter 17 [3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- 일일 퀘스트: "Daily Quest"
+- 보상: "Reward"
+- 근력: "Strength"
+- 민첩: "Agility"
+- 체력: "Stamina"
+- 감각: "Senses"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+### Chapter 17 [4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레벨이 올랐습니다: "You Leveled up"
+- 능력치: "Stats"
+- 헌터: "Hunter"
+- 재심사: "Re-evaluation"
+- 협회: "Association"
+- 던전: "Dungeon"
+- 경험치: "Experience Points"
+- E등급: "E-rank"
+- C급 게이트: "C-rank Gate"
+- 진우: "Jin-Woo" (male)
+- End: "End"
+
+---
+
+### Chapter 18 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 진우: "Jin-Woo" (male)  
+- 리더: "Leader"  
+- 성진우 씨: "Mr. Sung Jin-Woo" (male)  
+- 팀원: "Team Member"  
+- C급 게이트: "C-rank Gate"  
+- 헌터: "Hunter"  
+- C급: "C-rank"  
+- D급: "D-rank"  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 탱커: "Tanker"  
+- 레이드: "Raid"  
+- 비전투 멤버: "Non-combat Member"  
+- D등급: "D-rank"  
+- End: "End"
+
+### Chapter 18 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 유진호: "Yoo Jin-Ho" (male)  
+- 게이트: "Gate"  
+- 던전: "Dungeon"  
+- 협회: "Association"  
+- 공격대: "Raid Party"  
+- 치유계열 헌터: "Healer-type Hunter"  
+- 딜러: "Dealer"  
+- 보충 멤버: "Replacement Member"  
+- 구급상자: "First Aid Kit"  
+- 장비: "Equipment"  
+- End: "End"
+
+### Chapter 18 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 18 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 검: "Sword"
+- 방패: "Shield"
+- E급: "E-rank"
+- 조규환: "Jo Gyu-Hwan" (male)
+- 마법계열 헌터: "Mage-type Hunter"
+- 마수: "Magic Beast"
+- 야광석: "Luminous Stone"
+- 벌레: "Insect"
+- End: "End"
+
+### Chapter 18 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 곤충형: "Insect-type"  
+- 개미굴: "Ant Nest"  
+- 동석이 형: "Dong-Seok hyung" (male)  
+- 도발 스킬: "Provocation Skill"  
+- 어글: "Aggro"  
+- End: "End"- 
+
+### Chapter 18 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- C등급 탱커: "C-rank Tanker"
+- End: "End"
+
+### Chapter 18 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 18 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 아파트 건설 현장: "Apartment Construction Site"
+- 마력 파동 수치: "Mana Wave Level"
+- A급 게이트: "A-rank Gate"
+- B급 게이트: "B-rank Gate"
+- 길드: "Guild"
+- 개인 공격대: "Private Raid Party"
+- End: "End"
+
+### Chapter 18 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 초짜 헌터: "Beginner Hunter"
+- End: "End"
+
+### Chapter 18 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 개미: "Ant"
+- 헌터들: "Hunters"
+- 벌레들: "Insects"
+- 마법들: "Magics"
+- End: "End"
+
+---
+
+### Chapter 19 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "solo leveling"  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 딜러들: "Dealers"  
+- 어글: "Aggro"  
+- 헌터들: "Hunters"  
+- 마수들: "Magic Beasts"  
+- 진우: "Jin-Woo" (male)  
+- 레이드: "Raid"  
+- 진석아: "Jin-Seok" (male)  
+- 준태: "Jun-Tae" (male)  
+- 석민: "Seok-Min" (male)  
+- 규환: "Gyu-Hwan" (male)  
+- 철진: "Cheol-Jin" (male)  
+- 황 형: "Hwang hyung" (male)  
+- 팀플: "Team Play"  
+- 오합지졸: "Ragtag Group"  
+- End: "End"
+
+### Chapter 19 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 유진호: "Yoo Jin-Ho" (male)  
+- 마수: "Magic Beast"  
+- D급 헌터: "D-rank Hunter"  
+- 마정석: "Essence Stone"  
+- 감각 스탯: "Senses Stat"  
+- 벌레: "Insect"  
+- End: "End"
+
+### Chapter 19 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 검: "Sword"
+- 방패: "Shield"
+- 던전: "Dungeon"
+- 게이트: "Gate"
+- 보스: "Boss"
+- End: "End"
+
+### Chapter 19 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 조규환: "Jo Gyu-Hwan" (male)
+- 벌레들: "Insects"
+- 보스 방: "Boss Room"
+- 대장: "Leader"
+- 마나석: "Mana Crystals" (minerals inside gates)
+- End: "End"
+
+### Chapter 19 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 개인 공격대: "Private Raid Party"
+- 거미: "Spider"  
+- 이철진: "Lee Cheol-Jin" (male)  
+- 채굴 장비: "Mining Equipment"  
+- 인석: "In-Seok" (male)  
+- C급 던전: "C-rank Dungeon"  
+- 장비: "Equipment"  
+- 팀원: "Team Member"  
+- End: "End"- 
+
+### Chapter 19 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 딜러: "Dealer"
+- 헌터: "Hunter"
+- 딜: "Attack"
+- 진석: "Jin-Seok" (male)
+- End: "End"
+
+### Chapter 19 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 달리던 헌터: "Hunter"  
+- End: "End"
+
+### Chapter 19 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 멤버들: "Members"  
+- 힐러: "Healer"  
+- End: "End"
+
+### Chapter 19 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 19 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 보물: "Treasure"  
+- 희귀품: "Rare Item"  
+- End: "End"
+
+---
+
+### Chapter 20 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 유진호: "Yoo Jin-Ho" (male)
+- 진우: "Jin-Woo" (male)
+- 황동석: "Hwang Dong-Seok" (male)
+- 보스방: "Boss Room"
+- 오 씨: "Mr. Oh" (male)
+- 헌터: "Hunter"
+- 레이드: "Raid"
+- 도마뱀: "Lizard"
+- C급 게이트: "C-rank Gate"
+- 치유계열 헌터: "Healer-type Hunter"
+- 개인 공격대: "Private Raid Party"
+- 협회: "Association"
+- End: "End"
+
+### Chapter 20 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- E급 헌터: "E-rank Hunter"
+- 초짜 헌터: "Rookie Hunter"
+- 성진우: "Sung Jin-Woo" (male)
+- 보스 방: "Boss Room"
+- 거미: "Spider"
+- 조규환: "Jo Gyu-Hwan" (male)
+- 이철진: "Lee Cheol-Jin" (male)
+- 황 형: "Hwang hyung" (male)
+- End: "End"
+
+### Chapter 20 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 벌레형 마수: "Insect-type Magic Beast"  
+- 마나석: "Mana Crystals" (minerals inside gates)
+- 게이트: "Gate"  
+- 검: "Sword"  
+- 방패: "Shield"  
+- End: "End"
+
+### Chapter 20 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- C급 마법사: "C-rank Mage"
+- 마수: "Magic Beast"
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 단검: "Dagger"
+- End: "End"
+
+### Chapter 20 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 던전: "Dungeon"  
+- 경험치: "Experience Points"  
+- 마정석: "Essence Stone"  
+- 보스: "Boss"  
+- C급 던전: "C-rank Dungeon"  
+- 합정역 인던: "Hapjeong Station Dungeon"  
+- 푸른 독니 카사카: "Kasaka’s Venom Fang"  
+- End: "End"- 
+
+### Chapter 20 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 20 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 20 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 피해: "Damage"  
+- End: "End"
+
+### Chapter 20 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 20 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 합정역: "Hapjeong Station"
+- End: "End"
+
+---
+
+### Chapter 21 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 단검: "Dagger"
+- 강철검: "Steel Sword"
+- 진우: "Jin-Woo" (male)
+- 거미: "Spider"
+- 유진호: "Yoo Jin-Ho" (male)
+- End: "End"
+
+### Chapter 21 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 마수: "Magic Beast"  
+- E급 헌터: "E-rank Hunter"  
+- 성진우: "Sung Jin-Woo" (male)  
+- D급 헌터: "D-rank Hunter"  
+- 부정 등록자: "Illegal Registrant"  
+- 마력: "Mana"  
+- 등급: "Rank"  
+- 던전: "Dungeon"  
+- 레이드: "Raid"  
+- 검: "Sword"  
+- End: "End"
+
+### Chapter 21 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 피로도: "Fatigue"  
+- 스킬: "Skill"  
+- 질주: "Dash"  
+- 이동 속도: "Movement Speed"  
+- 마나: "Mana"  
+- End: "End"
+
+### Chapter 21 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 마비: "Paralysis"  
+- 체력: "Health"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 던전의 주인: "Dungeon Boss"  
+- 레벨이 올랐습니다: "You leveled up"
+- 레벨: "Level"  
+- 상태창: "Status Window"  
+- 이름: "Name"  
+- 직업: "Job"  
+- 칭호: "Title"  
+- 늑대학살자: "Wolf Slayer"  
+- HP: "HP"  
+- MP: "MP"  
+- 스탯: "Stats"  
+- 근력: "Strength"  
+- 민첩: "Agility"  
+- 지능: "Intelligence"  
+- 감각: "Senses"  
+- 패시브 스킬: "Passive Skill"  
+- 근성: "Tenacity"  
+- 액티브 스킬: "Active Skill"  
+- 레벨 업: "Level Up"  
+- End: "End"
+
+### Chapter 21 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 상점: "Shop"
+- 구매: "Purchase"
+- 골드: "Gold"
+- 게이트: "Gate"
+- 몬스터: "Monster"
+- 마정석: "Essence Stone"
+- C급 마정석: "C-rank Essence Stone"
+- 보스: "Boss"
+- 벌레: "Insect"
+- 형님: "Hyung-nim"
+- End: "End"- 
+
+### Chapter 21 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 21 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 21 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 21 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 마비: "Paralysis"  
+- 대상: "Target"  
+- 저항력: "Resistance"  
+- 출혈: "Bleeding"  
+- 늑대 학살자: "Wolf Slayer"  
+- 근성: "Tenacity"  
+- 메시지: "Message"  
+- End: "End"
+
+### Chapter 21 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+---
+
+### Chapter 22 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진우: "Jin-Woo" (male)
+- 유진호: "Yoo Jin-Ho" (male)
+- E급 헌터: "E-rank Hunter"
+- C급 게이트: "C-rank Gate"
+- 던전: "Dungeon"
+- 게이트: "Gate"
+- 보스: "Boss"
+- 형님: "Hyung-nim"
+- End: "End"
+
+### Chapter 22 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 황동석: "Hwang Dong-Seok" (male)
+- 마나석: "Mana Crystals"
+- 유진건설: "Yoojin Construction"
+- 유명한: "Yoo Myung-Han" (male)
+- 성진우: "Sung Jin-Woo" (male)
+- D급: "D-rank"
+- E급: "E-rank"
+- End: "End"
+
+### Chapter 22 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 조규환: "Jo Gyu-Hwan" (male)  
+- 긴급 퀘스트: "Emergency Quest"  
+- 적들 처치: "Defeat the Enemies"  
+- 페널티: "Penalty"  
+- 살의: "Killing Intent"  
+- End: "End"
+
+### Chapter 22 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 처치해야 할 적의 숫자: "Number of Enemies to Defeat"
+- 처치한 적의 숫자: "Number of Enemies Defeated"
+- 시스템: "System"
+- 체력: "Health"
+- C급 헌터: "C-rank Hunter"
+- 마법: "Magic"
+- End: "End"
+
+### Chapter 22 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 뱁새눈: "Narrow-Eyed" (male)
+- 준태: "Jun-Tae" (male)
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- End: "End"- 
+
+### Chapter 22 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 22 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 회장: "Chairman"  
+- End: "End"
+
+### Chapter 22 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 22 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 퀘스트: "Quest"
+- 심장: "Heart"
+- 능력치: "Stats"
+- End: "End"
+
+### Chapter 22 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+---
+
+### Chapter 23 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 진우: "Jin-Woo" (male)  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 황동석 일행: "Hwang Dong-Seok's group"  
+- 단검: "Dagger"  
+- 박준태: "Park Jun-Tae" (male)  
+- E급 헌터: "E-rank Hunter"  
+- D급 헌터: "D-rank Hunter"  
+- 조규환: "Jo Gyu-Hwan" (male)  
+- 마법계열 헌터: "Mage-type Hunter"  
+- 체력: "Stamina"  
+- 민첩 스탯: "Agility Stat"  
+- 마비: "Paralysis"  
+- End: "End"
+
+### Chapter 23 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 단검 '카사카의 독니': "Dagger 'Kasaka’s Venom Fang'"  
+- 탱커: "Tanker"  
+- C급: "C-rank"  
+- 딜러: "Dealer"  
+- 강화 스킬: "Reinforcement Skill"  
+- E급: "E-rank"  
+- D급: "D-rank"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- End: "End"
+
+### Chapter 23 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 지하 신전: "Underground Temple"  
+- 퀘스트: "Quest"  
+- 긴급 퀘스트: "Emergency Quest"  
+- 상태 회복: "Status Recovery"  
+- 능력치 포인트: "Stat Points"  
+- 스킬: "Skill"  
+- 살기: "Killing Intent"  
+- 질주: "Dash"  
+- 룬석: "Rune Stone"  
+- 액티브 스킬: "Active Skill"  
+- 마나: "Mana"  
+- End: "End"
+
+### Chapter 23 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 공포: "Fear"
+- 능력치: "Stats"
+- 저항력: "Resistance"
+- 헌터: "Hunter"
+- 보상: "Reward"
+- 형님: "Hyung-nim"
+- 던전: "Dungeon"
+- End: "End"
+
+### Chapter 23 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 마정석: "Essence Stones"  
+- 부정 등록자: "Illegal Registrant"  
+- 국내 굴지 기업 회장님: "Chairman of a Leading Domestic Company"  
+- 팀원: "Team Member"  
+- 파티: "Party"  
+- End: "End"- 
+
+### Chapter 23 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 23 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 헌터들: "Hunters"  
+- 방패: "Shield"  
+- 강화: "Reinforcement"  
+- 보스 방: "Boss Room"  
+- End: "End"
+
+### Chapter 23 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 시스템: "System"  
+- 보스: "Boss"  
+- End: "End"
+
+### Chapter 23 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 페널티: "Penalty"  
+- End: "End"
+
+### Chapter 23 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+---
+
+### Chapter 24 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 마정석: "Essence Stones"  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 진우: "Jin-Woo" (male)  
+- 헌터: "Hunter"  
+- End: "End"
+
+### Chapter 24 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 방패: "Shield"  
+- 던전: "Dungeon"  
+- 형님: "Hyung-nim"  
+- 꼬리 자르기: "Tail-Cutting"  
+- End: "End"
+
+### Chapter 24 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 협회 조사과: "Association Investigation Department"  
+- 레이드: "Raid"  
+- C급 헌터: "C-rank Hunter"  
+- D급 헌터: "D-rank Hunter"  
+- E급 헌터: "E-rank Hunter"  
+- 성진우: "Sung Jin-Woo" (male)  
+- 칼리온: "Calion"  
+- 로열 시리즈 방패: "Royal Series Shield"  
+- 장검: "Longsword"  
+- 게이트: "Gate"  
+- End: "End"
+
+### Chapter 24 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- C급 게이트: "C-rank Gate"  
+- 스탯: "Stats"  
+- 근력: "Strength"  
+- 체력: "Stamina"  
+- 민첩: "Agility"  
+- 지능: "Intelligence"  
+- 감각: "Senses"  
+- 긴급 퀘스트: "Emergency Quest"  
+- 일일 퀘: "Daily Quest"  
+- 레벨: "Level"  
+- 능력치 포인트: "Stat Points"  
+- 이름: "Name"  
+- 직업: "Job"  
+- 칭호: "Title"  
+- 늑대 학살자: "Wolf Slayer"  
+- 피로도: "Fatigue"  
+- 패시브 스킬: "Passive Skill"  
+- 근성: "Tenacity"  
+- 액티브 스킬: "Active Skill"  
+- 질주: "Dash"  
+- 살기: "Killing Intent"  
+- End: "End"
+
+### Chapter 24 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 포인트: "Points"
+- 거미: "Spider"
+- 골드: "Gold"
+- 합정역 인던: "Hapjeong Station Instant Dungeon"
+- 포션: "Potion"
+- 방어구: "Armor"
+- 무기: "Weapons"
+- 아이템: "Items"
+- 퀘스트: "Quest"
+- 보상: "Reward"
+- 랜덤 박스: "Random Box"
+- 상점: "Shop"
+- 구매: "Purchase"
+- End: "End"- 
+
+### Chapter 24 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 마법: "Magic"  
+- End: "End"
+
+### Chapter 24 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 헌터들: "Hunters"  
+- End: "End"
+
+### Chapter 24 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 마야: "Maya"  
+- 그레도스 씨: "Mr. Gredos" (male)  
+- End: "End"
+
+### Chapter 24 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 늑대학살자: "Wolf Slayer"  
+- 근성: "Tenacity"  
+- End: "End"
+
+### Chapter 24 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+---
+
+### Chapter 25 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 나 혼자만 레벨업: "Solo Leveling"
+- C급 게이트: "C-rank Gate"
+- 진아: "Jin-Ah" (female)
+- 진우: "Jin-Woo" (male)
+- 마정석: "Essence Stone"
+- 헌터: "Hunter"
+- 길드: "Guild"
+- 개인 공격대: "Private Raid Party"
+- 동원령: "Mobilization Order"
+- 협회 감시과: "Association Surveillance Division"
+- 백호 길드: "White Tiger Guild"
+- A,B급 게이트: "A, B-rank Gates"
+- End: "End"
+
+### Chapter 25 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 해독: "Detoxification"  
+- 시스템 메시지: "System Message"  
+- 해로운 성분: "Harmful Substance"  
+- 해독: "Detoxification"  
+- 협회: "Association"  
+- 퀘스트: "Quest"  
+- 페널티 퀘스트: "Penalty Quest"  
+- 보상: "Reward"  
+- 플레이어: "Player"  
+- 시스템: "System"  
+- End: "End"
+
+### Chapter 25 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 페널티: "Penalty"  
+- 지하 신전: "Underground Temple"  
+- 시크릿 퀘스트: "Secret Quest"  
+- 무력한 자의 용기: "The Courage of the Weak"  
+- 대주술사: "Great Sorcerer"  
+- 칸디아루: "Kandiaru" (male)  
+- 축복: "Blessing"  
+- 재활의 의지: "Will to Recover"  
+- 무병장수: "Longevity"  
+- 독성: "Toxicity"  
+- 카사카의 독샘: "Kasaka’s Venom Sac"  
+- 비약: "Elixir"  
+- 카사카의 철갑 비늘: "Kasaka’s Iron Scale"  
+- 스탯: "Stats"  
+- 근력: "Strength"  
+- 체력: "Stamina"  
+- 민첩: "Agility"  
+- 지능: "Intelligence"  
+- 감각: "Senses"  
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 능력치 포인트: "Stat Points"  
+- End: "End"
+
+### Chapter 25 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 유진호: "Yoo Jin-Ho" (male)
+- End: "End"
+
+### Chapter 25 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 개인 공대 팀: "Private Raid Team"  
+- End: "End"- 
+
+### Chapter 25 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 레이드: "Raid"
+- 이중 던전: "Double Dungeon"
+- End: "End"
+
+### Chapter 25 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- End: "End"
+
+### Chapter 25 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 창고: "Inventory"
+- 독샘: "Venom Sac"  
+- 카사카: "Kasaka"  
+- 철갑 비늘: "Iron Scale"  
+- 스탯창: "Stats Window"  
+- End: "End"
+
+### Chapter 25 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 피해: "Damage"  
+- End: "End"
+
+### Chapter 25 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- 개인 공대: "Private Raid Party"  
+- End: "End"
+
+---
+
+### Chapter 26 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 진우: "Jin-Woo" (male)  
+- 던전: "Dungeon"  
+- 보수: "Reward"  
+- 레이드: "Raid"  
+- 공격대: "Raid Party"  
+- 헌터: "Hunter"  
+- 도련님: "Young Master"  
+- End: "End"
+
+### Chapter 26 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 길드 마스터 면허: "Guild Master License"
+- 형님: "Hyung-nim"
+- 유진건설: "Yoojin Construction"
+- 마정석: "Essence Stones"
+- 마나석: "Mana Crystals"
+- End: "End"
+
+### Chapter 26 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 마스터: "Master"  
+- 부마스터: "Vice-Master"  
+- 길드: "Guild"  
+- S급 헌터: "S-rank Hunter"  
+- 회장: "Chairman"  
+- 유명한: "Yoo Myung-Han" (male)  
+- D급 각성자: "D-rank Awakened"  
+- 길드장 면허: "Guild Master License"  
+- 상급 헌터: "High-rank Hunter"  
+- 하급 헌터: "Low-rank Hunter"  
+- End: "End"
+
+### Chapter 26 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 황동석: "Hwang Dong-Seok" (male)  
+- 협회: "Hunters Association"  
+- 몬스터: "Monster"  
+- C급 레이드: "C-rank Raid"  
+- B급: "B-rank"  
+- E급 헌터: "E-rank Hunter"  
+- C급 헌터: "C-rank Hunter"  
+- C급 보스: "C-rank Boss"  
+- End: "End"
+
+### Chapter 26 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- S급: "S-rank"  
+- 레벨업: "Level up"  
+- 퀘스트: "Quest"  
+- C급: "C-rank"  
+- 경험치: "Experience Points"  
+- End: "End"- 
+
+### Chapter 26 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+### Chapter 26 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 길드 마스터: "Guild Master"  
+- A급 게이트: "A-rank Gate"  
+- B급 게이트: "B-rank Gate"  
+- 마수들: "Magic Beasts"  
+- End: "End"
+
+### Chapter 26 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 마스터: "Master"
+- 부마스터: "Vice-Master"
+- End: "End"
+
+### Chapter 26 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 길드 사무실: "Guild Office"  
+- 협회 지부: "Association Branch"  
+- End: "End"
+
+### Chapter 26 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 국력: "National Power"  
+- C급 던전: "C-rank Dungeon"  
+- End: "End"
+
+---
+
+### Chapter 27 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 거미: "Spider"  
+- 진우: "Jin-Woo" (male)  
+- 유진호: "Yoo Jin-Ho" (male)  
+- E급 헌터: "E-rank Hunter"  
+- 개인 공격대: "Private Raid Party"  
+- 던전: "Dungeon"  
+- C급 게이트: "C-rank Gate"  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 몬스터들: "Monsters"  
+- 보스: "Boss"  
+- 경험치: "Experience Points"  
+- 레이드: "Raid"  
+- 보너스: "Bonus"  
+- End: "End"
+
+### Chapter 27 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 형님: "Hyung-nim"  
+- 공대 팀: "Raid Team"  
+- 공대장: "Raid Leader"  
+- D급 헌터: "D-rank Hunter"  
+- 길드 마스터: "Guild Master"  
+- 협회: "Hunters Association"  
+- 랜덤 박스 보상: "Random Box Reward"  
+- C급 던전: "C-rank Dungeon"  
+- 게이트: "Gate"  
+- End: "End"
+
+### Chapter 27 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 헌터: "Hunters"  
+- 헌터 협회: "Hunters Association"  
+- E급 던전: "E-rank Dungeon"  
+- 마수: "Magic Beasts"  
+- 레벨: "Level"  
+- 헌터 폰: "Hunter Phone"  
+- 일일 퀘스트: "Daily Quest"  
+- 팔굽혀 펴기: "Push-ups"  
+- 윗몸 일으키기: "Sit-ups"  
+- 스쿼트: "Squats"  
+- 달리기: "Running"  
+- 강자가 되기 위한 준비: "Preparation to Become Stronger"  
+- 보상: "Reward"  
+- End: "End"
+
+### Chapter 27 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 히든 퀘스트: "Hidden Quest"  
+- 상태 회복: "Status Recovery"  
+- 스탯 포인트: "Stat Points"  
+- 축복받은 랜덤 박스: "Blessed Random Box"  
+- 저주받은 랜덤 박스: "Cursed Random Box"  
+-System: "System"
+- End: "End"
+
+### Chapter 27 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 능력치: "Stats"
+- 플레이어: "Player"
+- 아이템: "Item"
+- 무기: "Weapon"
+- End: "End"- 
+
+### Chapter 27 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 벌레: "Insect"  
+- 던전의 몬스터들: "Dungeon Monsters"  
+- 경험치: "Experience Points"  
+- End: "End"
+
+### Chapter 27 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 랜덤 박스: "Random Box"  
+- 팀원: "Team Member"  
+- 공격대: "Raid Party"  
+- End: "End"
+
+### Chapter 27 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+### Chapter 27 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+### Chapter 27 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+---
+
+### Chapter 28 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진우: "Jin-Woo" (male)
+- 인스턴스 던전: "Instant Dungeon"
+- 악마성의 열쇠: "Demon Castle Key"
+- 악마성: "Demon Castle"
+- S급: "S-rank"
+- 종류: "Type"
+- 송파구: "Songpa District"
+- 대성 타워: "Daesung Tower"
+- E급: "E-rank"
+- S급 헌터: "S-rank Hunter"
+- B급: "B-rank"
+- S급 게이트: "S-rank Gate"
+- 제주도: "Jeju Island"
+- 이동: "Teleport"
+- 출입: "Access"
+- 창고: "Inventory"
+- 귀환석: "Return Stone"
+- End: "End"
+
+### Chapter 28 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 대성 타워: "Daesung Tower"  
+- 게이트: "Gate"  
+- 열쇠: "Key"  
+- End: "End"
+
+### Chapter 28 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 탑: "Tower"
+- 성: "Castle"
+- 악마성: "Demon Castle"
+- 문: "Gate"
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 단검: "Dagger"
+- 공격력: "Attack Power"
+- 마비: "Paralysis"
+- 출혈: "Bleeding"
+- 체력: "Health"
+- 인벤토리: "Inventory"
+- 상점: "Shop"
+- 몬스터: "Monster"
+- 켈베로스: "Cerberus"
+- 지옥의 수문장: "Gatekeeper of Hell"
+- 페널티 존: "Penalty Zone"
+- 거대 지네: "Giant Centipede"
+- 레벨: "Level"
+- End: "End"
+
+### Chapter 28 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 감각 스탯: "Senses Stat"
+- 이빨: "Fangs"
+- 꼬리: "Tail"
+- 늑대 학살자: "Wolf Slayer"
+- 버프 효과: "Buff Effect"
+- 짐승형 몬스터: "Beast-type Monster"
+- 능력치: "Stats"
+- 살기: "Killing Intent"
+- 저항력: "Resistance"
+- End: "End"
+
+### Chapter 28 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 마비: "Paralysis"  
+- 분노: "Rage"  
+- 통증: "Pain"  
+- 마수: "Magic Beast"  
+- 근성: "Tenacity"  
+- 피해: "Damage"  
+- 즉사: "Instant Death"  
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 패시브: "Passive"  
+- End: "End"- 
+
+### Chapter 28 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+### Chapter 28 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+### Chapter 28 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 켈베로스: "Cerberus"
+- 지옥의 수문장: "Gatekeeper of Hell"
+- End: "End"
+
+### Chapter 28 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 감각: "Senses"
+- 스탯: "Stats"
+- 켈베로스의 머리: "Cerberus's Head"
+- 살기: "Killing Intent"
+- End: "End"
+
+### Chapter 28 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 데미지: "Damage"  
+- 켈베로스: "Cerberus"
+- 지옥의 수문장: "Gatekeeper of Hell"
+- 근성: "Tenacity"  
+- End: "End"
+
+---
+
+### Chapter 29 [context_1: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 진우: "Jin-Woo" (male)  
+- 일일 퀘스트: "Daily Quest"  
+- 보상: "Reward"  
+- 체력: "Health"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 단검: "Dagger"  
+- 켈베로스: "Cerberus"  
+- 상태 회복: "Status Recovery"  
+- End: "End"
+
+### Chapter 29 [context_1: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 켈베로스: "Cerberus"
+- 지옥의 수문장: "Gatekeeper of Hell"
+- 스킬: "Skill"
+- 몬스터: "Monster"
+- 성문의 열쇠: "Gate Key"
+- 켈베로스의 어금니: "Cerberus's Fang"
+- 민첩: "Agility"
+- 감각: "Senses"
+- 스탯: "Stats"
+- 악마성: "Demon Castle"
+- 문지기: "Gatekeeper"
+- 잡동사니: "Miscellaneous Items"
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"  
+- End: "End"
+
+### Chapter 29 [context_1: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 스탯창: "Stat Window"  
+- 근력: "Strength"  
+- 지능: "Intelligence"  
+- 분배 가능 능력치 포인트: "Available Stat Points"  
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 상점: "Shop"  
+- 골드: "Gold"  
+- 합정역 인던: "Hapjeong Station Instant Dungeon"  
+- 악마성의 열쇠: "Demon Castle Key"  
+- 퀘스트 보상: "Quest Reward"
+- End: "End"
+
+### Chapter 29 [context_1: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 렙업: "Level up"
+- 레이 올습니다: "You Leveled Up"  
+- 아이템: "Item"
+- 창고: "Inventory"
+- 유진호: "Yoo Jin-Ho" (male)
+- 팀원: "Team Member"
+- 헌터 사이트: "Hunter Website"
+- 형님: "Hyung-nim"
+- E급 헌터: "E-rank Hunter"
+- 개인 공격대: "Private Raid Party"
+- 황동석: "Hwang Dong-Seok" (male)
+- 레벨: "Level"
+- 협회: "Association"
+- 인던: "Instant Dungeon"
+- 구인 게시판: "Recruitment Board"
+- End: "End"
+
+### Chapter 29 [context_1: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- 송 씨 아저씨: "Mr. Song" (male)  
+- 송치열: "Song Chi-Yeol" (male)  
+- 성 씨: "Mr. Sung" (male)  
+- 주희: "Joo-Hee" (female)  
+- 레이드: "Raid"  
+- 헌터: "Hunter"  
+- 감각 스탯: "Senses Stat"  
+- End: "End"- 
+
+### Chapter 29 [context_2: 0]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+### Chapter 29 [context_2: 1]
+- 입수 난이도: "Acquisition Difficulty"
+- 지옥의 수문장: "Gatekeeper of Hell"
+- End: "End"
+
+### Chapter 29 [context_2: 2]
+- 입수 난이도: "Acquisition Difficulty"
+- 축복받은 상: "Blessed Reward"  
+- End: "End"
+
+### Chapter 29 [context_2: 3]
+- 입수 난이도: "Acquisition Difficulty"
+- 인던 열쇠: "Instant Dungeon Key"
+- End: "End"
+
+### Chapter 29 [context_2: 4]
+- 입수 난이도: "Acquisition Difficulty"
+- End: "End"
+
+---
+
+### Chapter 30 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 진우: "Jin-Woo" (male)
+- 송치열: "Song Chi-Yeol" (male)
+- 송 씨: "Mr. Song" (male)
+- 게이트: "Gate"
+- 헌터: "Hunter"
+- S급: "S-rank"
+- 치유계열 헌터: "Healer-type Hunter"
+- 레이드: "Raid"
+- 마수: "Magic Beast"
+- End: "End"
+
+### Chapter 30 [context_1: 1]
+- E급: "E-rank"
+- C급: "C-rank"
+- 감각 스탯: "Senses Stat"
+- End: "End"
+
+### Chapter 30 [context_1: 2]
+- 헌터 협회: "Hunters Association"
+- C등급 헌터: "C-rank Hunter"
+- 성진우: "Sung Jin-Woo" (male)
+- End: "End"
+
+### Chapter 30 [context_1: 3]
+- 협회: "Hunters Association"
+- 헌터들: "Hunters"
+- 주희: "Joo-Hee" (female)
+- 김상식: "Kim Sang-Shik" (male)
+- 성 씨: "Mr. Sung" (male)
+- 유진호: "Yoo Jin-Ho" (male)
+- 살기: "Killing Intent"
+- End: "End"
+
+### Chapter 30 [context_1: 4]
+- 협회 직원: "Association Employee"  
+- 감시과 헌터: "Surveillance Division Hunter"  
+- End: "End"- 
+
+### Chapter 30 [context_2: 0]
+- End: "End"
+
+### Chapter 30 [context_2: 1]
+- End: "End"
+
+### Chapter 30 [context_2: 2]
+- 던전: "Dungeon"  
+- End: "End"
+
+### Chapter 30 [context_2: 3]
+- End: "End"
+
+### Chapter 30 [context_2: 4]
+- 감시과: "Surveillance Division"
+- End: "End"
+
+---
+
+### Chapter 31 [context_1: 0]
+- 김상식: "Kim Sang-Shik" (male)  
+- 감시과 헌터: "Surveillance Division Hunter"  
+- B급 헌터: "B-rank Hunter"  
+- C급 헌터: "C-rank Hunter"  
+- B랭크: "B-rank"  
+- 상급 헌터: "High-rank Hunter"  
+- C랭크: "C-rank"  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 레이드: "Raid"  
+- 감각 스탯: "Senses Stat"  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 강태식: "Kang Tae-Shik" (male)  
+- 죄수들: "Prisoners"  
+- End: "End"
+
+### Chapter 31 [context_1: 1]
+- 송치열: "Song Chi-Yeol" (male)  
+- 고블린: "Goblin"  
+- 마수: "Magic Beasts"  
+- 던전: "Dungeon"  
+- 마정석: "Essence Stones"  
+- 경험치: "Experience Points"  
+- 협회: "Hunters Association"  
+- C급: "C-rank"  
+- End: "End"
+
+### Chapter 31 [context_1: 2]
+- D, E급 게이트: "D, E-rank Gates"  
+- 보스: "Boss"  
+- 치료 마법: "Healing Magic"  
+- End: "End"
+
+### Chapter 31 [context_1: 3]
+- 성 씨: "Mr. Sung" (male)  
+- 팀원: "Team Member"  
+- 이주희: "Lee Joo-Hee" (female)  
+- 치유계열 헌터: "Healer-type Hunter"  
+- B급: "B-rank"  
+- 마력: "Mana"  
+- 하급 헌터: "Low-rank Hunter"  
+- 비전투계열: "Non-combat type"  
+- End: "End"
+
+### Chapter 31 [context_1: 4]
+- 헌터: "Hunter"  
+- C등급: "C-rank"  
+- E급: "E-rank"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- End: "End"  
+
+### Chapter 31 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- B등급: "B-rank"  
+- 죄수: "Prisoner"  
+- End: "End"
+
+### Chapter 31 [context_2: 1]
+- 헌터들: "Hunters"  
+- 게이트: "Gate"  
+- 고블린들: "Goblins"  
+- End: "End"
+
+### Chapter 31 [context_2: 2]
+- 던전 난이도: "Dungeon Difficulty"  
+-  방망이: "Wooden Club"  
+- 나무칼: "Wooden Sword"  
+- 불꽃: "Flame"  
+- End: "End"
+
+### Chapter 31 [context_2: 3]
+- End: "End"
+
+### Chapter 31 [context_2: 4]
+- 성진우: "Sung Jin-Woo" (male)  
+- 말단 헌터: "Low-rank Hunter"  
+- End: "End"
+
+---
+
+### Chapter 32 [context_1: 0]
+- 강태식: "Kang Tae-Shik" (male)  
+- B급: "B-rank"  
+- E급 헌터: "E-rank Hunter"  
+- 상급 헌터: "High-rank Hunter"  
+- 협회: "Association"  
+- 길드: "Guild"  
+- 게이트: "Gate"  
+- 부정 등록자: "Illegal Registrant"  
+- 레이드: "Raid"  
+- End: "End"
+
+### Chapter 32 [context_1: 1]
+- 협회 본부: "Association Headquarters"  
+- 헌터: "Hunter"  
+- 던전: "Dungeon"  
+- 감시과: "Surveillance Division"  
+- B급 헌터: "B-rank Hunter"  
+- 죄수: "Prisoner"  
+- End: "End"
+
+### Chapter 32 [context_1: 2]
+- 벌레들: "Insects"  
+- 헌터들: "Hunters"  
+- 재각성 헌터: "Re-awakened Hunter"  
+- 각성자: "Awakener"  
+- 짐승들: "Beasts"  
+- End: "End"
+
+### Chapter 32 [context_1: 3]
+- E급 터: "E-rank Hunter"  
+- 단검: "Dagger"  
+- 러: "Dealer"  
+- 암살: "Assassination"  
+- 재각성: "Re-awakening"  
+- 스: "Skill"  
+- 은신: "Stealth"  
+- 나이프: "Knife"  
+- 기: "Presence"  
+- 터: "Hunter"  
+- End: "End"
+
+### Chapter 32 [context_1: 4]
+- 긴급 퀘스트: "Emergency Quest"  
+- 플레이어: "Player"  
+- 살의: "Killing Intent"  
+- 페널티: "Penalty"  
+- 처치해야 할 적의 숫자: "Number of Enemies to Defeat"  
+- 처치한 적의 숫자: "Number of Enemies Defeated"  
+- 진우: "Jin-Woo" (male)  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 스킬: "Skill"  
+- 감각 스탯: "Senses Stat"  
+- 추가 퀘스트 보상: "Additional Quest Reward"  
+- End: "End"- 
+
+### Chapter 32 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 재등록: "Re-registration"  
+- 협회 상부: "Association Upper Management"  
+- End: "End"
+
+### Chapter 32 [context_2: 1]
+- 죄수들: "Prisoners"  
+- 헌터 협회: "Hunters Association"  
+- 괴물: "Monster"  
+- End: "End"
+
+### Chapter 32 [context_2: 2]
+- 짐승: "Beast"  
+- 인간: "Human"  
+- End: "End"  
+
+### Chapter 32 [context_2: 3]
+- 초근접형 딜러: "Close-range Dealer"  
+- 특기: "Special Skill"  
+- 암살형 헌터들: "Assassin-type Hunters"  
+- End: "End"
+
+### Chapter 32 [context_2: 4]
+- 황동석: "Hwang Dong-Seok" (male)  
+- 퀘스트 보상: "Quest Reward"
+- End: "End"
+
+---
+
+### Chapter 33 [context_1: 0]
+- 질주: "Dash"  
+- 이동 속도: "Movement Speed"  
+- 마나: "Mana"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 마비: "Paralysis"  
+- 저항력: "Resistance"  
+- 체력: "Health"  
+- 상급 헌터: "High-rank Hunter"  
+- 강태식: "Kang Tae-Shik" (male)  
+- 진우: "Jin-Woo" (male)  
+- End: "End"
+
+### Chapter 33 [context_1: 1]
+- 살상력: "Lethality"
+- 공포: "Fear"
+- 디버프: "Debuff"
+- 암살 클래스: "Assassin Class"
+- D급 던전: "D-ranked Dungeon"
+- 재각성 헌터: "Re-awakened Hunter"
+- End: "End"
+
+### Chapter 33 [context_1: 2]
+- 긴급 퀘스트: "Emergency Quest"  
+- 적: "Enemy"  
+- 보상: "Reward"  
+- 능력치 포인트: "Stat Points"  
+- 황동석: "Hwang Dong-Seok" (male)  
+- 마수: "Magic Beasts"  
+- 마정석: "Essence Stones"  
+- 룬석: "Rune Stone"  
+- 은신: "Stealth"  
+- 룬 문자: "Runic Script"  
+- 스킬: "Skill"  
+- 헌터: "Hunter"  
+- End: "End"
+
+### Chapter 33 [context_1: 3]
+- 성 씨: "Mr. Sung" (male)
+- 송치열: "Song Chi-Yeol" (male)
+- 이주희: "Lee Joo-Hee" (female)
+- E급 헌터: "E-rank Hunter"
+- B급 헌터: "B-rank Hunter"
+- 비전투계열: "Non-combat Type"
+- 치료: "Healing"
+- 게이트: "Gate"
+- 레이드: "Raid"
+- 협회: "Association"
+- End: "End"
+
+### Chapter 33 [context_1: 4]
+- 주희: "Joo-Hee" (female)  
+- 송 씨 아저씨: "Mr. Song" (male)  
+- 등급 재심사: "Rank Re-evaluation"  
+- 시스템: "System"  
+- 레벨업: "Level up"  
+- B급: "B-rank"  
+- S급: "S-rank"  
+- 하급 헌터: "Low-rank Hunter"  
+- D급: "D-rank"  
+- 마력 파동: "Mana Wave"  
+- 던전: "Dungeon"  
+- E급 마수: "E-rank Magic Beast"  
+- 고블린: "Goblin"  
+- 보스: "Boss"  
+- 경험치: "Experience Points"  
+- 김상식: "Kim Sang-Shik" (male)  
+- End: "End"- 
+
+### Chapter 33 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 나이프: "Knife"
+- 속도전: "battle of speed"
+- End: "End"
+
+### Chapter 33 [context_2: 1]
+- End: "End"
+
+### Chapter 33 [context_2: 2]
+- 링: "Ding"  
+- 스트: "Quest"  
+- 처치: "Defeat"  
+- 동석: "Hwang Dong-Seok" (male)  
+- 일당: "Gang"  
+- 몬스터: "Monster"  
+- 석: "Rune Stone"  
+- 스: "Skill"  
+- 터: "Hunter"  
+-  문자: "Runic Script"  
+- 돌: "Stone"  
+- 수: "Absorb"  
+- End: "End"
+
+### Chapter 33 [context_2: 3]
+- 진우 씨: "Mr. Jin-Woo" (male)  
+- C급: "C-rank"  
+- End: "End"
+
+### Chapter 33 [context_2: 4]
+- 송 씨: "Mr. Song" (male)  
+- End: "End"
+
+---
+
+### Chapter 34 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 강태식: "Kang Tae-Shik" (male)  
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 보스: "Boss"  
+- 협회: "Association"  
+- 하급 헌터: "Low-rank Hunter"  
+- 마력: "Mana"  
+- 장비: "Equipment"  
+- End: "End"
+
+### Chapter 34 [context_1: 1]
+- D급 던전: "D-rank Dungeon"
+- 헌터: "Hunter"
+- 홉고블린: "Hobgoblin"
+- 보스방: "Boss Room"
+- End: "End"
+
+### Chapter 34 [context_1: 2]
+- 홉고블린 보스: "Hobgoblin Boss"  
+- 레벨이 올랐습니다: "You leveled up"
+- 던전의 주인: "Dungeon Boss"  
+- 레벨: "Level"  
+- 룬석: "Rune Stone"  
+- 은신 스킬: "Stealth Skill"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 마정석: "Essence Stone"  
+- 인벤토리: "Inventory"  
+- 상태창: "Status Window"  
+- 이름: "Name"  
+- 직업: "Job"  
+- 칭호: "Title"  
+- 늑대학살자: "Wolf Slayer"  
+- 피로도: "Fatigue"  
+- 스탯: "Stats"  
+- 근력: "Strength"  
+- 체력: "Stamina"  
+- 민첩: "Agility"  
+- 지능: "Intelligence"  
+- 감각: "Senses"  
+- 분배 가능 능력치 포인트: "Available Stat Points"  
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 패시브 스킬: "Passive Skill"  
+- 근성: "Tenacity"  
+- 액티브 스킬: "Active Skill"  
+- 질주: "Dash"  
+- 살기: "Killing Intent"  
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"  
+- 던전 입구: "Dungeon Entrance"  
+- 고블린: "Goblin"  
+- End: "End"
+
+### Chapter 34 [context_1: 3]
+- 난이도: "Difficulty"  
+- 던전: "Dungeon"  
+- 마수: "Magic Beasts"  
+- 능력치: "Stats"  
+- 아이템: "Item"  
+- 은신: "Stealth"  
+- 스킬: "Skill"  
+- 상급 헌터: "High-rank Hunter"  
+- 하급 헌터: "Low-rank Hunter"  
+- 암시장: "Black Market"  
+- End: "End"
+
+### Chapter 34 [context_1: 4]
+- 감각 스탯: "Senses Stat"
+- 단검: "Dagger"
+- End: "End"- 
+
+### Chapter 34 [context_2: 0]
+- End: "End"
+
+### Chapter 34 [context_2: 1]
+- End: "End"
+
+### Chapter 34 [context_2: 2]
+- 고블린 보스: "Goblin Boss"  
+- 고블린 대장: "Goblin Leader"  
+- 고블린 개들: "Goblin Minions"  
+- 전의 주인: "Dungeon Boss"  
+- 레이 올습니다: "You Leveled Up"  
+- 석: "Rune Stone"  
+- 은신 스: "Stealth Skill"  
+- 인토리: "Inventory"  
+- 레: "Level"  
+- 호: "Title"  
+- 민: "Agility"  
+- 패시브 스: "Passive Skill"  
+- 근성: "Tenacity"  
+- 티브 스: "Active Skill"  
+- 파수의 목이: "Watcher's Necklace"  
+- 전 입구: "Dungeon Entrance"  
+- End: "End"
+
+### Chapter 34 [context_2: 3]
+- End: "End"
+
+### Chapter 34 [context_2: 4]
+- End: "End"
+
+---
+
+### Chapter 35 [context_1: 0]
+- 진우: "Jin-Woo" (male)
+- 스: "Skills"
+- 패시브 스: "Passive Skill"
+- 근성: "Tenacity"
+- 티브 스: "Active Skill"
+- 질주: "Dash"
+- 살기: "Killing Intent"
+- 은신: "Stealth"
+- 마나: "Mana"
+- MP: "MP"
+- 고블린: "Goblin"
+- 근성: "Tenacity"
+- End: "End"
+
+### Chapter 35 [context_1: 1]
+- 강태식: "Kang Tae-Shik" (male)
+- 상급 헌터: "High-rank Hunter"
+- 하급 헌터: "Low-rank Hunter"
+- 지능: "Intelligence"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 감각: "Senses"
+- 능력치 포인트: "Stat Points"
+- 물리 데미지 감소: "Physical Damage Reduction"
+- 던전: "Dungeon"
+- End: "End"
+
+### Chapter 35 [context_1: 2]
+- 상태창: "Status Window"
+- 게이트: "Gate"
+- 보스방: "Boss Room"
+- 마정석: "Essence Stone"
+- 조사과: "Investigation Department"
+- 생존자: "Survivor"
+- 협회 직원: "Association Staff"  
+- 금강실업 사장님: "Chairman of Geumgang Industries" (male)
+- 송치열: "Song Chi-Yeol" (male)
+- 감시과: "Surveillance Division"
+- 강태식 헌터: "Hunter Kang Tae-Shik" (male)
+- End: "End"
+
+### Chapter 35 [context_1: 3]
+- 협회: "Association"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 재각성: "Re-awakening"  
+- 등급 재심사: "Rank Re-evaluation"  
+- 헌터: "Hunter"  
+- B급 헌터: "B-rank Hunter"  
+- C급 헌터: "C-rank Hunter"  
+- D급 헌터: "D-rank Hunter"  
+- 이주희: "Lee Joo-Hee" (female)  
+- 전투계열 헌터: "Combat-type Hunter"  
+- End: "End"
+
+### Chapter 35 [context_1: 4]
+- B급 힐러: "B-rank Healer"
+- 서포트: "Support"
+- 직원들: "Employees"
+- 성 씨: "Mr. Sung" (male)
+- 조사과 직원: "Investigation Department Staff"  
+- 주희: "Joo-Hee" (female)  
+- End: "End"- 
+
+### Chapter 35 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 스킬: "Skill"
+- 패시브 스킬: "Passive Skill"
+- 근성: "Tenacity"
+- 액티브 스킬: "Active Skill"
+- 홉고블린: "Hobgoblin"
+- 스킬 목록: "Skill List"
+- 필요 마나: "Mana Required"
+- 시전자: "Caster"
+- End: "End" 
+
+### Chapter 35 [context_2: 1]
+- 지능 스탯: "Intelligence Stat"  
+- 긴급 퀘스트: "Emergency Quest"  
+- 보너스 포인트: "Bonus Points"  
+- End: "End"
+
+### Chapter 35 [context_2: 2]
+- 협회 직원: "Association Staff"  
+- 금강실업 사장: "Chairman of Geumgang Industries"  
+- 경찰: "Police"  
+- End: "End"
+
+### Chapter 35 [context_2: 3]
+- 레이드: "Raid"
+- End: "End"
+
+### Chapter 35 [context_2: 4]
+- 상급 터: "High-rank Hunter"  
+- B급 러: "B-rank Healer"  
+- C급 터: "C-rank Hunter"  
+- B급 터: "B-rank Hunter"  
+- 치열: "Chi-Yeol" (male)  
+- 성 : "Mr. Sung" (male)  
+- End: "End"
+
+---
+
+### Chapter 36 [context_1: 0]
+- 진우: "Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)  
+- 마정석: "Essence Stone"  
+- 지하 신전: "Underground Temple"  
+- 헌터: "Hunter"  
+- End: "End"
+
+### Chapter 36 [context_1: 1]
+- 협회: "Association"  
+- 헌터 폰: "Hunter Phone"  
+- 각성자: "Awakener"  
+- 공대장: "Raid Leader"  
+- End: "End"
+
+### Chapter 36 [context_1: 2]
+- 최유라: "Choi Yoora" (female)
+- 유진호: "Yoo Jin-Ho" (male)
+- 레이드: "Raid"
+- 레벨: "Level"
+- 능력치: "Stats"
+- 미국 동부: "Eastern United States"
+- 북미: "North America"
+- 길드: "Guild"
+- 스케빈저: "Scavenger"
+- S급: "S-rank"
+- End: "End"
+
+### Chapter 36 [context_1: 3]
+- 동수: "Hwang Dongsu" (male)  
+- 동석: "Hwang Dong-Seok" (male)  
+- C급 게이트: "C-rank Gate"  
+- D급 터: "D-rank Hunter"  
+- E급 터: "E-rank Hunter"  
+- C급 터: "C-rank Hunter"  
+- 보충 인원: "Supplementary Member"  
+- 로라: "Laura" (female)  
+- 미스터 황 : "Mr. Hwang" (male)  
+- End: "End"
+
+### Chapter 36 [context_1: 4]
+- 성진우: "Sung Jin-Woo" (male)
+- 터: "Hunter"
+- End: "End"- 
+
+### Chapter 36 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- End: "End"
+
+### Chapter 36 [context_2: 1]
+- End: "End"
+
+### Chapter 36 [context_2: 2]
+- End: "End"
+
+### Chapter 36 [context_2: 3]
+- 황동수: "Hwang Dongsu" (male)
+- 황동석: "Hwang Dong-Seok" (male)
+- D급 헌터: "D-rank Hunter"
+- E급 헌터: "E-rank Hunter"
+- C급 헌터: "C-rank Hunter"
+- 미국: "America"
+- 헌터인 범죄자 인도 조약: "Hunter Criminal Extradition Treaty"
+- End: "End"
+
+### Chapter 36 [context_2: 4]
+- 재벌 2세: "Second-generation Chaebol"  
+- End: "End"
+
+---
+
+### Chapter 37 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 게이트: "Gate"  
+- C급: "C-rank"  
+- 진우: "Jin-Woo" (male)  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 헌터: "Hunter"  
+- 협회: "Association"  
+- 길드: "Guild"  
+- 레이드: "Raid"  
+- 대장: "Leader"  
+- 성진우 헌터: "Hunter Sung Jin-Woo" (male)  
+- 던전: "Dungeon"  
+- End: "End"
+
+### Chapter 37 [context_1: 1]
+- 비밀 유지 조항: "Confidentiality Clause"
+- C급 던전: "C-rank Dungeon"
+- 상위 던전: "High-rank Dungeon"
+- 황동석: "Hwang Dong-Seok" (male)
+- 형님: "Hyung-nim"
+- End: "End"
+
+### Chapter 37 [context_1: 2]
+- 이태리 장인 길드: "Italian Craftsmen Guild"  
+- 장검: "Longsword"  
+- 성진우: "Sung Jin-Woo" (male)  
+- 공대장: "Raid Leader"  
+- D급: "D-rank"  
+- E급: "E-rank"  
+- C급 게이트: "C-rank Gate"  
+- 헌터들: "Hunters"  
+- End: "End"
+
+### Chapter 37 [context_1: 3]
+- C급 헌터: "C-rank Hunter"  
+- 보스: "Boss"  
+- 던전의 보스: "Dungeon Boss"  
+- End: "End"
+
+### Chapter 37 [context_1: 4]
+- 터들: "Hunters"
+- C급 던전: "C-rank Dungeon"
+- 윤귀원: "Yoon Gwi-Won" (male)
+- 마정석: "Essence Stones"
+- 스: "Skill"
+- 상급 단검술: "Advanced Dagger Technique"
+- 급소 찌르기: "Vital Strike"
+- 질주: "Dash"
+- 패시브 스: "Passive Skill"
+- 근성: "Tenacity"
+- 살기: "Killing Intent"
+- 은신: "Stealth"
+- 티브 스: "Active Skill"
+- 정보창: "Information Window"
+- End: "End"- 
+
+### Chapter 37 [context_2: 0]
+- 성진우 헌터님: "Hunter Sung Jin-Woo" (male)  
+- 헌터 자격증: "Hunter License"  
+- End: "End"
+
+### Chapter 37 [context_2: 1]
+- 대동강: "Taedong River"
+- 김선달: "Kim Seon-Dal" (male)
+- 마스터: "Master"
+- 봉고차: "Van"
+- End: "End"
+
+### Chapter 37 [context_2: 2]
+- End: "End"
+
+### Chapter 37 [context_2: 3]
+- 급 던전: "Rank Dungeon"
+- End: "End"
+
+### Chapter 37 [context_2: 4]
+- 인던열쇠: "Instant Dungeon Key"
+- 윤귀원: "Yoon Gwi-Won" (male)  
+- 좀비: "Zombie"  
+- 스킬: "Skill"  
+- 급소 찌르기: "Vital Strike"  
+- 근성: "Tenacity"  
+- 패시브 스킬: "Passive Skill"  
+- 액티브 스킬: "Active Skill"  
+- 레벨업: "Level Up"  
+- End: "End"
+
+---
+
+### Chapter 38 [context_1: 0]
+- 미래 백화점: "Mirai Department Store"
+- 질주: "Dash"
+- 이동 속도: "Movement Speed"
+- 마나: "Mana"
+- 상급 단검술: "Advanced Dagger Technique"
+- 패시브 스: "Passive Skill"
+- 단검: "Dagger"
+- 데미지: "Damage"
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 급소 찌르기: "Vital Strike"  
+- 티브 스: "Active Skill"
+- 적: "Enemy"
+- 진우: "Jin-Woo" (male)
+- 강태식: "Kang Tae-Shik" (male)
+- End: "End"
+
+### Chapter 38 [context_1: 1]
+- 레벨이 올랐습니다: "You leveled up"
+- 좀비: "Zombie"
+- 스킬: "Skill"
+- 공격형 스킬: "Offensive Skill"
+- 레벨업: "Level Up"
+- 마수: "Magic Beasts"
+- 유진호: "Yoo Jin-Ho" (male)
+- 형님: "Hyung-nim"
+- C급 헌터: "C-rank Hunter"
+- B급: "B-rank"
+- 마나 포션: "Mana Potion"
+- 상점: "Shop"
+- 소모품: "Consumable"
+- 창고: "Inventory"
+- 양도: "Transfer"
+- End: "End"
+
+### Chapter 38 [context_1: 2]
+- 링 포션: "Healing Potion"
+- 포션: "Potion"
+- 러: "Healer"
+- 마정석: "Essence Stones"
+- End: "End"
+
+### Chapter 38 [context_1: 3]
+- 던전: "Dungeon"
+- 레이드: "Raid"
+- 선배: "Senior"
+- 동생: "Junior"
+- 팀원: "Team Member"
+- 유진호 대장: "Captain Yoo Jin-Ho" (male)
+- 성진우 보조: "Assistant Sung Jin-Woo" (male)
+- 헌터: "Hunter"
+- 게이트: "Gate"
+- 고스톱팀: "Go-Stop Team"
+- 공격대: "Raid Party"
+- End: "End"
+
+### Chapter 38 [context_1: 4]
+- 헌터들: "Hunters"
+- 백호 길드: "White Tiger Guild"
+- 제2관리과: "Second Management Division"
+- 과장 안상민: "Section Chief Ahn Sang-Min" (male)
+- 안상민: "Ahn Sang-Min" (male)
+- 현 대리: "Deputy Hyun" (male)
+- 현기철: "Hyun Gi-Chul" (male)
+- C급 게이트: "C-rank Gate"
+- 5대 길드: "Five Major Guilds"
+- 제1관리과: "First Management Division"
+- C급 게이트 공략 허가: "C-rank Gate"
+- 공략 허가: "Conquest Permit"
+- End: "End"- 
+
+### Chapter 38 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 액티브 스킬: "Active Skill"  
+- 필요 마나: "Mana Required"  
+- 패시브 스킬: "Passive Skill"  
+- 추가 데미지: "Additional Damage"  
+- End: "End"
+
+### Chapter 38 [context_2: 1]
+- 비: "Zombie"
+- 스: "Skill"
+- 공격형 스: "Attack Skill"
+- 레업: "Level Up"
+- C급 터: "C-rank Hunter"
+- B급 터: "B-rank Hunter"
+- 아이템: "Item"
+- End: "End"
+
+### Chapter 38 [context_2: 2]
+- 인던열쇠: "Instant Dungeon Key"
+- 힐링 포션: "Healing Potion"
+- 짐꾼: "Porter"
+- 힐러: "Healer"
+- End: "End"
+
+### Chapter 38 [context_2: 3]
+- 던전: "Dungeon"
+- End: "End"
+
+### Chapter 38 [context_2: 4]
+- 백호 길드: "White Tiger Guild"
+- 안상민: "Ahn Sang-Min" (male)  
+- 과장: "Section Chief"
+- 제2관리과: "Second Management Division"
+- 대리: "Deputy" (male)  
+- 공략 허가: "Conquest Permit"  
+- End: "End"
+
+---
+
+### Chapter 39 [context_1: 0]
+- 미래 백화점: "Mirai Department Store"
+- 나 혼자만 레벨업: "Solo Leveling"  
+- C급 게이트: "C-rank Gate"  
+- 백호 길드: "White Tiger Guild"  
+- 공격대: "Raid Party"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- End: "End"
+
+### Chapter 39 [context_1: 1]
+- 이중 전: "Double Dungeon"
+- 성진우: "Sung Jin-Woo" (male)
+- 유진건설: "Yoojin Construction"
+- 유명한: "Yoo Myung-Han" (male)
+- E급 터: "E-rank Hunter"
+- D급 터: "D-rank Hunter"
+- S급 터: "S-rank Hunter"
+- 현기철: "Hyun Gi-Chul" (male)
+- 안상민: "Ahn Sang-Min" (male)
+- 레이드: "Raid"
+- End: "End"
+
+### Chapter 39 [context_1: 2]
+- 강태식: "Kang Tae-Shik" (male)  
+- 송치열: "Song Chi-Yeol" (male)  
+- 재각성 헌터: "Re-awakened Hunter"  
+- E급 헌터: "E-rank Hunter"  
+- C급 마법사: "C-rank Mage"  
+- B급 힐러: "B-rank Healer"  
+- 감시과 헌터: "Surveillance Division Hunter"  
+- 마법 계열 헌터: "Mage-type Hunter"  
+- 전투 계열: "Combat-type"  
+- 암살: "Assassin"  
+- 상급 헌터: "High-rank Hunter"  
+- End: "End"
+
+### Chapter 39 [context_1: 3]
+- B급: "B-rank"
+- 등급 재심사: "Rank Re-evaluation"
+- C급 던전: "C-rank Dungeon"
+- 과장님: "Section Chief"
+- 신입 스카우트: "New Recruit Scout"
+- 유진호 팀: "Yoo Jin-Ho's Team" (male)
+- 게이트: "Gate"
+- 대형 신인: "Major Rookie"
+- End: "End"
+
+### Chapter 39 [context_1: 4]
+- 제2관리과: "Second Management Division"  
+- 인던열쇠: "Instant Dungeon Key"  
+- A급 헌터: "A-rank Hunter"  
+- End: "End"- 
+
+### Chapter 39 [context_2: 0]
+- 공략 허가: "Conquest Permit"
+- 프리랜서 헌터: "Freelance Hunter"  
+- End: "End"
+
+### Chapter 39 [context_2: 1]
+- 마수: "Magic Beasts"  
+- 회장: "Chairman"  
+- 던전: "Dungeon"
+- End: "End"
+
+### Chapter 39 [context_2: 2]
+- 길드: "Guild"  
+- End: "End"
+
+### Chapter 39 [context_2: 3]
+- 과장: "Section Chief"
+- End: "End"
+
+### Chapter 39 [context_2: 4]
+- 헌터: "Hunter"  
+- End: "End"
+
+---
+
+### Chapter 40 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 안상민: "Ahn Sang-Min" (male)
+- 성진우: "Sung Jin-Woo" (male)
+- 유진호: "Yoo Jin-Ho" (male)
+- 현기철: "Hyun Gi-Chul" (male)
+- 과장님: "Section Chief"
+- 공격대: "Raid Party"
+- End: "End"
+
+### Chapter 40 [context_1: 1]
+- 미래 백화점: "Mirai Department Store"
+- 레이드: "Raid"
+- 게이트: "Gate"
+- C급 던전: "C-rank Dungeon"
+- 솔플: "Solo Play"
+- A급 헌터: "A-rank Hunter"
+- B급: "B-rank"
+- 진우: "Jin-Woo" (male)
+- 늑대 학살자: "Wolf Slayer"
+- 짐승형 몬스터: "Beast-type Monster"
+- 마수: "Magic Beast"
+- 마정석: "Essence Stone"
+- 힐링 포션: "Healing Potion"
+- 마력: "Mana"
+- 헌터: "Hunter"
+- End: "End"
+
+### Chapter 40 [context_1: 2]
+- 공대장: "Raid Leader"  
+- 길드 마스터: "Guild Master"  
+- End: "End"
+
+### Chapter 40 [context_1: 3]
+- 길드: "Guild"
+- 보스: "Boss"
+- 인스턴스 던전: "Instant Dungeon"
+- 랜덤 박스: "Random Box"
+- 인던열: "Instant Dungeon Key"
+- 보 전화: "Promotional Call"
+- End: "End"
+
+### Chapter 40 [context_1: 4]
+- 백호 길드: "White Tiger Guild"
+- 이중 던전: "Double Dungeon"
+- 협회: "Association"
+- End: "End"- 
+
+### Chapter 40 [context_2: 0]
+- 오른팔: "Right Hand"
+- End: "End"
+
+### Chapter 40 [context_2: 1]
+- A급: "A-rank"  
+- 칭호: "Title"  
+- 포션: "Potion"  
+- 살기: "Killing Intent"  
+- End: "End"
+
+### Chapter 40 [context_2: 2]
+- 형님: "Hyung-nim"
+- End: "End"
+
+### Chapter 40 [context_2: 3]
+- 빌딩: "Building"  
+- 사무실: "Office"  
+- 던전: "Dungeon"  
+- 랜덤 박스: "Random Box"  
+- 인던열쇠: "Instant Dungeon Key"  
+- 성진우 씨: "Mr. Sung Jin-Woo" (male)  
+- 전화: "Phone"  
+- End: "End"
+
+### Chapter 40 [context_2: 4]
+- End: "End"
+
+---
+
+### Chapter 41 [context_1: 0]
+- 협회 사이트: "Association Website"  
+- 헌터: "Hunter"  
+- 진우: "Jin-Woo" (male)  
+- 헌터스: "Hunters Guild"  
+- 사신: "Fiend Guild"  
+- 기사단: "Knight Guild"  
+- 명성: "Fame Guild"  
+- 백호: "White Tiger Guild"  
+- 대한민국 5대 길드: "Five Major Guilds of South Korea"  
+- 안상민: "Ahn Sang-Min" (male)  
+- 성진우: "Sung Jin-Woo" (male)  
+- End: "End"
+
+### Chapter 41 [context_1: 1]
+- 백호 길드: "White Tiger Guild"  
+- 제2관리과: "Second Management Division"  
+- 과장: "Section Chief"  
+- S급: "S-rank"  
+- A급: "A-rank"  
+- C급: "C-rank"  
+- 유진건설: "Yoojin Construction"  
+- 재각성 헌터: "Re-awakened Hunter"  
+- End: "End"
+
+### Chapter 41 [context_1: 2]
+- C급 던전: "C-rank Dungeon"
+- 성진우 헌터: "Hunter Sung Jin-Woo" (male)
+- 재각성자: "Re-awakener"
+- 유진호: "Yoo Jin-Ho" (male)
+- End: "End"
+
+### Chapter 41 [context_1: 3]
+- D급 헌터: "D-rank Hunter"  
+- B급: "B-rank"  
+- 등급 재심사: "Rank Re-evaluation"  
+- 5대 길드: "Five Major Guilds"  
+- 레벨: "Level"  
+- 상급 던전: "High-rank Dungeon"  
+- 마정석: "Essence Stones"  
+- 마수: "Magic Beasts"  
+- 룬석: "Rune Stone"  
+- 아티팩트: "Artifact"  
+- End: "End"
+
+### Chapter 41 [context_1: 4]
+- 유진: "Yoojin" (male)
+- 백호 빌딩: "White Tiger Building"
+- E급 헌터: "E-rank Hunter"
+- 재각성: "Re-awakening"
+- 형님: "Hyung-nim"
+- End: "End"- 
+
+### Chapter 41 [context_2: 0]
+- 헌터들: "Hunters"  
+- 헌터님: "Hunter"  
+- 피해: "Damage"  
+- 사신 길드: "Fiend Guild"  
+- 기사단 길드: "Knight Guild"  
+- 명성 길드: "Fame Guild"  
+- 은석: "Eunseok" (male)  
+- End: "End"
+
+### Chapter 41 [context_2: 1]
+- End: "End"
+
+### Chapter 41 [context_2: 2]
+- End: "End"
+
+### Chapter 41 [context_2: 3]
+- End: "End"
+
+### Chapter 41 [context_2: 4]
+- 진호: "Jin-Ho" (male)
+- End: "End"
+
+---
+
+### Chapter 42 [context_1: 0]
+- 나 자만 레업: "Solo Leveling"
+- 성진우: "Sung Jin-Woo" (male)
+- 안상민: "Ahn Sang-Min" (male)
+- 유진건설: "Yoojin Construction"
+- 유진호: "Yoo Jin-Ho" (male)
+- 유명한: "Yoo Myung-Han" (male)
+- 길드: "Guild"
+- 형님: "Hyung-nim"
+- End: "End"
+
+### Chapter 42 [context_1: 1]
+- 현기철: "Hyun Gi-Chul" (male)  
+- 진우: "Jin-Woo" (male)  
+- 헌터: "Hunter"  
+- 제2관리과: "Second Management Division"  
+- 백호 길드: "White Tiger Guild"  
+- End: "End"
+
+### Chapter 42 [context_1: 2]
+- 은신: "Stealth"  
+- 유진: "Yoojin"  
+- 감시: "Surveillance"  
+- 경호: "Bodyguard"  
+- 등급: "Rank"  
+- End: "End"
+
+### Chapter 42 [context_1: 3]
+- 은신 스킬: "Stealth Skill"  
+- 던전: "Dungeon"  
+- 비밀 유지: "Confidentiality"  
+- 과장: "Section Chief"  
+- 부하 직원: "Subordinate Staff"  
+- 재각성: "Re-awakening"  
+- 경비: "Security"  
+- 방범 시스템: "Security System"  
+- End: "End"
+
+### Chapter 42 [context_1: 4]
+- 과장님: "Section Chief"  
+- 상태창: "Status Window"  
+- 레벨: "Level"  
+- 직업: "Job"  
+- 칭호: "Title"  
+- 피로도: "Fatigue"  
+- 스탯: "Stats"  
+- 근력: "Strength"  
+- 체력: "Stamina"  
+- 민첩: "Agility"  
+- 지능: "Intelligence"  
+- 감각: "Senses"  
+- 분배 가능 능력치 포인트: "Available Stat Points"  
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 패시브 스킬: "Passive Skill"  
+- 근성: "Tenacity"  
+- 상급 단검술: "Advanced Dagger Technique"  
+- 액티브 스킬: "Active Skill"  
+- 질주: "Dash"  
+- 살기: "Killing Intent"  
+- 급소 찌르기: "Vital Strike"  
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"  
+- End: "End"- 
+
+### Chapter 42 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 길드장: "Guild Master"  
+- 회장: "Chairman"  
+- End: "End"
+
+### Chapter 42 [context_2: 1]
+- End: "End"
+
+### Chapter 42 [context_2: 2]
+- End: "End"
+
+### Chapter 42 [context_2: 3]
+- 직원: "Staff"  
+- 기철이: "Gi-Chul" (male)  
+- 두려움: "Fear"  
+- 은신 스킬: "Stealth Skill"  
+- End: "End"
+
+### Chapter 42 [context_2: 4]
+- 스킬: "Skills"  
+- 근성: "Tenacity"  
+- End: "End"
+
+---
+
+### Chapter 43 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 레벨: "Level"  
+- 인던: "Instant Dungeon"  
+- 던전: "Dungeon"  
+- C급 던전: "C-rank Dungeon"  
+- 사냥꾼: "Hunter"
+- 헌터: "Hunter"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 레이드: "Raid"  
+- B급 헌터: "B-rank Hunter"  
+- 진우: "Jin-Woo" (male)  
+- 마수: "Magic Beasts"  
+- End: "End"
+
+### Chapter 43 [context_1: 1]
+- 사냥꾼: "Hunter"
+- 사냥터: "Hunting Ground"
+- 악마성 던전: "Demon Castle Dungeon"
+- 문지기 개 켈베로스: "Gatekeeper Dog Cerberus"
+- 은신 스킬: "Stealth Skill"
+- 랜덤 박스: "Random Box"
+- 열쇠: "Key"
+- 미래 백화점: "Mirai Department Store"
+- 붉은색 몬스터: "Red Monster"
+- 페널티 퀘스트: "Penalty Quest"
+- 독이빨 거대 모레지네: "Venom-Fanged Giant Sand Centipede"
+- 일일 퀘스트: "Daily Quest"
+- 능력치 포인트: "Stat Points"
+- 페널티 존: "Penalty Zone"
+- End: "End"
+
+### Chapter 43 [context_1: 2]
+- 널티 퀘스트: "Nullity Quest"
+- 지네: "Centipede"
+- 경험치: "Experience Points"
+- 아이템: "Item"
+- 기감: "Senses"
+- 진아: "Jin-Ah" (female)
+- 패널티 존: "Penalty Zone"
+- 학부모 상담: "Parent-Teacher Meeting"
+- 전직 퀘스트: "Job Change Quest"
+- 게이트: "Gate"
+- C급 게이트: "C-rank Gate"
+- End: "End"
+
+### Chapter 43 [context_1: 3]
+- 백호 길드: "White Tiger Guild"  
+- 제2관리과: "Second Management Division"  
+- 현기철: "Hyun Gi-Chul" (male)  
+- 안상민 과장: "Section Chief Ahn Sang-Min" (male)  
+- 해독 버프: "Detoxification Buff"  
+- End: "End"
+
+### Chapter 43 [context_1: 4]
+- 형님: "Hyung-nim"
+- 리자드맨: "Lizardman"  
+- 리자드맨 주술사: "Lizardman Shaman"  
+- 봉고: "Bongo" (horse)
+- 화염구: "Fireball"  
+- End: "End"- 
+
+### Chapter 43 [context_2: 0]
+- End: "End"
+
+### Chapter 43 [context_2: 1]
+- 켈베로스: "Cerberus"
+- 몬스터: "Monster"
+- 붉은색 이름: "Red Name"
+- End: "End"
+
+### Chapter 43 [context_2: 2]
+- End: "End"
+
+### Chapter 43 [context_2: 3]
+- 성진우 헌터: "Hunter Sung Jin-Woo" (male)  
+- End: "End"
+
+### Chapter 43 [context_2: 4]
+- 창: "Spear"  
+- 폭음: "Explosion"  
+- End: "End"
+
+---
+
+### Chapter 44 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 유진호: "Yoo Jin-Ho" (male)
+- 진우: "Jin-Woo" (male)
+- 리자드맨 주술사: "Lizardman Shaman"
+- C급 던전: "C-rank Dungeon"
+- 살기: "Killing Intent"
+- 공포: "Fear"
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 리자드맨 창병: "Lizardman Spearman"
+- End: "End"
+
+### Chapter 44 [context_1: 1]
+- 창병: "Spearmen"
+- 주술사: "Sorcerer"
+- 창: "Spear"
+- 리자드: "Lizardman"
+- 질주: "Dash"
+- 소 르기: "Vital Strike"
+- 단검: "Dagger"
+- 시스템: "System"
+- 플레이어: "Player"
+- '플레이어'가 요구 레벨에 도달했습니다: "'Player' has reached the rerquired level."
+- 전직 스트: "Job Change Quest"
+- 이름: "Name"
+- 성진우: "Sung Jin-Woo" (male)
+- 레: "Level"
+- 직업: "Job"
+- 상태창: "Status Window"
+- End: "End"
+
+### Chapter 44 [context_1: 2]
+- 전직 퀘스트: "Job Change Quest"  
+- 던전: "Dungeon"  
+- C끕 던전: "C-rank Dungeon"  
+- 마법: "Magic"  
+- 은신: "Stealth"  
+- 인벤: "Inventory"  
+- 일일퀘: "Daily Quest"  
+- End: "End"
+
+### Chapter 44 [context_1: 3]
+- 게이트: "Gate"  
+- 백호 길드: "White Tiger Guild"  
+- 안 과장님: "Section Chief Ahn" (male)  
+- 제2관리과: "Second Management Division"  
+- 백윤호: "Baek Yoonho" (male)  
+- 마스터: "Master"  
+- 사장: "Chairman"  
+- 현기철: "Hyun Gi-Chul" (male)  
+- End: "End"
+
+### Chapter 44 [context_1: 4]
+- 안상민: "Ahn Sang-Min" (male)  
+- 신입 스카웃: "New Recruit Scout"  
+- 과장: "Section Chief"  
+- 사장님: "Chairman"  
+- 제2관리과의 보스: "Second Management Division Boss"  
+- 영입 스페셜리스트: "Recruitment Specialist"  
+- End: "End"- 
+
+### Chapter 44 [context_2: 0]
+- 레벨이 올랐습니다: "You leveled up"
+- 리자드 주술사: "Lizardman Shaman"  
+- 리자드 창병: "Lizardman Spearman"  
+- C급 전: "C-rank Dungeon"  
+- 살기: "Killing Intent"  
+- 형님: "Hyung-nim"  
+
+- End: "End"
+
+### Chapter 44 [context_2: 1]
+- 리자드맨: "Lizardman"  
+- 급소 찌르기: "Vital Strike"  
+- 레벨: "Level"  
+- 스탯: "Stats"  
+- End: "End"
+
+### Chapter 44 [context_2: 2]
+- 전: "Dungeon"  
+- 몬스터: "Monster"  
+- 급 스트: "Emergency Quest"  
+- 헌터: "Hunter"  
+- 인벤토리: "Inventory"
+- 창고: "Inventory"
+- 일일스트: "Daily Quest"  
+- 보상: "Reward"  
+- End: "End"
+
+### Chapter 44 [context_2: 3]
+- End: "End"
+
+### Chapter 44 [context_2: 4]
+- End: "End"
+
+---
+
+### Chapter 45 [context_1: 0]
+- 안상민: "Ahn Sang-Min" (male)  
+- 현기철: "Hyun Gi-Chul" (male)  
+- 현 대리: "Deputy Hyun" (male)  
+- 백윤호: "Baek Yoonho” (male) 
+- 백호 길드: "White Tiger Guild"  
+- 진우: "Jin-Woo" (male)  
+- End: "End"
+
+### Chapter 45 [context_1: 1]
+- C급 게이트: "C-rank Gate"  
+- 공략 허가권: "Conquest Permit"  
+- 상급 던전: "High-rank Dungeon"  
+- 공격대: "Raid Party"  
+- 신입 헌터: "New Recruit Hunter"  
+- 던전: "Dungeon"  
+- 길드: "Guild"  
+- End: "End"
+
+### Chapter 45 [context_1: 2]
+- 유진건설: "Yoojin Construction"  
+- 명성 길드: "Fame Guild"  
+- 기사단 길드: "Knight Guild"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 제2관리과: "Second Management Division"  
+- End: "End"
+
+### Chapter 45 [context_1: 3]
+- 과장님: "Section Chief"  
+- End: "End"
+
+### Chapter 45 [context_1: 4]
+- 헌터 협회: "Hunters Association"  
+- 공식 사이트: "Official Website"  
+- 게이트: "Gates"  
+- 유진호 팀: "Yoo Jin-Ho's Team"  
+- 레이드: "Raid"  
+- 허가권: "Permit"  
+- 성진우: "Sung Jin-Woo" (male)  
+- 사장님: "Chairman"  
+- 퀘스트: "Quest"  
+- 메시지 함: "Message Box"  
+- 전직 퀘스트: "Job Change Quest"  
+- 수락: "Accept"  
+- End: "End"- 
+
+### Chapter 45 [context_2: 0]
+- End: "End"
+
+### Chapter 45 [context_2: 1]
+- End: "End"
+
+### Chapter 45 [context_2: 2]
+- 백호: "Baek Yoonho" (male)  
+- End: "End"
+
+### Chapter 45 [context_2: 3]
+- 직원: "Staff"  
+- 형님: "Hyung-nim"  
+- End: "End"
+
+### Chapter 45 [context_2: 4]
+- 문자: "Message"  
+- End: "End"
+
+---
+
+### Chapter 46 [context_1: 0]
+- 나 자만 레업: "Solo Leveling"  
+- 진우: "Jin-Woo" (male)  
+- 스트: "Quest"  
+- 전직: "Job Change"  
+- 스: "Skill"  
+- 직업: "Job"  
+- 클래스: "Class"  
+- 단검: "Dagger"  
+- 은신: "Stealth"  
+- 암살자: "Assassin"  
+- 능력치: "Stats"  
+- 민첩: "Agility"
+- 근력: "Strength"  
+- 창고: "Inventory"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 메시지: "Message"  
+- 전직 퀘스트: "Job Change Quest"
+- 던전: "Dungeon"  
+- End: "End"
+
+### Chapter 46 [context_1: 1]
+- 게이트: "Gate"  
+- 던전: "Dungeon"  
+- 시스템: "System"  
+- 헌터: "Hunter"  
+- 유진호: "Yoo Jin-Ho" (male)  
+- 상급 던전: "High-rank Dungeon"  
+- 물약: "Potion"  
+- 상점: "Shop"  
+- 레벨: "Level"  
+- 상태 회복: "Status Recovery"  
+- 마수: "Magic Beasts"  
+- 체력: "Health"  
+- 포션: "Potion"  
+- 데미지: "Damage"  
+- End: "End"
+
+### Chapter 46 [context_1: 2]
+- 메시지창: "Message Window"  
+- 전직: "Job Change"  
+- 보상: "Reward"  
+- 공략: "Conquest"  
+- 동물 통로: "Animal Passage"  
+- 몬스터: "Monster"  
+- 야광석: "Luminous Stone"  
+- 음영: "Shadow"  
+- 정적: "Silence"  
+- 시야: "Vision"  
+- 마나: "Mana"  
+- 스킬: "Skill"  
+- End: "End"
+
+### Chapter 46 [context_1: 3]
+- 기사: "Knight"  
+- 갑옷: "Armor"  
+- 장갑: "Armor"  
+- 투구: "Helmet"  
+- 장검: "Longsword"  
+- 이동속도: "Movement Speed"  
+- 질주: "Dash"  
+- 급소 찌르기: "Vital Strike"  
+- 검: "Sword"  
+- 콰직: "Crash"  
+- End: "End"
+
+### Chapter 46 [context_1: 4]
+- 강철검: "Steel Sword"  
+- 보스몹: "Boss Monster"
+- 푸른 독니 카사카: "Blue Venom Fang Kasaka"  
+- 근력 스탯: "Strength Stat"  
+- 아이템: "Item"  
+- 던전 공략: "Dungeon Conquest"  
+- 카사카: "Kasaka"  
+- End: "End"- 
+
+### Chapter 46 [context_2: 0]
+- End: "End"
+
+### Chapter 46 [context_2: 1]
+- End: "End"
+
+### Chapter 46 [context_2: 2]
+- End: "End"
+
+### Chapter 46 [context_2: 3]
+- 몬스터: "Monster"  
+- 소 르기: "Vital Strike"  
+- End: "End"
+
+### Chapter 46 [context_2: 4]
+- End: "End"
+
+---
+
+### Chapter 47 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 아이템: "Item"
+- 상급 기사의 흉갑: "High-rank Knight's Breastplate"
+- 상급 기사의 흉감: "High-rank Knight's Breastplate"
+- 입수 난이도: "Acquisition Difficulty"
+- 방어구: "Armor"
+- 물리 데미지 감소: "Physical Damage Reduction"
+- 근력: "Strength"
+- 유진호: "Yoo Jin-Ho" (male)
+- 진우: "Jin-Woo" (male)
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"
+- End: "End"
+
+### Chapter 47 [context_1: 1]
+- 가죽 주머니: "Leather Pouch"
+- 미지근한 물이 담긴 수통: "Lukewarm Water Canteen"
+- 골드: "Gold"  
+- 창고: "Inventory"  
+- 인간형 몬스터: "Humanoid Monster"  
+- 짐승: "Beast"  
+- 벌레: "Insect"  
+- 장검: "Longsword"  
+- 단검: "Dagger"  
+- 상점: "Shop"  
+- 헌터: "Hunter"  
+- End: "End"
+
+### Chapter 47 [context_1: 2]
+- 던전: "Dungeon"  
+- 몬스터: "Monster"  
+- 기사: "Knight"  
+- 마법사: "Mage"  
+- 자객: "Assassin"  
+- 궁수: "Archer"  
+- 은신: "Stealth"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 가드: "Guard"  
+- 레벨이 올랐습니다: "You leveled up"  
+- 가죽옷: "Leather Clothes"  
+- 투구: "Helmet"  
+- 후드: "Hood"  
+- 로브: "Robe"  
+- 섬광 마법: "Flash Magic"  
+- 주문: "Spell"  
+- 마나: "Mana"  
+- 조규환: "Jo Gyu-Hwan"  
+- End: "End"
+
+### Chapter 47 [context_1: 3]
+- 몬스터들: "Monsters"  
+- 스탯: "Stats"  
+- 감각: "Senses"  
+- 민첩: "Agility"  
+- 체력: "Stamina"  
+- 지능: "Intelligence"  
+- 피로도: "Fatigue"  
+- 상태창: "Status Window"  
+- 레벨: "Level"  
+- 상태 회복: "Status Recovery"  
+- End: "End"
+
+### Chapter 47 [context_1: 4]
+- 상급 기사의 흉감: "High-rank Knight's Breastplate"
+- 상급 기사의 건틀릿: "High-rank Knight's Gauntlet"
+- 중급 자객의 신발: "Mid-rank Assassin's Boots"
+- 하급 궁수의 장갑: "Low-rank Archer's Gloves"
+- 상급 마법사의 반지: "High-rank Mage's Ring"
+- 단검들: "Daggers"
+- 공격력: "Attack Power"
+- 추가 효과: "Additional Effect"
+- 성문: "Castle Gate"
+- 보스방: "Boss Room"
+- 지하신전: "Underground Temple"
+- HP: "HP"
+- MP: "MP"
+- End: "End"- 
+
+### Chapter 47 [context_2: 0]
+- 나 자만 레업: "Solo Leveling"
+- 상급 기사의 : "High-rank Knight's Breastplate"
+- 인던: "Instant Dungeon"
+- 동사니: "Miscellaneous Items"
+- 입수 이도: "Acquisition Difficulty"
+- B: "B-rank"
+- A급: "A-rank"
+- : "Power of Equipment"
+- 파수의 목이: "Gatekeeper’s Necklace"
+- End: "End"
+
+### Chapter 47 [context_2: 1]
+- 소지금: "Held Money"  
+- End: "End"
+
+### Chapter 47 [context_2: 2]
+- 통로: "Passage"  
+- 빈틈: "Opening"  
+- 역습: "Counterattack"  
+- 치명상: "Fatal Wound"  
+- 검은 연기: "Black Smoke"  
+- 섬광: "Flash"  
+- 마법: "Magic"  
+- 조규환: "Jo Gyu-Hwan" (male)  
+- 응집: "Condensation"  
+- 공격: "Attack"  
+- End: "End"
+
+### Chapter 47 [context_2: 3]
+- 2만 골드: "20,000 Gold"  
+- End: "End"
+
+### Chapter 47 [context_2: 4]
+- 파수꾼의 목걸이(A): "Gatekeeper’s Necklace (A)"  
+- 상급 기사의 흉감(B): "High-rank Knight's Breastplate (B)"  
+- 중극 자객의 신발(B): "Mid-rank Assassin's Boots (B)"  
+- 하급 궁수의 장갑(C): "Low-rank Archer's Gloves (C)"  
+- 상급 마법사의 반지 (B): "Advanced Mage's Ring (B)"  
+- End: "End"
+
+---
+
+### Chapter 48 [context_1: 0]
+- 보스방: "Boss Room"
+- 감각 스탯: "Senses Stat"
+- 진우: "Jin-Woo" (male)
+- 지하신전: "Underground Temple"
+- 전직 퀘스트: "Job Change Quest"
+- 기사단장: "Knight Commander"
+- 기사단장 핏빛의 이그리트: "Knight Commander, Blood Red Igris"  
+- 이그리트: "Igris" (male)
+- 기사: "Knight"
+- 갑옷: "Armor"
+- 투구: "Helmet"
+- End: "End"
+
+### Chapter 48 [context_1: 1]
+- 전직 스트: "Job Change Quest"
+- 이그리트: "Igris" (male)
+- 단검: "Dagger"
+- 장검: "Longsword"
+- 근력: "Strength"
+- 상급 헌터: "High-rank Hunter"  
+- 민첩: "Agility"
+- End: "End"
+
+### Chapter 48 [context_1: 2]
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 건틀릿: "Gauntlet"  
+- End: "End"
+
+### Chapter 48 [context_1: 3]
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 질주: "Dash"  
+- 이동 속도: "Movement Speed"  
+- 체력: "Health"  
+- 스킬: "Skill"  
+- 근성: "Tenacity"  
+- 피해: "Damage"  
+- 급소 찌르기: "Vital Strike"  
+- End: "End"
+
+### Chapter 48 [context_1: 4]
+- 레벨이 올랐습니다: "You leveled up"  
+- 아이템: "Item"  
+- 붉은 기사의 투구: "Crimson Knight's Helmet"  
+- 룬석: "Rune Stone"  
+- 지배자의 손길: "Dominator's Touch"  
+- 즉시 귀환석: "Instant Return Stone"  
+- 골드: "Gold"  
+- 상점: "Shop"  
+- S급: "S-rank"  
+- 방어구: "Armor"  
+- End: "End"- 
+
+### Chapter 48 [context_2: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 석판: "Stone Slab"  
+- 기사단장 핏빛의 이그리트: "Knight Commander, Blood Red Igris"  
+- End: "End"
+
+### Chapter 48 [context_2: 1]
+- End: "End"
+
+### Chapter 48 [context_2: 2]
+- End: "End"
+
+### Chapter 48 [context_2: 3]
+- 스: "Skill"  
+- 근성: "Tenacity"  
+- 소 르기: "Vital Strike"  
+- 시스템 메시지: "System Message"  
+- End: "End"
+
+### Chapter 48 [context_2: 4]
+- End: "End"
+
+---
+
+### Chapter 49 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"
+- 입수 난이도: "Acquisition Difficulty"
+- S급: "S-rank"
+- 아이템: "Item"
+- 데미지 감소: "Damage Reduction"
+- 체력: "Stamina"
+- 근력: "Strength"
+- 스탯: "Stats"
+- A등급: "A-rank"
+- 카사카: "Kasaka"
+- 카사카의 독샘: "Kasaka’s Venom Sac"
+- 켈베로스: "Cerberus"
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"
+- 물리 데미지: "Physical Damage"
+- 민첩: "Agility"
+- 감각: "Senses"
+- 붉은 기사의 투구: "Crimson Knight's Helmet"  
+- 던전: "Dungeon"
+- 보스방: "Boss Room"
+- 이그리트: "Igris" (male)
+- 갑옷: "Armor"
+- 방어구: "Armor"
+- 진우: "Jin-Woo" (male)
+- 지능: "Intelligence"
+- 물리 데미지 감소 스탯: "Physical Damage Reduction Stat"
+- 퀘스트: "Quest"
+- 룬석: "Rune Stone"
+- 지배자의 손길: "Dominator's Touch"
+- 즉시 귀환석: "Instant Return Stone"
+- End: "End"
+
+### Chapter 49 [context_1: 1]
+- 전직 퀘스트: "Job Change Quest"
+- 시스템: "System"
+- 플레이어: "Player"
+- 차원의 문: "Dimensional Gate"
+- 피로도: "Fatigue"
+- 상태창: "Status Window"
+- 체력 스탯: "Stamina Stat"
+- End: "End"
+
+### Chapter 49 [context_1: 2]
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 창고: "Inventory"
+- 귀환석: "Return Stone"
+- 게이트: "Gate"
+- 은신: "Stealth"
+- 마나: "Mana"
+- 마법사: "Mage"
+- 탐지의 시선: "Gaze of Detection"
+- 기사: "Knight"
+- End: "End"
+
+### Chapter 49 [context_1: 3]
+- 살기: "Killing Intent"  
+- 공포: "Fear"  
+- 능력치: "Stats"  
+- 몬스터: "Monster"  
+- 포인트: "Point"  
+- 근성 패시브: "Tenacity Passive"  
+- 은빛 갑옷: "Silver Armor"  
+- E급 헌터: "E-rank Hunter"  
+- B급: "B-rank"  
+- C급: "C-rank"  
+- 협회: "Association"  
+- End: "End"
+
+### Chapter 49 [context_1: 4]
+- 체력량: "Health"
+- 흉갑: "Breastplate"
+- 독기: "Killing Intent"
+- 타이머: "Timer"
+- 일일 퀘스트: "Daily Quest"
+- 페널티 존: "Penalty Zone"
+- End: "End"- 
+
+### Chapter 49 [context_2: 0]
+- 입수 난이도 S급: "Acquisition Difficulty S-rank"
+- 던전 보스방: "Dungeon Boss Room"
+- End: "End"
+
+### Chapter 49 [context_2: 1]
+- End: "End"
+
+### Chapter 49 [context_2: 2]
+- End: "End"
+
+### Chapter 49 [context_2: 3]
+- 근성 패시브: "Tenacity Passive"  
+- End: "End"
+
+### Chapter 49 [context_2: 4]
+- 마지막: "End"
+- 움직임: "Movement"
+- 눈빛: "Gaze"
+- 일격: "Blow"
+- 타임: "Timer"
+- 충격: "Impact"
+- 신음: "Groan"
+- 은빛 물결: "Silver Wave"
+- 은빛 산: "Silver Mountain"
+- 질식: "Suffocation"
+- End: "End"
+
+---
+
+### Chapter 50 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 진우: "Jin-Woo" (male)  
+- 페널티 존: "Penalty Zone"  
+- 일일 퀘스트: "Daily Quest"  
+- 레벨업: "Level Up"  
+- 악마성 던전: "Demon Castle Dungeon"  
+- 시스템: "System"  
+- 기회: "Opportunity"  
+- 사막모래: "Desert Sand"  
+- 상태창: "Status Window"  
+- 피로도: "Fatigue"  
+- 상점: "Shop"  
+- 구매: "Purchase"  
+- 판매: "Sell"  
+- End: "End"
+
+### Chapter 50 [context_1: 1]
+- 힐링 포션: "Healing Potion"
+- 체력: "Health"
+- 힐러: "Healer"
+- 힐링 마법: "Healing Magic"
+- 패널티 존: "Penalty Zone"
+- 독이빨 거대 모래지네: "Venom-Fanged Giant Sand Centipede"
+- 켈베로스: "Cerberus"
+- 페널티 퀘스트: "Penalty Quest"
+- 요구 시간: "Required Time"
+- End: "End"
+
+### Chapter 50 [context_1: 2]
+- 귀환석: "Return Stone"  
+- 던전: "Dungeon"  
+- 승급 포인트: "Promotion Points"  
+- 포션: "Potion"  
+- 카사카의 독니: "Kasaka’s Venom Fang"  
+- 지네: "Centipede"  
+- 질주: "Dash"  
+- 급소 찌르기: "Vital Strike"  
+- 스킬: "Skill"  
+- 데미지: "Damage"  
+- 근력 스탯: "Strength Stat"  
+- 몬스터: "Monster"  
+- End: "End"
+
+### Chapter 50 [context_1: 3]
+- 레벨: "Level"  
+- 전직 퀘스트: "Job Change Quest"  
+- 거대지네: "Giant Centipede"  
+- 골드: "Gold"  
+- 이그리트: "Igris" (male)  
+- 아이템: "Item"  
+- 나이트 킬러: "Night Killer"  
+- 단검: "Dagger"  
+- 공격력: "Attack Power"  
+- 기사 죽이기: "Knight Slayer"  
+- 중장갑: "Heavy Armor"  
+- 붕대: "Bandage"  
+- End: "End"
+
+### Chapter 50 [context_1: 4]
+- 석: "Rune stone"  
+- 지배자의 손길: "Dominator's Touch"  
+- 스: "Skill"  
+- 티브 스: "Active Skill"  
+- 필요 마나: "Mana Required"  
+- 널티 스트: "Penalty Quest"  
+- 전직 스트: "Job Change Quest"  
+- 보스방: "Boss Room"  
+- 스터: "Monster"  
+- 마나: "Mana"  
+- 장비: "Equipment"  
+- 마법사: "Mage"  
+- End: "End"- 
+
+### Chapter 50 [context_2: 0]
+- End: "End"
+
+### Chapter 50 [context_2: 1]
+- 유리병: "Glass Bottle"
+- 붉은색 액체: "Red Liquid"
+- 식도: "Esophagus"
+- 잔여 체력: "Remaining Health"
+- 생명체: "Living Being"
+- 모래 구덩이: "Sand Pit"
+- 거대한 지네: "Giant Centipede"
+- 붉은색 이름: "Red Name**
+- 퀘스트 메시지: "Quest Message"
+- 목표: "Objective"
+- 남은 시간: "Remaining Time"
+- End: "End"
+
+### Chapter 50 [context_2: 2]
+- 미션: "Mission"  
+- End: "End"
+
+### Chapter 50 [context_2: 3]
+- 렙: "Level"  
+- 템: "Equipment"  
+- 사냥: "Hunt"  
+- 개죽음: "Certain Death"  
+- 모래 기둥: "Sand Pillar"  
+- 생존: "Survival"  
+- 사체: "Corpse"  
+- 보유한 금액: "Current Amount"  
+- 인간형 몬스터: "Humanoid Monster"  
+- 자금: "Funds"  
+- 무기: "Weapon"  
+- 입수 난이도: "Acquisition Difficulty"  
+- 기사: "Knight"  
+- 갑옷: "Armor"  
+- 가격: "Price"  
+- 손가락: "Finger"  
+- End: "End"
+
+### Chapter 50 [context_2: 4]
+- 창고: "Inventory"
+- 룬석: "Rune Stone"
+- 액티브 스킬: "Active Skill"
+- 시스템 메시지: "System Message"
+- 난이도: "Difficulty"
+- 몬스터들: "Monsters"
+- 은빛 기사들: "Silver Knights"
+- End: "End"
+
+---
+
+### Chapter 100 [context_1: 0]
+- 나 혼자만 레벨업: "Solo Leveling"  
+- 탐욕의 구슬: "Greedy Orb"  
+- 어금니: "Beru" (male)  
+- 최상급 악마: "Superior Demon"  
+- 경험치: "Experience Points"  
+- 고위 악마: "High-Rank Demon"  
+- 그림자 병사: "Shadow Soldier"  
+- 그림자 군주: "Monarch of Shadows"  
+- 하이오크족 주술사: "High Orc Shaman"  
+- 마법병: "Magic Soldier"  
+- 데미지: "Damage"  
+- End: "End"
+
+### Chapter 100 [context_1: 1]
+- 진우: "Jin-Woo" (male)  
+- 마법계열: "Mage-type"  
+- 스킬: "Skill"  
+- 지능 스탯: "Intelligence Stat"  
+- 악마: "Demons"  
+- 아이템: "Item"  
+- 아이스 베어 마수병: "Ice Bear Magic Beast Soldier"  
+- 탱크: "Tank" (male)  
+- 진입 허가서: "Entry Permit"  
+- 몬스터: "Monster"  
+- A급 던전: "A-rank Dungeon"  
+- 마수: "Magic Beast"  
+- 악마성: "Demon Castle"  
+- 층간 진입 허가서: "Inter-floor Entry Permit"  
+- End: "End"
+
+### Chapter 100 [context_1: 2]
+- 병사들: "Soldiers"  
+- 허가서: "Permit"  
+- 최상층: "Top Floor"  
+- 조: "Squad"  
+- 그림자들: "Shadows"  
+- 하급: "Low-grade"  
+- 중급: "Mid-grade"  
+- 상급: "High-grade"  
+- 최상급: "Top-grade"  
+- 경험치 메시지: "Experience Points Message"  
+- 사냥터: "Hunting Ground"  
+- 레벨업: "Level Up"  
+- 공략 속도: "Conquest Speed"  
+- 악마성 던전: "Demon Castle Dungeon"  
+- 악마의 영혼: "Demon's Soul"  
+- 전투 감각: "Battle Sense"  
+- 사냥: "Hunt"  
+- End: "End"
+
+### Chapter 100 [context_1: 3]
+- 그림자 병사들: "Shadow Soldiers"  
+- 바루카의 단도: "Baruka's Dagger"  
+- End: "End"
+
+### Chapter 100 [context_1: 4]
+- 유진호: "Yoo Jin-Ho" (male)  
+- C급 던전: "C-rank Dungeon"  
+- 스톤맨: "Stoneman"  
+- 마나: "Mana"  
+- 병사: "Soldier"  
+- 이그리트: "Igris" (male)  
+- 아이언: "Iron" (male)  
+- 대장급: "Commander-level"  
+- 지성: "Intelligence"  
+- 신형: "Body"  
+- End: "End"- 
+
+### Chapter 100 [context_2: 0]
+- 메시지: "Message"  
+- 골렘: "Golem"  
+- End: "End"
+
+### Chapter 100 [context_2: 1]
+- 그림자 추출: "Shadow Extraction"
+- 그림자 저장: "Shadow Storage"
+- 군주의 영역: "Monarch's Domain"
+- 악마들: "Demons"
+- 몬스터들: "Monsters"
+- 마수들: "Magic Beasts"
+- End: "End"
+
+### Chapter 100 [context_2: 2]
+- 하급 악마: "Low-rank Demon"  
+- 중급 악마: "Mid-rank Demon"  
+- 상급 악마: "High-rank Demon"  
+- 퀘스트용 아이템: "Quest Item"  
+- End: "End"
+
+### Chapter 100 [context_2: 3]
+- 아이템 버프: "Item Buff"  
+- End: "End"
+
+### Chapter 100 [context_2: 4]
+- 스톤맨들: "Stonemen"  
+- 몬스터 사체: "Monster Corpses"  
+- 아이템들: "Items"  
+- 그림자: "Shadow"  
+- End: "End"

@@ -1,0 +1,1 @@
+I want you to extract important nouns and fringe words from the {hangul} text that I will give you. I want you to refer to the context/dictionary you've previously created for the spelling of the already existing ones by cross-checking each translations.

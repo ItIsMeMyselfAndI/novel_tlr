@@ -1,0 +1,823 @@
+### 1. Story/Novel {
+- 나 혼자만 레벨업: "solo leveling"
+- 라그나로크: "Ragnarok"
+; }
+
+---
+
+### 2. Godly Beings {
+- 절대자: "Absolute Being" (neutral)
+- 군주: "Monarchs"
+- 지배자들: "Rulers"
+- 태초의 어둠: "Primordial Darkness"
+- 처음에는 빛: "Primordial Light
+; }
+
+---
+
+### 3. Monarch Titles {
+- 그림자의 군주: "Monarch of Shadows"
+- 파멸의 군주: "Monarch of Destruction"
+- 환계의 군주: "Monarch of Transfiguration"
+- 백염의 군주: "Monarch of White Flames"
+- 강철의 군주: "Monarch of Iron Body"
+- 시련의 군주: "Monarch of Trials"
+- 역병의 군주: "Monarch of Plagues"
+- 짐승의 군주: "Monarch of Beastly Fangs"
+- 시초의 군주: "Monarch of the Beginning"
+- 혹한의 군주: "Monarch of Frost"
+- 서릿발의 군주: "Monarch of Frost"
+- 엘프들의 군주: "Monarch of Elves"  
+- 송곳니 군주: "Monarch of Beastly Fangs"
+- 탐식의 군주: "Monarch of Gluttony"
+- 악몽의 군주: "Monarch of Nightmares"
+; }
+
+---
+
+### 4. Other Monarch Titles {
+- 마수들의 왕: "King of Monstrous Humanoids"
+- 요인들의 왕: "King of Monstrous Humanoids"
+- 마령들의 왕: "King of Demonic Spirit"
+- 곤충들의 여왕: "Queen of Insects"
+- 벌레들의 왕: "Queen of Insects"
+- 거인들의 왕: "King of Giants"
+- 설인들의 왕: "King of Snow Folks"
+- 야수들의 왕: "King of Beasts"
+- 짐승들의 왕: "King of Beasts"
+- 악마들의 왕: "King of Demons"
+- 마왕: "Demon King"
+- 용들의 왕: "King of Mad Dragons"
+- 광룡들의 왕: "King of Mad Dragons"
+- 용제: "Dragon Emperor"
+- 죽음의 왕: "King of Death"
+- 어둠의 왕: "King of Darkness"
+- 죽음을 다스리는 왕: "King Who Rules Death"  
+- 그림자의 왕: "King of Shadows"
+; }
+
+---
+
+### 5. Monarchs Names {
+-  시르카: "Sirka" (female)
+- 안타레스: "Antares" (male)
+- 바란: "Baran" (male)
+- 라칸: "Rakan" (male)
+- 타르나크: "Tarnak" (male)
+- 레기아: "Legia" (male)
+- 퀘레샤: "Querehsha" (female)
+- 요그문트: "Yogumunt" (male)
+- 아스본: "Ashborn" (male)
+- 실라드: "Silad" (male)
+; }
+
+---
+
+### 6. Other Titles {
+- 인류 최약병기: "Humanity's Weakest Weapon"
+- 대장장이: "Blacksmith"
+- 환계의 주술사: "Sorcerer of Transfiguration"
+- 주군: "Liege"
+- 전장의 학살자: "Slayer of the Battlefield"
+- 지배자의 그릇: "Vessel of the Ruler"
+- 첩보원: "Intelligence Agent"  
+- 형사: "Detective"
+- 인류최종병기: "Humanity's Ultimate Weapon"  
+- 외신의 사도: "Apostle of the Outer God"  
+- 환계의 영원한 2인자: "Eternal Second-in-Command of Transfiguration"  
+- 집행관들: "Executors"  
+- 빚쟁이들: "Debt Collectors"  
+- 장사치: "Merchant"
+- 과일 상인들: "Fruit Merchants"  
+- 소군주님: "Young Monarch" (refers only to Suho)
+- 나의 군주: "My Liege"
+- 주인님: "Master"
+- 대사제여: "High Priest"
+- 제사장: "Priest"
+- 환술사: "Illusionist"
+- 플레이어: "Player"
+- 힐러: "Healer"
+- <name> 헌터: "Hunter <name>" (e.g. 성수호 헌터: "Hunter Sung Suho")
+- 탐욕의 악마: "Demon of Greed"
+- 대주술사: "Great Sorcerer"
+- 광혈마: "Blood Demon Tyrant" (male)
+- 외신교도: "Outer God Follower"
+- 악마 귀족: "Demon Noble"
+- 혹한의 후예: "Descendant of Frost"
+- 혹한의 아이: "Child of Frost"  
+- 그릇: "Vessel"
+- 형: "hyung" (older man)
+- 백귀: "White Ghosts"
+- 빌런 판별기: "Villain Detector"
+; }
+
+---
+
+### 7. Leadership Roles {
+- 유치원 원장님: "Kindergarten Director" (female)
+- 감시과 과장: "Surveillance Division Section Chief"  
+- 과장: "Section Chief"  
+- 장관: "Minister"  
+- 국방부 장관: "Minister of Defense"
+- 경찰서장: "Police Chief"
+- 원장 할머니: "Director Grandmother"
+- 부행장: "Vice Manager"
+- 은행장: "Bank Manager"  
+- 경비대장: "Guard Captain"
+- <Leadership role> <name>
+- 길드장: "Guild Master"
+- 사장님: "Chairman" (leader of a guild)
+- 대표: "Chairman" (highest leader)
+- 협회장: "Association Chairman"
+- 부사장: "Vice Chairman"  
+- 부장: "Manager"
+- 서장: "Chief"
+- 지부장: "Branch Manager"
+- 폴리스 다크 헌터: "Police Dark Hunter"
+- 야수왕 크로우: "Beast King Crow" (male)
+- 부족장: "Tribal Chief"
+- 대족장: "Great Chief"
+- 본부장: "Director"
+- 국장이: "Director"
+; }
+
+---
+
+### 8. Rulers {
+- 광휘의 파편들: "Fragments of Brilliant Light"
+- 가장 위대했던 광휘의 파편이여: "Greatest Fragment of Brilliant Light"
+- 가장 빛나는 광휘의 조각: "Greatest Fragment of Brilliant Light"
+; }
+
+---
+
+### 9. Outer Worlders {
+- 이타림: "Itarim" (known as "Outer Gods")
+- 외신교: "Outer God Religion"
+- 사도: "Apostles"
+- 외신교의 신전은: "Outer God Temple"
+- 카르테논 신전: "Karthenon Temple"
+- 이타림의 가호: "Itarim’s Blessing"
+- 낙원의 사도: "Apostle of Paradise"  
+- 진화의 사도: "Apostle of Evolution"  
+- 악몽의 사도: "Apostle of Nightmares"  
+; }
+
+---
+
+### 10. Shadow Army {
+- 그림자 상어: "Shadow Shark"
+- 그림자 마령족: "Shadow Demonic Spirit Race"
+- 불사의 군단: "Undead Legion"
+- 그림자 군단: "Shadow Army"  
+- 그림자 강화병: "Shadow Enhanced Soldier"
+- 미노: "Mino" (male)
+- 타우: "Tau" (male)
+- 그림자 비룡 카이셀: "Shadow Wyvern Kaisel" (male)
+- 베르: "Beru" (male)
+- 벨리온: "Bellion" (male)  
+- 이그리트: "Igris" (male)  
+- 카이셀: "Kaisel" (male)
+- 그림자 창기사: "Shadow Lancer"  
+- 그리드: "Greed" (male)
+- 퀘이: "Quay" (male)
+- 강태식: "Kang Taeshik" (male)
+- 볼칸: "Vulcan" (male)
+- 아이언: "Iron" (male)
+- 키라: "Kira" (male)
+- 고든: "Gordon" (male)
+- 시타: "Sitha" (male)
+- 하르마칸: "Harmakan" (male)
+- 그림자 병사: "Shadow Soldiers"
+- 그림자 광신도: "Shadow Fanatic"
+- 그림자 드워프: "Shadow Dwarf"
+- 그림자 거미: "Shadow Spider"
+- 그림자 맹금: "Shadow Falcon"
+; }
+
+---
+
+### 11. Subordinates {
+- 시르카: "Sirka" (female)
+- 임도균: "Lim Do-Gyu" (male)
+- 그레이: "Grey" (male)
+- 암무트: "Ammut" (male)
+- 아르샤: "Arsha" (female, alias "Queen Bee")
+- 리오 싱의: "Reo Sign" (male)
+- 라그나: "Ragna" (male)
+- 라디루: "Radiru"
+- 그레도스: "Gredos" (male)
+- 에실 라디루: "Esil Radiru" (female)
+; }
+
+---
+
+### 12. Substances {
+- 검은 기둥: "Black Pillar"  
+- 눈꽃의 결정체: "Snowflake Crystals"
+- 혈정: "Blood Essence"
+- 귀환석: "Return Stone"  
+- 혈석: "Bloodstone"
+- 스타더스트: "Stardust"
+- 별가루: "Stardust"
+- 별조각: "Star Fragment"
+- 로열 젤리: "Royal Jelly"
+- 외신석: "Outer God Stone"
+- 영혼석: "Soulstone"
+- 마정석: "Mana Stone"
+- 마정석도: "Magic Crystal"
+- 귀환석: "Return Stone"
+- 룬석: "Runestone"
+; }
+
+---
+
+### 13. Skills {
+- 강자가 되기 위한 준비: "Preparation to Become Stronger"  
+- 불꽃 마법: "Fire Magic"
+- 치료 마법: "Healing Magic"
+- 출혈: "Bleeding"
+- 세계수의 악몽: "Nightmare of the World Tree"  
+- 검은 기류: "Black Current"  
+- 인지 저해 결계: "Perception Disruption Barrier"  
+- 악몽: "Nightmare"  
+- 포식: "Gluttony"
+- 대지의 울림: "Echo of the Earth"  
+- 방어력 무시: "Defense Penetration"
+- 억압의 사슬: "Chains of Suppression"  
+- 시야 교란: "Vision Disruption"  
+- 공격력 약화: "Attack Power Reduction"  
+- 속도 둔화: "Speed Reduction"  
+- 감각 둔화: "Sensory Reduction"  
+- 광역 디버프: "Area Debuff"  
+- 화염 스킬: "Flame Skill"
+- 지옥의 열기: "Heat of Hell"
+- 레이저 빔: "Laser Beam"  
+- 위기 감지 스킬: "Crisis Detection Skill"  
+- 결계 능력: "Barrier Ability"  
+- 검기: "Sword Energy"
+- 빛의 검: "Sword of Light"
+- 정령기병: "Spirit Cavalry"
+- 신기루: "Mirage"
+- 역장: "Force Field"  
+- 빙결 마법: "Frost Magic"
+- 화염 마법: "Fire Magic"
+- 회복력 증폭: "Recovery Amplification"
+- 메아리: "Echo"  
+- 소환 스킬: "Summoning Skill"  
+- 지옥의 업화: "Hellfire"  
+- 인식 저해 마법: "Perception Disruption Magic"
+- 파멸의 불길: "Flames of Destruction"
+- 유대 스킬: "Bond Skill"
+- 강신: "Enchantment"
+- 정령 지배: "Spirit Domination"  
+- 검무: "Sword Dance"
+- 약자 멸시: "Scorn of the Weak"
+- 은신: "Stealth"
+- 난도: "Chaos Slash"
+- 급소 찌르기: "Critical Attack"  
+- 무병장수: "Healthful Longevity"  
+- 그림자 권능: "Shadow Authority"
+- 생기다: "Arise"
+- 일어나라: "Arise"
+- 지배자의 권능: "Ruler’s Authority"
+- spiritual body manifestation
+- 강체술을: "Iron Body Technique"
+- 강체술: "Iron Body Technique"
+- 혈독을: "Blood Poison"
+- 맷집: "Endurance"
+- 파괴 욕구: "Desire for Destruction"
+- 군주의 영역: "Monarch’s Domain"
+- 카르테논 신전의 규율: "The Commandments of Karthenon Temple"
+- 거인의 갑옷: "Giant’s Armor"
+- 초원의 바람: "Meadow Wind"
+- 폭풍 베기: "Storm Slash"
+- 상급 단검술: "Advanced Dagger Technique"
+- 엘프의 발걸음: "Elven Step"
+- 무(武): "Martial Arts"
+- 그림자 교환: "Shadow Exchange"
+- 혹한의 눈보라: "Blizzard of Extreme Cold"
+- 혹한의 가호: "Blessing of Extreme Cold"  
+- 디버프: "Debuff"
+- 혹한의 저주: "Curse of Extreme Cold"
+- 은신: "Stealth"
+- 킬링 인텐트: "Killing Intent"
+- 그림자 추출: "Shadow Extraction"
+- 드래곤 피어: "Dragon Fear"
+- 아스트라: "Astra"
+- 은신: "Stealth"
+- 악령의 갑옷: "Demonic Spirit Armor"
+- 정령기갑: "Spirit Armor"  
+- 고통의 가시: "Thorns of Agony"
+- 흑염의 폭풍: "Storm of Black Flames"
+- 탐식의 가호: "Blessing of Gluttony"
+- 마법진: "Magic Circle"
+- 지옥의 군세: "Army of Hell"
+- 백염: "White Flames"  
+- 환족: "Transfiguration"  
+- 정령술: "Spirit Magic"
+; }
+
+
+---
+
+### 14. Phenomenon {
+- 초열의 겨울: "Winter of Extreme Heat"
+- 공허의 입: "Mouth of the Void"
+- 헬 게이트: "Gate of Hell"
+- 신성력: "Divine Power"  
+- 신령한 바람: "Divine Wind"
+- 검붉은 불길: "Crimson Flames"  
+- 혹한의 겨울: "Winter of Extreme Cold"  
+- 제주도 레이드: "Jeju Island Raid"  
+- 성흔: "Sacred Mark"
+- 성스러운 빛: "Sacred Light"  
+- 영체: "Spiritual Body"
+- 이면 세계: "Mirror World"
+- 차원의 균열: "Dimensional Rift"
+- 차원의 벽: "Dimensional Wall"
+- 틈새: "Rift" (tear in space and time)
+- 공허 게이트: "Void Gate"
+- 공허: "Void"
+- 균열의 가속화: "Acceleration of Rifts"
+- 균열의 합일: "Unification of Rifts"
+- 림자 던전: "Shadow Dungeon"
+- 빙하 던전: "Glacier Dungeon"
+- 필드형 던전: "Field-Type Dungeon"
+- 필드 초입: "Field Entrance"
+- 인스턴스 던전: "Instant Dungeon"
+- 이중 던전: "Double Dungeon"
+- 차원의 문: "Gates"
+- 대격변: "Cataclysm"
+- 던전 브레이크를: "Dungeon Break"
+- 마나: "Mana"
+- 재각성: "Reawakening"
+- 퀘스트: "Quest"
+- 익면증: "Eternal Slumber"
+; }
+
+---
+
+### 15. Items {
+- 고목나무: "Ancient Tree"
+- 라칸의 송곳니: "Rakan’s Fang"
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 엘븐우드의 꽃가루: "Elvenwood Pollen"
+- 세계수의 잔가지들: "Branch Fragments of the World Tree"
+- 세계수의 기둥: "Pillar of the World Tree"  
+- 미라의 붕대: "Mummy's Bandage"  
+- 주술적 장치들: "Magical Devices"
+- 신성한 군주상: "Sacred Monarch Statue"
+- 외신기: "Outer God Weapon"  
+- 진화의 씨앗: "Seed of Evolution"
+- 세계수의 기둥: "Pillar of the World Tree"  
+- 석판: "Stone Tablet"  
+- 악마왕의 전함: "Demon King's Warship"
+- 알브헤임: "Alfheim" (Elvenwood)
+- 수확의 낫: "Harvest Scythe"  
+- 낫: "Scythe"
+- 알브헤임의 열매: "Alfheim Fruit"
+- 오염된 엘븐우드의 열매: "Corrupted Elvenwood Fruit"  
+- 엘븐우드의 열매: "Elvenwood Fruit"  
+- 신목: "Sacred Tree"
+- 시민 등록증: "Citizen Registration Card"
+- 폭탄 목걸이: "Bomb Collar"
+- 전자발찌: "Electronic Anklet"
+- 마력 구속구: "Mana Restrainter Device"
+- 뇌파 헬멧: "Brainwave Helmet"  
+- 생명 유지 장치: "Life Support Device"
+- 테라리움: "Terrarium"
+- 마력 증폭제: "Mana Amplifier"
+- 엘븐우드의 파편: "Fragment of Elvenwood"  
+- 게임 캡슐: "Game Capsule"
+- 카미쉬의 분노: "Kamish's Wrath"
+- 악마의 대포: "Demon Cannon"
+- 사후의 뗏목: "Afterlife Raft"
+- 사후의 나룻배: "Afterlife Ferry"
+- 악마왕의 장검: "Demon King's Greatsword"
+- 얼음나무의 해머: "Ice Tree Hammer"
+- 얼음나무의 창: "Ice Tree Spear"  
+- 지대공 미사일: "Surface-to-Air Missile"  
+- 칼리온: "Calion" (weapon)
+- 로열 시리즈 방패: "Royal Series Shield"
+- 용의 이빨: "Dragon's Fang"  
+- 마력 측정기: "Mana Measuring Device"
+- 윤회의 잔: "Cup of Reincarnation"  
+- 볼칸의 뿔: "Vulcan’s Horn"
+- 메아리 숲의 샘물: "Echo Forest’s Spring Water"
+- 생명의 신수를: "Elixir of Life"
+- 세계수의 파편: "Fragment of the World Tree"
+- 용제의 심장: "Dragon Emperor’s Heart"
+- 까마귀 가면: "Crow Mask"
+- 정화된 악마왕의 피: "Purified Demon King’s Blood"
+- 잡템: "Junk Item"
+- 세계수의 잎사귀: "Leaf of the World Tree"
+- 엘븐우드: "Elvenwood"
+- 용골: "Dragon's Bone"
+; }
+
+---
+
+### 16. Species {
+- 크로커족: "Crocker Race"  
+- 요인족: "Monstrous Humanoid Race" 
+- 요인: "Monstrous Humanoid"
+- 마령족: "Demonic Spirit Race"
+- 마족/악마: "Demon"
+- 미스트 번으로: "Mist Burn"
+- 설인: "Snow Folk"
+- 변이체: "Mutant" (humans who turned into magic beasts)
+- 마령족: "Demonic Spirit"
+- 용인족: "Dragonkin"
+- 나가: "Naga"
+- 나가족: "Naga Clan"
+- 광룡족: "Mad Dragon Race"
+- 리자드맨: "Lizardman"
+- 용인족 군단: "Dragonkin Army"
+- 수염 난쟁: "Bearded Dwarves"
+- 하이엘프: "High Elf"
+- 포레스: "Foress" (male)
+- 유목민: "Nomad"
+; }
+
+---
+
+### 17. Magic Beasts {
+- 공허충들: "Void Insects"
+- 악어 요인: "Crocodile-Monster Humanoid"  
+- 크로커: "Crocker" (male)  
+- 심연의 괴물들: "Abyss Monsters"
+- 인간형 병사: "Humanoid Soldier"  
+- 영혼이 없는 불사의 인형: "Soulless Undead Doll"  
+- 공허 상어: "Void Sharks"  
+- 마수: "Magic Beasts"
+- 포식 식물: "Carnivorous Plant"
+- 혹한의 정령: "Spirit of Frost"  
+- 개미 마수: "Ant-type Magic Beast"
+- 타락귀: "Fallen Ghosts"
+- 불꽃맹금: "Flame Falcon"
+- 칼날바람 갈까마귀: "Blade Wind Crow"  
+- 악마족: "Demon Race"
+- 틈새의 주민: "Rift Dwellers"
+- 틈새의 악마: "Rift Demon"
+- 악마형 몬스터: "Demon-type Magic Beast"  
+- 차원의 쓰레기: "Dimensional Trash"  
+- 거대 마수: "Giant Beast"
+- 소환수: "Summoned Creatures"
+- 무덤 거미 아라크네: "Tomb Spider Arachne"
+- 보랏빛 넝쿨: "Purple Vine"
+- 하늘의 병사들: "Soldiers of Heaven"
+- 지배자들의 병사: "Soldiers of the Rulers"  
+- 데스나이트: "Death Knight" (male)
+; }
+
+---
+
+### 18. Shadow Ranks {
+- 일반 등급: "Common Grade"
+- 정예 등급: "Elite Grade"  
+- 정예기사 등급: "Elite Knight Grade"
+- 장군 등급: "General Grade"
+- 군단장: "Legion Commander"
+; }
+
+---
+
+### 19. Organizations/Group {
+- 공격대: "Raid Party"
+- 라디르: "Radiru" (clan/family)  
+- 악마들의 함대: "Demon Fleet"
+- 형제 사기단: "Fraud Brothers Gang"
+- 헌터스 길드: "Hunters Guild"  
+- 감시과: "Surveillance Division"
+- 중부경찰서: "Central Police Station"
+- 강력계: "Violent Crimes Division"
+- 프랑스 특수부대: "French Special Forces"  
+- 이타림의 연합군: "United Army of Itarim"
+- 유진 건설: "Yujin Construction"
+- 유진 병원: "Yujin Hospital"
+- 아진 소프트: "Ajin Soft"
+- 아진 병원: "Ajin Hospital"
+- 양평 아동보호센터: "Yangpyeong Child Protection Center"  
+- 낙원의 그늘: "Shadows of Paradise"
+- 자유시장 연합: "Free Market Union"  
+- 국제 헌터 협회: "International Hunters Association"
+- 아수라 길드: "Asura Guild"
+- 백호 길드: "White Tiger Guild"
+- 헌터 관리국: "Hunter Management Bureau"
+- 미국의 헌터 관리국: "American Hunter Management Bureau"
+- 국방부가: "Department of Defense"
+- 헌터 협회: "Hunters Association"
+- 임팔 길드: "Imphal Guild"
+- 우진 길드: "Woojin Guild"
+- 사신 길드: "Fiend Guild"  
+- 청룡 길드: "Blue Dragon Guild"
+- 명성 길드: "Fame Guild"
+- 현무 길드: "Black Tortoise Guild"
+- 하이에나 길드: "Hyena Guild"
+- 스케빈저 길드: "Scavengers Guild"
+; }
+
+---
+
+### 20. Keywords {
+- 형: "hyung"
+- 수능: "College Scholastic Ability Test"  
+- 읽지 않은 메시지: "Unread Message"  
+- 헌터증: "Hunter License"
+- 자유의 여신상: "Statue of Liberty"  
+- 기본 전투력: "Basic Combat Power"  
+- 계승식: "Succession Ceremony"
+- 세계수의 생태: "Ecology of the World Tree"  
+- 엘븐우드의 생태: "Ecology of Elvenwood"  
+- 영혼이 없는 빈 그릇: "Soulless Vessel"
+- 영체: "Spiritual Body"
+- 무한한 우주: "Infinite Universe"
+- E급 헌터: "E-rank Hunter"  
+- S급: "S-rank"  
+- 급: "rank"  
+- 베르바게뜨: "Verbargette"
+- 강화 인간: "Enhanced Human"
+- 비무장지대: "Demilitarized Zone"
+- 무법지대: "Lawless Zone"
+- 뷰티풀 월드: "Beautiful World"
+- 기형종 마수: "Mutant-type Magic Beast"
+- 수목형 마수: "Plant-type Magic Beast"
+- 왜애애애애애애앵: "Bzzzzzzzzzz…"
+- 신전의: "Temple"
+- 규율: "Commandments"
+- 급: "Rank"
+- 그림자: "Shadow"
+- 신상: "Divine Statue"
+- 신격: "Divinity"
+- 필드형: "Field-type"
+- 등급: "Grade"
+- 역경을 이겨 낸 자: "One Who Overcame Adversity"
+- 전직 퀘스트: "Job Change Quest"
+- 검은 증기: "Black Steam"
+- 비각성자: "Unawakened"
+- 추출: "Extraction"
+- 노마스떼: "Namaste"
+- 외우주: "Outer Universe"
+- 추출 대상: "Extraction Target"
+- 추출 시도: "Extraction Attempt"
+- 용제의 시련-1: "Dragon Emperor’s Trial-1"
+- 거미줄: "Spider Web"
+- 레벨업: "Level up"
+- 중2병: "Middle School Syndrome"
+- 보스몹: "Boss Monster"
+- 마력: "Mana"
+- 자격: "Qualification"
+- 자경단: "Vigilante Group"
+- 잡초들: "Weeds"
+- 광룡들의 무덤: "Tomb of the Mad Dragons"
+- 종족: "Race"
+- 헌터 등록: "Hunter Registration"
+- 북한 공략: "North Korea Expedition"
+; }
+
+---
+
+#### 21. Other Character Names {
+- 성진우: "Sung Jin-Woo" (male)  
+- 주희: "Joo-Hee" (female)
+- 아바타 1호: "Avatar No. 1"
+- 데카르트: "Descartes" (male)  
+- 실험체 47호: "Test Subject No. 47" (female)
+- 실험체 13호: "Test Subject No. 13"  
+- 47번째 인형: "47th Doll" (female)
+- 김명철: "Kim Myung-Chul" (male)
+- 고건희: "Go Gun-Hee" (male)
+- 유명한: "Yoo Myung-Han" (male)
+- 추수꾼 하슬: "Harvester Haseol" (female)
+- 성수호 헌터: "Hunter Sung Suho" (male)
+- 성수호: "Sung Suho” (male)
+- 수호: "Suho” (male)
+- 트마스 아드레: "Thomas Andre” (male)
+- 류즈캉: "Liu Zhigang” (male)
+- 크리스토퍼 리드: "Christopher Reed” (male)
+- 싯다르트 밧찬: "Siddharth Bachchan" (male)
+- 김철: "Kim Cheol” (male) 
+- 로라: "Laura" (female)
+- 차해인: "Cha Hae-In” (female) 
+- 차차: "Chacha" (female)
+- 성일환: "Sung Il-Hwan” (male) 
+- 박경혜: "Park Kyung-Hye” (female) 
+- 성진아: "Sung Jin-Ah” (female) 
+- 유진호: "Yoo Jin-Ho” (male) 
+- 백미호: "Baek Miho” (female) 
+- 백윤호: "Baek Yoonho” (male) 
+- 림태규: "Lim Tae-Gyu” (male) 
+- 최종인: "Choi Jong-In” (male) 
+- 우진철: "Woo Jin-Chul” (male) 
+- 민병규: "Min Byung-Gyu” (male) 
+- 황동수: "Hwang Dongsu” (male) 
+- 황동석: "Hwang Dong-Seok" (male)
+- 한재혁: "Han Jae-Hyuk” (male) 
+- 민대석: "Min Dae-Seok” (male) 
+- 애덤 화이트는: "Adam White” (male) 
+- 잭슨: "Jackson" (male) 
+- 마누 키잘: "Manu Khizal" (male) 
+- 알리 핫산: "Ali Hassan" (male) 
+- 최하슬: "Choi Haseol" (female) 
+- 명박사: "Dr. Myung" (male)
+- 서지우 헌터: "Seo Ji-Woo" (female)
+- 현무강: "Hyeon Moo-Gang" (male)  
+- 마동욱: "Ma Dong-Wook" (male)
+- 이세환: "Lee Se-Hwan" (male)
+- 니드호그: "Nidhogg"
+- 로토: "Roto"
+- 카미쉬: "Kamish"
+- 자비에르: "Javier"
+- 유리 오를로프: "Yuri Orlov" (male)
+- 박영준: "Park Young-Joon" (male)
+- 김철수: "Kim Chul-Soo" (male)
+- 강기호: "Kang Ki-Ho" (male)
+- 박사장: "Chairman Park" (male)
+- 최사장: "Chairman Choi" (male)
+- 칸디아루: "Kandiaru"
+; }
+
+---
+
+#### 22. Location {
+- 서울시 구로구: "Guro District, Seoul"
+- 헌터 지정 병원: "Hunter Designated Hospital"
+- 페널티 존: "Penalty Zone"
+- 영체 우주: "Spirit Realm"
+- 안식의 영역: "Realm of Rest"
+- 혼의 나락: "Abyss of Souls"  
+- 악몽의 성역: "Sanctuary of Nightmares"  
+- 빌런 수용소: "Villain Detention Center"
+- 아이스 엘프들의 세계: "World of Ice Elves"  
+- 악마계: "Demon Realm"
+- 사후의 바다: "Sea of the Afterlife"
+- 낙원 도시: "Paradise City"  
+- 구룡채: "Kowloon Walled City"
+- 지산교도소: "Jisan Prison"  
+- 파사드 아일랜드: "Facade Island"  
+- 합정역 던전: "Hapjeong Station Dungeon"  
+- 록타크 필드: "Loktak Field"  
+- 마니푸르주: "Manipur State" 
+- 마곡 필드: "Magok Field"
+; }
+
+---
+
+#### 23. Other Ranks {
+- 헌터 등급: "Hunter Rank"
+- 급: "rank"  
+- D급: "D-rank"
+- C급: "C-rank"
+- B급: "B-rank"
+- B랭크: "B-rank"  
+- A급: "A-rank"
+- S급: "S-rank"
+- 6성급 헌터: "6-star Hunter"
+- 대사제급: "High Priest-level"
+- 국가권력급 헌터: "National-level Hunter"
+- 천재지변급 재앙: "Natural Disaster-level Calamity"  
+- 천재지변급: "Natural Disaster-level"
+- 재앙급 마수: "Calamity-level Magic Beast"
+- 사도급: "Apostle-level"
+- 군단장급: "Legion Commander-level"  
+- 군주급: "Monarch-level"
+; }
+
+---
+
+#### 24. Classes {
+- 탱커: "Tanker"  
+- 딜러: "Dealer"  
+- 힐러: "Healer"  
+- 치유 헌터: "Healer-type Hunter"
+- 치유계 헌터: "Healer-type Hunter"  
+- 버퍼: "Support"  
+- 마법계 헌터: "Mage-type Hunter"  
+- 소환계 헌터: "Summoning-type Hunter"
+- 암살계: "Assassin-type"
+- 민첩형 딜러: "Agility-type"
+- 전투계 헌터: "Combat-type Hunter"
+; }
+
+---
+
+#### 25. Solo Leveling Orig {
+- 마수: "Magic Beasts"
+
+- 치유 헌터: "Healer-type Hunter"
+- 치유계 헌터: "Healer-type Hunter"  
+- 마법계열 헌터: "Mage-type Hunter"
+
+- 보스급 골렘: "Boss-level Golem"
+- 벌레형 마수: "Insect-type Magic Beast"  
+- 짐승형 마수: "Beast-type Magic Beast"
+- 골렘형 마수: "Golem-type Magic Beast"
+
+- 마력 측정기: "Mana Measuring Device"
+- 국가 권력급: "National-level"
+- 국가권력급: "National-level"
+- 국가권력급 헌터: "National-level Hunter"
+- 무력한 자의 용기: "The Courage of the Weak"
+- 카르테논 신전의 규율: "The Commandments of Karthenon Temple"
+- 신께 경배하라: "Worship the God"
+- 신께 찬양하라: "Praise the God"
+- 신앙심을 증명하라: "Prove your faith"
+- 룬 문자: "Runic Script"
+- 카사카의 독니: "Kasaka’s Venom Fang"
+
+- 조규환: "Jo Gyu-Hwan" (male)  
+- 규환: "Gyu-Hwan" (male)  
+- 준태: "Jun-Tae" (male)  
+- 석민: "Seok-Min" (male)  
+- 이철진: "Lee Cheol-Jin" (male)
+- 철진: "Cheol-Jin" (male)  
+
+- 재심사: "Re-evaluation"
+- 진아: "Jin-Ah" (female)
+- 레벨 업 능력: "Leveling Up Ability"
+- 강철검: "Steel Sword"
+- 이한수: "Lee Han-Soo" (male)
+- 헌터 시스템: "Hunter System"
+- 군부대: "Military Unit"
+- 늑대 이빨: "Wolf Fang"
+- 라이칸: "Lycan"
+- 독이빨 거대 모래지네: "Venom-Fanged Giant Sand Centipede"
+- 칼날 손톱 브리가: "Blade Claw Briga"
+- 검은 그림자 라잔: "Black Shadow Razan"
+- 늑대 학살자: "Wolf Slayer"
+- 라이칸의 송곳니: "Lycan's Fang"
+- 강철 이빨 라이칸: "Steel-Fanged Lycan"
+
+- 성진우 헌터: "Hunter Sung Jin-Woo" (male)
+- 성진우 씨: "Mr. Sung Jin-Woo" (male)
+- 성진우: "Sung Jin-Woo" (male)  
+- 진우: "Jin-Woo" (male)
+- 성 씨: "Mr. Sung" (male)
+
+- 이주희: "Lee Joo-Hee" (female)
+- 주희: "Joo-Hee" (female)
+
+- 김상식의: "Kim Sang-Shik" (male)
+- 김 씨: "Mr. Kim" (male)
+
+- 오 씨: "Mr. Oh" (male)
+- 박 씨: "Mr. Park" (male)
+- 송 씨: "Mr. Song" (male)
+- 주 씨: "Mr. Joo" (male)  
+
+- 최종인 헌터: "Hunter Choi Jong-In" (male)
+
+- 최유라: "Choi Yoora" (female)
+- 요라: "Yoora" (female)
+
+- 팔굽혀 펴기: "Push-ups"
+- 윗몸 일으키기: "Sit-ups"
+- 스쿼트: "Squats"
+- 달리기: "Running"
+
+- 근성: "Endurance"
+- 질주: "Dash"
+
+- 김상식의 강철검: "Kim Sang-Sik's Steel Sword"
+; }
+
+---
+
+#### 26. System {
+- 레벨이 올랐습니다: "You leveled up" (level has increased)
+- 미확인: "Unconfirmed"
+- 확인 완료: "Confirmed"
+- 시크릿 퀘스트: "Secret Quest"
+- 인벤토리: "Inventory"
+- 메시지창: "Message Window"
+- 일일 퀘스트: "Daily Quest"
+- 페널티: "Penalty"  
+- 페널티 퀘스트: "Penalty Quest"
+- 체력: "Health"
+- 피해: "Damage"
+- 레벨업 시스템: "Leveling Up System"  
+- 시스템: "System"
+- 차원 좌표계: "Dimensional Coordinate System"
+- 이동 속도: "Movement Speed"
+- 초보 캐릭터: "Beginner Character"
+- 정보창: "Information Window"
+- 상태 회복: "Status Recovery"
+- 능력치 포인트: "Stat Points"
+- 랜덤 박스: "Random Box"
+- 보상: "Reward"
+- 레벨: "Level"
+- 직업: "Job"
+- 칭호: "Title"
+- 피로도: "Fatigue"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 스킬: "Skills"
+- 패시브 스킬: "Passive Skill"
+- 액티브 스킬: "Active Skill"
+; }
+

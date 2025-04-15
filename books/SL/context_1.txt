@@ -1,0 +1,643 @@
+### 1. Story/Novel {
+- 나 혼자만 레벨업: "solo leveling"
+}
+
+---
+
+#### 2. Main Character {
+- 성진우 헌터: "Hunter Sung Jin-Woo" (male)
+- 성진우 보조: "Assistant Sung Jin-Woo" (male)
+- 성진우 씨: "Mr. Sung Jin-Woo" (male)
+- 성진우: "Sung Jin-Woo" (male)  
+- 진우: "Jin-Woo" (male)
+- 성 씨: "Mr. Sung" (male)
+}
+
+#### 3. System {
+- 요구 시간: "Required Time"
+- '플레이어'가 요구 레벨에 도달했습니다: "'Player' has reached the rerquired level."
+- 붉은색 이름: "Red Name"
+- 전직 퀘스트: "Job Change Quest"
+- 널티 퀘스트: "Nullity Quest"
+- 필요 마나: "Mana Required"
+- 추가 퀘스트 보상: "Additional Quest Reward"  
+- 플레이어: "Player"
+- 인스턴스 던전: "Instant Dungeon"
+- 인던: "Instant Dungeon"  
+- 잡동사니: "Miscellaneous Items"
+- 출입: "Access"
+- 입수 난이도: "Acquisition Difficulty"
+- 축복받은 랜덤 박스: "Blessed Random Box"  
+- 저주받은 랜덤 박스: "Cursed Random Box"  
+- 분배 가능 능력치 포인트: "Available Stat Points"
+- HP: "HP"  
+- MP: "MP"  
+- 능력치: "Stats"
+- 처치해야 할 적의 숫자: "Number of Enemies to Defeat"
+- 처치한 적의 숫자: "Number of Enemies Defeated"
+- 레벨이 올랐습니다: "You leveled up"
+- 적들 처치: "Defeat the Enemies"  
+- 상점: "Shop"
+- 구매: "Purchase"
+- 골드: "Gold"
+- 경험치: "Experience Points"  
+- 강자가 되기 위한 준비: "Preparation to Become Stronger"  
+- 읽지 않은 메시지: "Unread Message"  
+- 레벨업: "Level up"
+- 페널티 존: "Penalty Zone"
+- 무력한 자의 용기: "The Courage of the Weak"
+- 레벨 업 능력: "Leveling Up Ability"
+- 팔굽혀 펴기: "Push-ups"
+- 윗몸 일으키기: "Sit-ups"
+- 스쿼트: "Squats"
+- 달리기: "Running"
+- 미확인: "Unconfirmed"
+- 확인 완료: "Confirmed"
+- 시크릿 퀘스트: "Secret Quest"
+- 인벤토리: "Inventory"
+- 창고: "Inventory"
+- 메시지창: "Message Window"
+- 일일 퀘스트: "Daily Quest"
+- 페널티: "Penalty"  
+- 페널티 퀘스트: "Penalty Quest"
+- 체력: "Health"
+- 피해: "Damage"
+- 레벨업 시스템: "Leveling Up System"  
+- 시스템: "System"
+- 차원 좌표계: "Dimensional Coordinate System"
+- 이동 속도: "Movement Speed"
+- 초보 캐릭터: "Beginner Character"
+- 정보창: "Information Window"
+- 상태 회복: "Status Recovery"
+- 능력치 포인트: "Stat Points"
+- 랜덤 박스: "Random Box"
+- 보상: "Reward"
+- 레벨: "Level"
+- 직업: "Job"
+- 칭호: "Title"
+- 피로도: "Fatigue"
+- 스탯: "Stats"
+- 근력: "Strength"
+- 체력: "Stamina"
+- 민첩: "Agility"
+- 지능: "Intelligence"
+- 감각: "Senses"
+- 스킬: "Skills"
+- 패시브 스킬: "Passive Skill"
+- 액티브 스킬: "Active Skill"
+}
+
+---
+
+#### 4. MC Skills {
+- 탐지의 시선: "Gaze of Detection"
+- 지배자의 손길: "Dominator's Touch"  
+- 해독 버프: "Detoxification Buff"  
+- 급소 찌르기: "Vital Strike"
+- 상급 단검술: "Advanced Dagger Technique"
+- 은신: "Stealth"  
+- 즉사: "Instant Death"  
+- 물리 데미지 감소: "Physical Damage Reduction"  
+- 카사카의 철갑 비늘: "Kasaka’s Iron Scale"  
+- 무병장수: "Longevity"  
+- 재활의 의지: "Will to Recover"  
+- 해독: "Detoxification"
+- 살기: "Killing Intent"  
+- 이동 속도: "Movement Speed"  
+- 근성: "Tenacity"
+- 질주: "Dash"
+}
+
+---
+
+#### 5. Shadow Rank {
+- 일반 등급: "Normal Grade"
+- 정예 등급: "Elite Grade"  
+- 정예기사 등급: "Elite Knight Grade"
+- 장군 등급: "General Grade"
+- 군단장: "Legion Commander"
+}
+
+---
+
+#### 6. Shadow Soldiers {
+- 그림자 병사: "Shadow Soldiers"
+- 그림자 군단: "Shadow Army"  
+- 불사의 군단: "Undead Legion"
+- 기사단장 핏빛의 이그리트: "Knight Commander, Blood Red Igris"  
+- 핏빛의 이그리트: "Blood Red Igris" (male)
+- 이그리트: "Igris" (male) 
+- 아이언: "Iron" (male)
+- 베르: "Beru" (male)
+- 그림자 비룡 카이셀: "Shadow Wyvern Kaisel" (male)
+- 카이셀: "Kaisel" (male)
+- 그리드: "Greed" (male)
+- 벨리온: "Bellion" (male)  
+}
+
+---
+
+#### 7. S-Rank Hunters {
+- 유리 오를로프: "Yuri Orlov" (male)
+- 최종인 헌터: "Hunter Choi Jong-In" (male)
+- 최종인: "Choi Jong-In” (male) 
+- 차해인: "Cha Hae-In” (female) 
+- 백윤호: "Baek Yoonho” (male) 
+- 마동욱: "Ma Dong-Wook" (male)
+- 림태규: "Lim Tae-Gyu” (male) 
+- 민병규: "Min Byung-Gyu” (male) 
+- 은석: "Eunseok" (male)
+- 민대석: "Min Dae-Seok” (male) 
+}
+
+---
+
+#### 8. National-Level Hunters {
+- 트마스 아드레: "Thomas Andre” (male)
+- 류즈캉: "Liu Zhigang” (male)
+- 크리스토퍼 리드: "Christopher Reed” (male)
+- 싯다르트 밧찬: "Siddharth Bachchan" (male)
+- 조나스: "Jonas" (male)
+- 고건희: "Go Gun-Hee" (male)
+- 성일환: "Sung Il-Hwan” (male)
+}
+
+#### 9. Non-Villain Characters {
+- 조규환: "Jo Gyu-Hwan"  
+- 봉고: "Bongo" (horse)
+- 과장 안상민: "Section Chief Ahn Sang-Min" (male)
+- 안 과장님: "Section Chief Ahn" (male)  
+- 안상민: "Ahn Sang-Min" (male)
+- 현기철: "Hyun Gi-Chul" (male)
+- 현 대리: "Deputy Hyun" (male)
+- 김선달: "Kim Seon-Dal" (male)
+- 윤귀원: "Yoon Gwi-Won" (male)
+- 그레도스 씨: "Mr. Gredos" (male)  
+- 유명한: "Yoo Myung-Han" (male)
+- 인석: "In-Seok" (male)  
+- 우진철: "Woo Jin-Chul” (male) 
+- 이주희: "Lee Joo-Hee" (female)
+- 주희: "Joo-Hee" (female)
+- 김상식의: "Kim Sang-Shik" (male)
+- 김 씨: "Mr. Kim" (male)
+- 오 씨: "Mr. Oh" (male)
+- 박 씨: "Mr. Park" (male)
+- 송치열: "Song Chi-Yeol" (male)  
+- 치열: "Chi-Yeol" (male)  
+- 송 씨 아저씨: "Mr. Song" (male)  
+- 송 씨: "Mr. Song" (male)
+- 주 씨: "Mr. Joo" (male)  
+- 이한수: "Lee Han-Soo" (male)
+- 최유라: "Choi Yoora" (female)
+- 요라: "Yoora" (female)
+- 성진아: "Sung Jin-Ah” (female) 
+- 진아: "Jin-Ah" (female)
+- 박경혜: "Park Kyung-Hye” (female) 
+- 서지우 헌터: "Seo Ji-Woo" (female)
+- 로라: "Laura" (female)
+- 애덤 화이트는: "Adam White” (male) 
+}
+
+---
+
+#### 10. Villain Characters {
+- 강태식 헌터: "Hunter Kang Tae-Shik" (male)
+- 강태식: "Kang Tae-Shik" (male)  
+- 칸디아루: "Kandiaru" (male)  
+- 진석: "Jin-Seok" (male)
+- 황동석: "Hwang Dong-Seok" (male)
+- 동석이 형: "Dong-Seok hyung" (male)  
+- 황 형: "Hwang hyung" (male)
+- 조규환: "Jo Gyu-Hwan" (male)  
+- 규환: "Gyu-Hwan" (male)  
+- 박준태: "Park Jun-Tae" (male)
+- 준태: "Jun-Tae" (male)  
+- 석민: "Seok-Min" (male)  
+- 이철진: "Lee Cheol-Jin" (male)
+- 철진: "Cheol-Jin" (male)  
+- 김철: "Kim Cheol” (male) 
+- 황동수: "Hwang Dongsu” (male)
+}
+
+---
+
+#### 11. Magic Beasts {
+- 인간형 몬스터: "Humanoid Monster"  
+- 보스몹: "Boss Monster"
+- 리자드맨 창병: "Lizardman Spearman"
+- 리자드맨 주술사: "Lizardman Shaman"  
+- 리자드맨: "Lizardman"  
+- 붉은색 몬스터: "Red Monster"
+- 좀비: "Zombie"  
+- 홉고블린 보스: "Hobgoblin Boss"  
+- 홉고블린: "Hobgoblin"
+- 고블린 보스: "Goblin Boss"  
+- 고블린 대장: "Goblin Leader"  
+- 고블린 개들: "Goblin Minions"  
+- 고블린들: "Goblins"  
+- 거대 지네: "Giant Centipede"
+- 켈베로스: "Cerberus"
+- 몬스터: "Monster"  
+- 카사카: "Kasaka"  
+- 거미: "Spider"  
+- 카미쉬: "Kamish"
+- 독이빨 거대 모래지네: "Venom-Fanged Giant Sand Centipede"
+- 칼날 손톱 브리가: "Blade Claw Briga"
+- 검은 그림자 라잔: "Black Shadow Razan"
+- 강철 이빨 라이칸: "Steel-Fanged Lycan"
+- 라이칸: "Lycan"
+}
+
+#### 12. Magic Beast Types {
+- 짐승: "Beast"  
+- 벌레: "Insect"
+- 벌레들: "Insects"
+- 보스급 골렘: "Boss-level Golem"
+- 곤충형: "Insect-type"
+- 벌레형 마수: "Insect-type Magic Beast"  
+- 짐승형 몬스터: "Beast-type Monster"
+- 짐승형 마수: "Beast-type Magic Beast"
+- 골렘형 마수: "Golem-type Magic Beast"
+- 마수: "Magic Beasts"
+}
+
+---
+
+#### 13. Races/Humans {
+
+}
+
+---
+
+#### 14. Weapons/Defense {
+- 중장갑: "Heavy Armor"  
+- 건틀릿: "Gauntlet"  
+- 붉은 기사의 투구: "Crimson Knight's Helmet"  
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"  
+- 상급 기사의 흉갑: "High-rank Knight's Breastplate"
+- 상급 기사의 흉감: "High-rank Knight's Breastplate"
+- 상급 기사의 건틀릿: "High-rank Knight's Gauntlet"
+- 중급 자객의 신발: "Mid-rank Assassin's Boots"
+- 하급 궁수의 장갑: "Low-rank Archer's Gloves"
+- 상급 마법사의 반지: "High-rank Mage's Ring"
+- 가죽옷: "Leather Clothes"  
+- 방어구: "Armor"
+- 갑옷: "Armor"  
+- 장갑: "Armor"  
+- 투구: "Helmet"  
+- 창: "Spear"
+-  방망이: "Wooden Club"  
+- 나무칼: "Wooden Sword"  
+- 장검: "Longsword" 
+- 칼리온': "Calion"  
+- 로열 시리즈 방패: "Royal Series Shield"  
+- 단검: "Dagger"  
+- 검: "Sword"  
+- 방패: "Shield"  
+- 채굴 장비: "Mining Equipment"  
+- 카사카의 독니: "Kasaka’s Venom Fang"
+- 김상식의 강철검: "Kim Sang-Shik's Steel Sword"
+- 강철검: "Steel Sword"
+- 늑대 이빨: "Wolf Fang"
+- 라이칸의 송곳니: "Lycan's Fang"
+}
+
+---
+
+#### 15. Artifacts/Devices/items {
+- 미지근한 물이 담긴 수통: "Lukewarm Water Canteen"
+- 가죽 주머니: "Leather Pouch"  
+- 힐링 포션: "Healing Potion"
+- 아티팩트: "Artifact"
+- 마나 포션: "Mana Potion"
+- 포션: "Potion"
+- 파수꾼의 목걸이: "Gatekeeper’s Necklace"  
+- 악마성의 열쇠: "Demon Castle Key"
+- 인던 열쇠: "Instant Dungeon Key"
+- 인던열쇠: "Instant Dungeon Key"  
+- 켈베로스의 어금니: "Cerberus's Fang"
+- 헌터 폰: "Hunter Phone"  
+- 카사카의 독샘: "Kasaka’s Venom Sac"
+- 마력 측정기: "Mana Measuring Device"
+- 독니: "Venom Fang"  
+}
+
+---
+
+#### 16. Hunter Class {
+- 자객: "Assassin"  
+- 마법사: "Mage"  
+- 시전자: "Caster"
+- 힐러: "Healer"
+- 탱커: "Tanker"
+- 딜러: "Dealer"
+- 버퍼: "Support"
+- 치유계열 헌터: "Healer-type Hunter"  
+- 치유 헌터: "Healer-type Hunter"
+- 치유계 헌터: "Healer-type Hunter"  
+- 마법계 헌터: "Mage-type Hunter"  
+- 마법계열 헌터: "Mage-type Hunter"
+- 마법 계열 헌터: "Mage-type Hunter"  
+- 암살 클래스: "Assassin Class"
+- 암살형 헌터: "Assassin-type Hunter"  
+- 상급 헌터: "High-rank Hunter"  
+- 하급 헌터: "Low-rank Hunter"  
+- 전투 계열: "Combat-type"  
+- 전투계열 헌터: "Combat-type Hunter"  
+- 비전투 멤버: "Non-combat Member"  
+- 비전투계열: "Non-combat type"  
+- 짐꾼: "Porter"
+}
+
+---
+
+#### 17. Mana Rank {
+- 급: "rank"  
+- D급: "D-rank"
+- C급: "C-rank"
+- B급: "B-rank"
+- B랭크: "B-rank"  
+- A급: "A-rank"
+- S급: "S-rank"
+- 6성급 헌터: "6-star"
+- 국가 권력급: "National-level"
+- 국가권력급: "National-level"
+}
+
+---
+
+#### 18. Titles/Alias {
+- 기사 죽이기: "Knight Slayer"  
+- 기사단장: "Knight Commander"
+- 사냥꾼: "Hunter"
+- 헌터: "Hunter"  
+- 영입 스페셜리스트: "Recruitment Specialist"  
+- 창병: "Spearmen"
+- 주술사: "Sorcerer"
+- 재각성 헌터: "Re-awakened Hunter"  
+- 프리랜서 헌터: "Freelance Hunter"  
+- 각성자: "Awakener"  
+- 재각성자: "Re-awakener"  
+- 신입 스카우트: "New Recruit Scout"
+- 선배: "Senior"
+- 동생: "Junior"
+- 재벌 2세: "Second-generation Chaebol"  
+- 인류 최약병기: "Humanity's Weakest Weapon"
+- 지옥의 수문장: "Gatekeeper of Hell"
+- 대주술사: "Great Sorcerer" 
+- 부정 등록자: "Illegal Registrant"  
+- 늑대 학살자: "Wolf Slayer"
+- <name> 형: "<name> hyung"
+- 형님: "Hyung-nim"
+- 형: "Hyung"
+}
+
+---
+
+#### 19. Hunter Association {
+- 공략 허가: "Conquest Permit"
+- 제2관리과: "Second Management Division"
+- 제1관리과: "1st Management Division"
+- 비밀 유지 조항: "Confidentiality Clause"
+- 헌터인 범죄자 인도 조약: "Hunter Criminal Extradition Treaty"
+- 보충 인원: "Supplementary Member"  
+- 조사과 직원: "Investigation Department Staff"  
+- 협회 직원: "Association Staff"  
+- 협회: "Association"  
+- 협회 상부: "Association Upper Management"  
+- 감시과 헌터: "Surveillance Division Hunter"  
+- 구인 게시판: "Recruitment Board"
+- 협회 지부: "Association Branch"  
+- 길드 마스터 면허: "Guild Master License"
+- 길드장 면허: "Guild Master License"  
+- 동원령: "Mobilization Order"
+- 협회 조사과: "Association Investigation Department"  
+- 헌터 시스템: "Hunter System"
+- 헌터증: "Hunter License"
+- 감시과: "Surveillance Division"
+- 등급 재심사: "Rank Re-evaluation"  
+- 재심사: "Re-evaluation"
+}
+
+---
+
+#### 20. Locations/establishments/websites {
+- 헌터 사이트: "Hunter Website"
+- 협회 사이트: "Association Website"  
+- 공식 사이트: "Official Website"  
+- 미래 백화점: "Mirai Department Store"
+- 대동강: "Taedong River"
+- 북미: "North America"
+- 미국 동부: "Eastern United States"
+- 서울시 구로구: "Guro District, Seoul"
+- 제주도: "Jeju Island"
+- 송파구: "Songpa District"
+- 대성 타워: "Daesung Tower"
+- 악마성: "Demon Castle"
+- 길드 사무실: "Guild Office"  
+- 지하 신전: "Underground Temple"  
+- 헌터 지정 병원: "Hunter Designated Hospital"
+}
+
+---
+
+#### 21. Guilds {
+- 5대 길드: "Five Major Guilds"  
+- 헌터스 길드: "Hunters Guild"  
+- 백호 길드: "White Tiger Guild"
+- 명성 길드: "Fame Guild"
+- 사신 길드: "Fiend Guild"  
+- 기사단 길드: "Knight Guild"  
+- 스케빈저 길드: "Scavengers Guild"
+- 아수라 길드: "Asura Guild"
+- 이태리 장인 길드: "Italian Craftsmen Guild"  
+}
+
+---
+
+#### 22. Organizations {
+- 유진: "Yoojin"  
+- 5대 길드: "Five Major Guilds"
+- 마야 사: "Maya Corporation"  
+- 유진건설: "Yoojin Construction"
+- 개인 공격대: "Private Raid Party"
+- 헌터 협회: "Hunters Association"
+- 공격대: "Raid Party"
+- 고스톱팀: "Go-Stop Team"
+}
+
+---
+
+#### 23. Substances {
+- 마나: "Mana"
+- 야광석: "Luminous Stone"  
+- 마나석: "Mana Crystals" (minerals inside gates)
+- E급 마정석: "E-rank Essence Stone"
+- C급 마정석: "C-rank Essence Stone"
+- 마정석: "Essence stones"
+- 룬석: "Rune stone"
+- 귀환석: "Return Stone"
+- 즉시 귀환석: "Instant Return Stone"  
+}
+
+---
+
+### 24. Godly Beings {
+- 절대자: "Absolute Being" (neutral)
+- 군주: "Monarchs"
+- 지배자들: "Rulers"
+- 태초의 어둠: "Primordial Darkness"
+- 처음에는 빛: "Primordial Light
+}
+
+---
+
+#### 25. Monarch Titles {
+- 그림자의 군주: "Monarch of Shadows"
+- 파멸의 군주: "Monarch of Destruction"
+- 환계의 군주: "Monarch of Transfiguration"
+- 백염의 군주: "Monarch of White Flames"
+- 강철의 군주: "Monarch of Iron Body"
+- 역병의 군주: "Monarch of Plagues"
+- 짐승의 군주: "Monarch of Beastly Fangs"
+- 시초의 군주: "Monarch of the Beginning"
+- 혹한의 군주: "Monarch of Frost"
+- 서릿발의 군주: "Monarch of Frost"
+}
+
+#### 26. Other Monarch Titles {
+- 마령들의 왕: "King of Demonic Spirit"
+- 거인들의 왕: "King of Giants"
+- 설인들의 왕: "King of Snow Folks"
+- 곤충들의 여왕: "Queen of Insects"
+- 벌레들의 왕: "Queen of Insects"
+- 야수들의 왕: "King of Beasts"
+- 짐승들의 왕: "King of Beasts"
+- 악마들의 왕: "King of Demons"
+- 마왕: "Demon King"
+- 용들의 왕: "King of Dragons"
+- 광룡들의 왕: "King of Dragons"
+- 용제: "Dragon Emperor"
+- 마수들의 왕: "King of Monstrous Humanoids"
+- 요인들의 왕: "King of Monstrous Humanoids"
+- 죽음의 왕: "King of Death"
+}
+
+---
+
+### 27. Monarchs Names {
+- 아스본: "Ashborn" (male)
+- 안타레스: "Antares" (male)
+- 바란: "Baran" (male)
+- 라칸: "Rakan" (male)
+- 타르나크: "Tarnak" (male)
+- 레기아: "Legia" (male)
+- 퀘레샤: "Querehsha" (female)
+- 요그문트: "Yogumunt" (male)
+- 실라드: "Silad" (male)
+}
+
+---
+
+#### 28. MC Confidants {
+- 에실 라디루: "Esil Radiru" (female)
+- 유진호 대장: "Captain Yoo Jin-Ho" (male)
+- 유진호: "Yoo Jin-Ho” (male) 
+}
+
+---
+
+#### 29. Leadership Roles {
+- 사장님: "Chairman"  
+- 제2관리과의 보스: "Second Management Division Boss"  
+- 대리: "Deputy"  
+- 대장: "Captain"
+- 보조: "Assistant"
+- 감시과 과장: "Surveillance Division Section Chief"  
+- 금강실업 사장님: "Chairman of Geumgang Industries" (male)
+- 공대장: "Raid Leader"  
+- 마스터: "Master"
+- 부마스터: "Vice-Master"
+- 길드 마스터: "Guild Master"  
+- 과장: "Section Chief"
+- 직원: "Staff"
+- 회장님: "Chairman"
+- 국내 굴지 기업 회장님: "Chairman of a Leading Domestic Company"  
+- 리더: "Leader"  
+- 팀원: "Team Member"  
+- 보충 멤버: "Replacement Member"  
+}
+
+---
+
+#### 30. Other Skills {
+- 섬광 마법: "Flash Magic"  
+- 화염구: "Fireball"  
+- 치료 마법: "Healing Magic"  
+- 힐링 마법: "Healing Magic"
+- 분노: "Rage"  
+- 저항력: "Resistance"
+- 강화 스킬: "Reinforcement Skill"  
+- 이동 속도: "Movement Speed"  
+- 어글: "Aggro"
+- 도발 스킬: "Provocation Skill"
+}
+
+---
+
+#### 31. Effects {
+- 독성: "Toxicity"  
+- 버프: "Buff" 
+- 축복: "Blessing"  
+- 공포: "Fear"
+}
+
+---
+
+#### 32. Phenomenon {
+- 마력 파동: "Mana Wave"  
+- 익면증: "Eternal Slumber"
+- 재각성: "Re-awakening"
+- 차원의 문: "Gates"
+}
+
+
+---
+
+#### 33. Dungeon {
+- 악마성 던전: "Demon Castle Dungeon"  
+- 던전: "Dungeon"
+- 던전 입구: "Dungeon Entrance"  
+- 보스방: "Boss Room"
+- 이중 던전: "Double Dungeon"
+- 합정역 던전: "Hapjeong Station Dungeon"  
+- 던전 난이도: "Dungeon Difficulty"  
+- 던전의 몬스터들: "Dungeon Monsters"  
+- 던전의 주인: "Dungeon Boss"  
+}
+
+---
+
+#### n. Keywords {
+- 기사: "Knight"  
+- 학부모 상담: "Parent-Teacher Meeting"
+- 데미지: "Damage"  
+- 공격력: "Attack Power"
+- 헌터 등급: "Hunter Rank"
+- 꼬리 자르기: " Tail-Cutting"  
+- 딜: "Attack"
+- 자유의 여신상: "Statue of Liberty"  
+- 수능: "College Scholastic Ability Test"  
+- 카르테논 신전의 규율: "The Commandments of Karthenon Temple"
+- 신께 경배하라: "Worship the God"
+- 신께 찬양하라: "Praise the God"
+- 신앙심을 증명하라: "Prove your faith"
+- 룬 문자: "Runic Script"
+- 신상: "Divine Statue"
+- 신전의: "Temple"
+- 규율: "Commandments"
+}
+
+
+#### n+1. Others {
+}

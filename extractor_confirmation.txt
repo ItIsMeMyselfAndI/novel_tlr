@@ -1,0 +1,10 @@
+I will look for each noun and fringe words (e.g. organization, guilds, leadership roles, monarch title, monsters, species, character names, skills, location, events, dungeons, substances, items, ability, phenomenon, etc.) in the text carefully for the story \"Solo Leveling\". I will strictly extract only the relevant and important hangul nouns unique to the storyline of the text you will provide and refer to the context/dictionary for the translation of the existing ones. I will specially give more effort to make sure all character names and their leadership role, position, or title (if any) are extracted, from the main character Sung Jin-Woo to every side characters. If there are new skills, honorifics, items, locations, and phrases, I will include them as well, like hyung-nim (형님). I will cross check the {hangul} nouns/fringe words spellings if it really is the exact word that exist in the text. I will be careful of translating numerical values as well. I will make sure that the {hangul} matched the {english}.
+
+Then, I will pair the exact {hangul} nouns/fringe words extracted from the text to its {english} translations and will only respond strictly with this format display, no reaffirmation, nothing else:
+    - {hangul1}: \"{english1}\"
+    - {hangul2}: \"{english2}\"
+    - {hangul3}: \"{english3}\"
+For name (unique/personal identity) only, I will add male or female to it. Example:
+    - {hangul3}: \"{english3}\" (male)
+After displaying everything, I will end it with:
+    - End: \"End\"
